@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="fabulator:gpx-builder" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Kvennvikhøgda. Tre kommuner møtes</name>
+    <copyright author="UT.no">
+      <year>2026</year>
+      <license>http://creativecommons.org/licenses/by-nc/4.0/deed.no</license>
+    </copyright>
+    <link href="https://ut.no"></link>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="62.160292" lon="11.674347">
+        <ele>768</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.163578" lon="11.676922">
+        <ele>793</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.163578" lon="11.676922">
+        <ele>793</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.163578" lon="11.676922">
+        <ele>793</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.166384" lon="11.674175">
+        <ele>806</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.166384" lon="11.674175">
+        <ele>806</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.166384" lon="11.674175">
+        <ele>806</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.17007" lon="11.672287">
+        <ele>832</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.17007" lon="11.672287">
+        <ele>832</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.17007" lon="11.672287">
+        <ele>832</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.173596" lon="11.677608">
+        <ele>885</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.173596" lon="11.677608">
+        <ele>885</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.173596" lon="11.677608">
+        <ele>885</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.173756" lon="11.683102">
+        <ele>951</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.173756" lon="11.683102">
+        <ele>951</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.173756" lon="11.683102">
+        <ele>951</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.175439" lon="11.689453">
+        <ele>1028</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.175439" lon="11.689453">
+        <ele>1028</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.175439" lon="11.689453">
+        <ele>1028</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+      <trkpt lat="62.178163" lon="11.69529">
+        <ele>1072</ele>
+        <time>2026-10-16T06:35:54.429Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

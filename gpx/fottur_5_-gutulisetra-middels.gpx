@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="fabulator:gpx-builder" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Fottur til Gutulisetra — i Norges minste nasjonalpark</name>
+    <copyright author="UT.no">
+      <year>2026</year>
+      <license>http://creativecommons.org/licenses/by-nc/4.0/deed.no</license>
+    </copyright>
+    <link href="https://ut.no"></link>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="62.018954" lon="12.133161">
+        <ele>691</ele>
+        <time>2026-10-16T07:10:16.306Z</time>
+      </trkpt>
+      <trkpt lat="62.01798" lon="12.134891">
+        <ele>696</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.017144" lon="12.136872">
+        <ele>694</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.016401" lon="12.137062">
+        <ele>697</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.015823" lon="12.138557">
+        <ele>697</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.015669" lon="12.139331">
+        <ele>697</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.015399" lon="12.140479">
+        <ele>701</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.015337" lon="12.142026">
+        <ele>700</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.01466" lon="12.145914">
+        <ele>698</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.01426" lon="12.149247">
+        <ele>695</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.013808" lon="12.151489">
+        <ele>698</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.013393" lon="12.154561">
+        <ele>699</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.013004" lon="12.156916">
+        <ele>701</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.012956" lon="12.158203">
+        <ele>703</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.012798" lon="12.159273">
+        <ele>702</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.012778" lon="12.160229">
+        <ele>702</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.012775" lon="12.160781">
+        <ele>700</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.011398" lon="12.166917">
+        <ele>698</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.011426" lon="12.168042">
+        <ele>696</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.011827" lon="12.16928">
+        <ele>695</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.012213" lon="12.169945">
+        <ele>693</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.01253" lon="12.170883">
+        <ele>693</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.013183" lon="12.17132">
+        <ele>694</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.013669" lon="12.171306">
+        <ele>695</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.014114" lon="12.171749">
+        <ele>700</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.014444" lon="12.172892">
+        <ele>708</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.014352" lon="12.174091">
+        <ele>713</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.014373" lon="12.174759">
+        <ele>714</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.014569" lon="12.174668">
+        <ele>716</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.014962" lon="12.174562">
+        <ele>723</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.01547" lon="12.173789">
+        <ele>728</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.015886" lon="12.172039">
+        <ele>729</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.016132" lon="12.170983">
+        <ele>726</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.016526" lon="12.169929">
+        <ele>724</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+      <trkpt lat="62.017059" lon="12.168945">
+        <ele>726</ele>
+        <time>2026-10-16T07:10:16.307Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
