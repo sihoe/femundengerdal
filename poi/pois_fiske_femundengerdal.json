@@ -1,0 +1,3092 @@
+[
+  {
+    "id": "fiske-01",
+    "name": {
+      "no": "Femund"
+    },
+    "latlng": [
+      62.199367,
+      11.907022
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Harr, Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Harr",
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Femund",
+        "latlng": [
+          62.199367,
+          11.907022
+        ],
+        "coordinateSource": "Foreløpig avlest fra kart"
+      }
+    ],
+    "originalNumber": 1,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-02",
+    "name": {
+      "no": "Røvoltjønnan"
+    },
+    "latlng": [
+      62.32246,
+      12.03211
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Røvoltjønnan",
+        "latlng": [
+          62.32246,
+          12.03211
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 2,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-03",
+    "name": {
+      "no": "Nedre Røa"
+    },
+    "latlng": [
+      62.359367,
+      11.986041
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Nedre Røa",
+        "latlng": [
+          62.359367,
+          11.986041
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 3,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-04",
+    "name": {
+      "no": "Skogtjønna og Kortjønna"
+    },
+    "latlng": [
+      62.299778,
+      12.110538
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Skogtjern",
+        "latlng": [
+          62.299778,
+          12.110538
+        ],
+        "coordinateSource": "Manuelt justert"
+      },
+      {
+        "name": "Korstjern",
+        "latlng": [
+          62.314457,
+          12.066765
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 4,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-05",
+    "name": {
+      "no": "Roastsjøene"
+    },
+    "latlng": [
+      62.3249,
+      12.091049
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Harr, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Harr",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Roastsjøene",
+        "latlng": [
+          62.3249,
+          12.091049
+        ],
+        "coordinateSource": "Foreløpig avlest fra kart"
+      }
+    ],
+    "originalNumber": 5,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-06",
+    "name": {
+      "no": "Grøtåa"
+    },
+    "latlng": [
+      62.28215,
+      12.13065
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret."
+    },
+    "fishSpecies": [
+      "Ørret"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Grøtåa",
+        "latlng": [
+          62.28215,
+          12.13065
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 6,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-07",
+    "name": {
+      "no": "Øvre Røa"
+    },
+    "latlng": [
+      62.323827,
+      12.188044
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Harr, Gjedde, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Harr",
+      "Gjedde",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Øvre Røa",
+        "latlng": [
+          62.323827,
+          12.188044
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 7,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-08",
+    "name": {
+      "no": "Storfisktjønnan"
+    },
+    "latlng": [
+      62.31812,
+      12.18955
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Harr, Gjedde, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Harr",
+      "Gjedde",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Storfisktjern",
+        "latlng": [
+          62.31812,
+          12.18955
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 8,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-09",
+    "name": {
+      "no": "Kratla"
+    },
+    "latlng": [
+      62.277507,
+      12.212334
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Kratla",
+        "latlng": [
+          62.277507,
+          12.212334
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 9,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-10",
+    "name": {
+      "no": "Store Vonsjøen"
+    },
+    "latlng": [
+      62.262534,
+      12.264674
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Store Vonsjøen",
+        "latlng": [
+          62.262534,
+          12.264674
+        ],
+        "coordinateSource": "Foreløpig avlest fra kart"
+      }
+    ],
+    "originalNumber": 10,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-11",
+    "name": {
+      "no": "Lille Vonsjøen"
+    },
+    "latlng": [
+      62.291645,
+      12.268922
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Røye, Abbor."
+    },
+    "fishSpecies": [
+      "Røye",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Lille Vonsjøen",
+        "latlng": [
+          62.291645,
+          12.268922
+        ],
+        "coordinateSource": "Foreløpig avlest fra kart"
+      }
+    ],
+    "originalNumber": 11,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-12",
+    "name": {
+      "no": "Rogen"
+    },
+    "latlng": [
+      62.3345,
+      12.25008
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Harr, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Harr",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Rogen",
+        "latlng": [
+          62.3345,
+          12.25008
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 12,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-13",
+    "name": {
+      "no": "Rønsjøen"
+    },
+    "latlng": [
+      62.204591,
+      12.161865
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Rønsjøen",
+        "latlng": [
+          62.204591,
+          12.161865
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 13,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-14",
+    "name": {
+      "no": "Revlingsjøan"
+    },
+    "latlng": [
+      62.202509,
+      12.063332
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Revlingsjøen",
+        "latlng": [
+          62.202509,
+          12.063332
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 14,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-15",
+    "name": {
+      "no": "Litle Grøvelsjøen"
+    },
+    "latlng": [
+      62.129893,
+      12.11689
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret."
+    },
+    "fishSpecies": [
+      "Ørret"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Litle Grøvelsjøen",
+        "latlng": [
+          62.129893,
+          12.11689
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 15,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-16",
+    "name": {
+      "no": "Elgåsjøen"
+    },
+    "latlng": [
+      62.12261,
+      12.0109
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Elgåsjøen",
+        "latlng": [
+          62.12261,
+          12.0109
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 16,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-17",
+    "name": {
+      "no": "Volsjøen"
+    },
+    "latlng": [
+      62.12038,
+      11.95798
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Volsjøen",
+        "latlng": [
+          62.12038,
+          11.95798
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 17,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-18",
+    "name": {
+      "no": "Hanstjønna"
+    },
+    "latlng": [
+      62.114522,
+      11.925402
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Hanstjønna",
+        "latlng": [
+          62.114522,
+          11.925402
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 18,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-19",
+    "name": {
+      "no": "Djupsjøen"
+    },
+    "latlng": [
+      62.10363,
+      12.02071
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Djupsjøen",
+        "latlng": [
+          62.10363,
+          12.02071
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 19,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-20",
+    "name": {
+      "no": "Båthussjøen"
+    },
+    "latlng": [
+      62.08889,
+      12.02061
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Båthussjøen",
+        "latlng": [
+          62.08889,
+          12.02061
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 20,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-21",
+    "name": {
+      "no": "Storbekktjønna"
+    },
+    "latlng": [
+      62.088739,
+      11.938963
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret."
+    },
+    "fishSpecies": [
+      "Ørret"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Storbekktjønna",
+        "latlng": [
+          62.088739,
+          11.938963
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 21,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-22",
+    "name": {
+      "no": "Flåtesjøen"
+    },
+    "latlng": [
+      62.07478,
+      11.95904
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret."
+    },
+    "fishSpecies": [
+      "Ørret"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Flåtesjøen",
+        "latlng": [
+          62.07478,
+          11.95904
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 22,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-23",
+    "name": {
+      "no": "Skogtjønna"
+    },
+    "latlng": [
+      62.057948,
+      11.973553
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Skogtjønna",
+        "latlng": [
+          62.057948,
+          11.973553
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 23,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-24",
+    "name": {
+      "no": "Storsjøen"
+    },
+    "latlng": [
+      62.07341,
+      12.04423
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Storsjøen",
+        "latlng": [
+          62.07341,
+          12.04423
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 24,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-25",
+    "name": {
+      "no": "Hammersjøen"
+    },
+    "latlng": [
+      62.077608,
+      12.057667
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Hammersjøen",
+        "latlng": [
+          62.077608,
+          12.057667
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 25,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-26",
+    "name": {
+      "no": "Fjellgutusjøen"
+    },
+    "latlng": [
+      62.073106,
+      12.091656
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Sik, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Sik",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Fjellgutusjøen",
+        "latlng": [
+          62.073106,
+          12.091656
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 26,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-27",
+    "name": {
+      "no": "Ytresjøen"
+    },
+    "latlng": [
+      62.057988,
+      12.093544
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Sik, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Sik",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Ytresjøen",
+        "latlng": [
+          62.057988,
+          12.093544
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 27,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-28",
+    "name": {
+      "no": "Gutua"
+    },
+    "latlng": [
+      62.035155,
+      12.118778
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Gutua",
+        "latlng": [
+          62.035155,
+          12.118778
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 28,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-29",
+    "name": {
+      "no": "Nordresjøen"
+    },
+    "latlng": [
+      62.052518,
+      12.054577
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Abbor, Sik."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Abbor",
+      "Sik"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Nordresjøen",
+        "latlng": [
+          62.052518,
+          12.054577
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 29,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-30",
+    "name": {
+      "no": "Småsjøelva"
+    },
+    "latlng": [
+      62.04336,
+      12.07852
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Småsjøelva",
+        "latlng": [
+          62.04336,
+          12.07852
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 30,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-31",
+    "name": {
+      "no": "Ytresjøen S"
+    },
+    "latlng": [
+      62.038838,
+      12.087278
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Ytresjøen S",
+        "latlng": [
+          62.038838,
+          12.087278
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 31,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-32",
+    "name": {
+      "no": "Krokåtsjøen/Krokåttjønna"
+    },
+    "latlng": [
+      62.037401,
+      11.97971
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Krokåtsjøen/Krokåttjønna",
+        "latlng": [
+          62.037401,
+          11.97971
+        ],
+        "coordinateSource": "Foreløpig avlest fra kart"
+      }
+    ],
+    "originalNumber": 32,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-33",
+    "name": {
+      "no": "Åstjønna"
+    },
+    "latlng": [
+      62.012789,
+      12.014151
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Åstjønna",
+        "latlng": [
+          62.012789,
+          12.014151
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 33,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-34",
+    "name": {
+      "no": "Rørsjøen"
+    },
+    "latlng": [
+      62.00502,
+      11.94944
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Rørsjøen",
+        "latlng": [
+          62.00502,
+          11.94944
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 34,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-35",
+    "name": {
+      "no": "Store og Litle Sorksjøen"
+    },
+    "latlng": [
+      61.97438,
+      11.998529
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Store og Litle Sorksjøen",
+        "latlng": [
+          61.97438,
+          11.998529
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 35,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-36",
+    "name": {
+      "no": "Kvemsjøen"
+    },
+    "latlng": [
+      61.958244,
+      11.977158
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Kvemsjøen",
+        "latlng": [
+          61.958244,
+          11.977158
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 36,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-37",
+    "name": {
+      "no": "Gutulisjøen"
+    },
+    "latlng": [
+      62.0238,
+      12.13559
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Gutulisjøen",
+        "latlng": [
+          62.0238,
+          12.13559
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 37,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-38",
+    "name": {
+      "no": "Nedre Gutua"
+    },
+    "latlng": [
+      62.001311,
+      12.193475
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Nedre Gutua",
+        "latlng": [
+          62.001311,
+          12.193475
+        ],
+        "coordinateSource": "Foreløpig avlest fra kart"
+      }
+    ],
+    "originalNumber": 38,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-39",
+    "name": {
+      "no": "Valsjøen"
+    },
+    "latlng": [
+      62.03736,
+      12.21302
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret."
+    },
+    "fishSpecies": [
+      "Ørret"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Valsjøen",
+        "latlng": [
+          62.03736,
+          12.21302
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 39,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-40",
+    "name": {
+      "no": "Jyltingen"
+    },
+    "latlng": [
+      61.991716,
+      12.101784
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Harr, Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Harr",
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Jyltingen",
+        "latlng": [
+          61.991716,
+          12.101784
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 40,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-41",
+    "name": {
+      "no": "Ånestjønnan"
+    },
+    "latlng": [
+      61.978211,
+      12.139635
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Harr, Gjedde."
+    },
+    "fishSpecies": [
+      "Harr",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Ånestjerna",
+        "latlng": [
+          61.978211,
+          12.139635
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 41,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-42",
+    "name": {
+      "no": "Bursjøen og Skjeftsjøen"
+    },
+    "latlng": [
+      61.971,
+      12.12087
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Harr, Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Harr",
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Bursjøen og Skjeftsjøen",
+        "latlng": [
+          61.971,
+          12.12087
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 42,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-43",
+    "name": {
+      "no": "Halvorsjøen og Glen"
+    },
+    "latlng": [
+      61.9555,
+      12.115517
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Harr, Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Harr",
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Halvorsjøen og Glen",
+        "latlng": [
+          61.9555,
+          12.115517
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 43,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-44",
+    "name": {
+      "no": "Store og Litle Gunnarsjøen"
+    },
+    "latlng": [
+      61.96599,
+      12.100582
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Harr, Abbor, Gjedde, Sik."
+    },
+    "fishSpecies": [
+      "Harr",
+      "Abbor",
+      "Gjedde",
+      "Sik"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Store og Litle Gunnarsjøen",
+        "latlng": [
+          61.96599,
+          12.100582
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 44,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-45",
+    "name": {
+      "no": "Skjærvagssjøene"
+    },
+    "latlng": [
+      61.927239,
+      12.173195
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Harr, Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Harr",
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Skjærvagssjøene",
+        "latlng": [
+          61.927239,
+          12.173195
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 45,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-46",
+    "name": {
+      "no": "Valsjøen v/Lillebo"
+    },
+    "latlng": [
+      61.880673,
+      12.161608
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Abbor, Gjedde, Mort."
+    },
+    "fishSpecies": [
+      "Abbor",
+      "Gjedde",
+      "Mort"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Valsjøen v/Lillebo",
+        "latlng": [
+          61.880673,
+          12.161608
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 46,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-47",
+    "name": {
+      "no": "Vurrusjøen"
+    },
+    "latlng": [
+      61.87364,
+      12.10204
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Sik, Gjedde, Abbor, Mort."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Sik",
+      "Gjedde",
+      "Abbor",
+      "Mort"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Vurrusjøen",
+        "latlng": [
+          61.87364,
+          12.10204
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 47,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-48",
+    "name": {
+      "no": "Drevsjøen"
+    },
+    "latlng": [
+      61.89,
+      12.01361
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Sik, Gjedde, Abbor, Mort."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Sik",
+      "Gjedde",
+      "Abbor",
+      "Mort"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Drevsjøen",
+        "latlng": [
+          61.89,
+          12.01361
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 48,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-49",
+    "name": {
+      "no": "Sørsjøen"
+    },
+    "latlng": [
+      61.88615,
+      11.97044
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Sik, Gjedde, Abbor, Mort."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Sik",
+      "Gjedde",
+      "Abbor",
+      "Mort"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Sørsjøen",
+        "latlng": [
+          61.88615,
+          11.97044
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 49,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-50",
+    "name": {
+      "no": "Kvisla – Hytteelva"
+    },
+    "latlng": [
+      61.870578,
+      12.001104
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Kvisla – Hytteelva",
+        "latlng": [
+          61.870578,
+          12.001104
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 50,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-51",
+    "name": {
+      "no": "Kvisleflået"
+    },
+    "latlng": [
+      61.788206,
+      12.124091
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Kvisleflået",
+        "latlng": [
+          61.788206,
+          12.124091
+        ],
+        "coordinateSource": "Foreløpig avlest fra kart"
+      }
+    ],
+    "originalNumber": 51,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-52",
+    "name": {
+      "no": "Langsjøen"
+    },
+    "latlng": [
+      62.1647,
+      11.593323
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Langsjøen",
+        "latlng": [
+          62.1647,
+          11.593323
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 52,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-53",
+    "name": {
+      "no": "Sømåa"
+    },
+    "latlng": [
+      62.09282,
+      11.66936
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Sømåa",
+        "latlng": [
+          62.09282,
+          11.66936
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 53,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-54",
+    "name": {
+      "no": "Århovdtjønna og Kultjønna"
+    },
+    "latlng": [
+      62.065669,
+      11.759748
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Århovdtjern og Kuletjern",
+        "latlng": [
+          62.065669,
+          11.759748
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 54,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-55",
+    "name": {
+      "no": "Sømåkvolvet"
+    },
+    "latlng": [
+      62.005981,
+      11.69589
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Abbor"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Sømåkvolvet",
+        "latlng": [
+          62.005981,
+          11.69589
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 55,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-56",
+    "name": {
+      "no": "Gløten og Gløta"
+    },
+    "latlng": [
+      61.933863,
+      11.863518
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Gløten og Gløta",
+        "latlng": [
+          61.933863,
+          11.863518
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 56,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-57",
+    "name": {
+      "no": "Isterfossen, Galthåen"
+    },
+    "latlng": [
+      61.9098,
+      11.77737
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Isterfossen, Galthåen",
+        "latlng": [
+          61.9098,
+          11.77737
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 57,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-58",
+    "name": {
+      "no": "Galtstrømmen Galtsjøen"
+    },
+    "latlng": [
+      61.88399,
+      11.736317
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Galtstrømmen Galtsjøen",
+        "latlng": [
+          61.88399,
+          11.736317
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 58,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-59",
+    "name": {
+      "no": "Femundselva"
+    },
+    "latlng": [
+      61.763135,
+      11.641388
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Femundselva",
+        "latlng": [
+          61.763135,
+          11.641388
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 59,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-60",
+    "name": {
+      "no": "Nordre og Søndre Holtjønna"
+    },
+    "latlng": [
+      61.855542,
+      11.762323
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Nordre og Søndre Hulltjern",
+        "latlng": [
+          61.855542,
+          11.762323
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 60,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-61",
+    "name": {
+      "no": "Østre og Nordre Vikbutjønna"
+    },
+    "latlng": [
+      61.782844,
+      11.669755
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Østre og Nordre Vikbutjønna",
+        "latlng": [
+          61.782844,
+          11.669755
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 61,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-62",
+    "name": {
+      "no": "Elvsætertjønna"
+    },
+    "latlng": [
+      61.775792,
+      11.640851
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Elvsætertjønna",
+        "latlng": [
+          61.775792,
+          11.640851
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 62,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-63",
+    "name": {
+      "no": "Bjørbekktjønna"
+    },
+    "latlng": [
+      61.785522,
+      11.714194
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Bjørbekktjønna",
+        "latlng": [
+          61.785522,
+          11.714194
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 63,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-64",
+    "name": {
+      "no": "Volltjønna"
+    },
+    "latlng": [
+      61.781119,
+      11.730137
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Volltjønna",
+        "latlng": [
+          61.781119,
+          11.730137
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 64,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-65",
+    "name": {
+      "no": "Bufjellet"
+    },
+    "latlng": [
+      62.319481,
+      11.820602
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Bufjellet",
+        "latlng": [
+          62.319481,
+          11.820602
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 65,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-66",
+    "name": {
+      "no": "Kroketttjønna"
+    },
+    "latlng": [
+      61.89875,
+      11.921883
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Røye."
+    },
+    "fishSpecies": [
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Kroketttjønna",
+        "latlng": [
+          61.89875,
+          11.921883
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 66,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-67",
+    "name": {
+      "no": "Lomtjønna"
+    },
+    "latlng": [
+      61.892159,
+      11.930637
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Abbor, Ørret, Gjedde."
+    },
+    "fishSpecies": [
+      "Abbor",
+      "Ørret",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Lomtjønna",
+        "latlng": [
+          61.892159,
+          11.930637
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 67,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-68",
+    "name": {
+      "no": "Skjerbekktjønna"
+    },
+    "latlng": [
+      61.618271,
+      11.813908
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Røye."
+    },
+    "fishSpecies": [
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Skjærbekktjern",
+        "latlng": [
+          61.618271,
+          11.813908
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 68,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-69",
+    "name": {
+      "no": "Røåstjønna"
+    },
+    "latlng": [
+      61.650282,
+      12.065392
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Røye."
+    },
+    "fishSpecies": [
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Røåstjønna",
+        "latlng": [
+          61.650282,
+          12.065392
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 69,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-70",
+    "name": {
+      "no": "Røa"
+    },
+    "latlng": [
+      61.660795,
+      12.148304
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Røa",
+        "latlng": [
+          61.660795,
+          12.148304
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 70,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-71",
+    "name": {
+      "no": "Stortjønna"
+    },
+    "latlng": [
+      61.670083,
+      12.16826
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Stortjønna",
+        "latlng": [
+          61.670083,
+          12.16826
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 71,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-72",
+    "name": {
+      "no": "Engeren"
+    },
+    "latlng": [
+      61.650119,
+      12.019043
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye, Harr, Sik, Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye",
+      "Harr",
+      "Sik",
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Engeren",
+        "latlng": [
+          61.650119,
+          12.019043
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 72,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-73",
+    "name": {
+      "no": "Engeråa"
+    },
+    "latlng": [
+      61.735509,
+      11.975613
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Engeråa",
+        "latlng": [
+          61.735509,
+          11.975613
+        ],
+        "coordinateSource": "Manuelt justert"
+      },
+      {
+        "name": "Engeråa",
+        "latlng": [
+          61.684336,
+          12.000504
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 73,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-74",
+    "name": {
+      "no": "Hyllsjøen"
+    },
+    "latlng": [
+      61.67684,
+      12.06024
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Sik."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Sik"
+    ],
+    "fishingArea": "Store Hyllsjøen",
+    "locations": [
+      {
+        "name": "Hyllsjøen",
+        "latlng": [
+          61.67684,
+          12.06024
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 74,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-75",
+    "name": {
+      "no": "Litlhyllsjøen"
+    },
+    "latlng": [
+      61.674645,
+      12.051229
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Sik."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Sik"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Litlhyllsjøen",
+        "latlng": [
+          61.674645,
+          12.051229
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 75,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-76",
+    "name": {
+      "no": "Litle Engeren"
+    },
+    "latlng": [
+      61.773437,
+      11.944993
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Abbor, Harr, Ørret, Gjedde, Sik."
+    },
+    "fishSpecies": [
+      "Abbor",
+      "Harr",
+      "Ørret",
+      "Gjedde",
+      "Sik"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Litle Engeren",
+        "latlng": [
+          61.773437,
+          11.944993
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 76,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-77",
+    "name": {
+      "no": "Blakksjøen"
+    },
+    "latlng": [
+      61.75498,
+      12.04851
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Røye."
+    },
+    "fishSpecies": [
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Blakksjøen",
+        "latlng": [
+          61.75498,
+          12.04851
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 77,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-78",
+    "name": {
+      "no": "Hognsjøen"
+    },
+    "latlng": [
+      61.7392,
+      12.09934
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Engerdal fjellstyre",
+    "locations": [
+      {
+        "name": "Hognsjøen",
+        "latlng": [
+          61.7392,
+          12.09934
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 78,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-79",
+    "name": {
+      "no": "Isteren"
+    },
+    "latlng": [
+      61.953583,
+      11.790669
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Harr, Sik, Gjedde, Abbor."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Harr",
+      "Sik",
+      "Gjedde",
+      "Abbor"
+    ],
+    "fishingArea": "Isteren fiskelag",
+    "locations": [
+      {
+        "name": "Isteren",
+        "latlng": [
+          61.953583,
+          11.790669
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 79,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-80",
+    "name": {
+      "no": "Ormutusjøen"
+    },
+    "latlng": [
+      61.997711,
+      11.713765
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Isteren fiskelag",
+    "locations": [
+      {
+        "name": "Ormutusjøen",
+        "latlng": [
+          61.997711,
+          11.713765
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 80,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-81",
+    "name": {
+      "no": "Svalsjøen"
+    },
+    "latlng": [
+      61.96492,
+      11.74716
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Abbor, Gjedde."
+    },
+    "fishSpecies": [
+      "Abbor",
+      "Gjedde"
+    ],
+    "fishingArea": "Svalsjøen",
+    "locations": [
+      {
+        "name": "Svalsjøen",
+        "latlng": [
+          61.96492,
+          11.74716
+        ],
+        "coordinateSource": "Kartverket stedsnavn – representasjonspunkt, må kontrolleres"
+      }
+    ],
+    "originalNumber": 81,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-82",
+    "name": {
+      "no": "Rønsjøen (privat)"
+    },
+    "latlng": [
+      62.197866,
+      12.185211
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Sylens private område",
+    "locations": [
+      {
+        "name": "Rønsjøen (privat)",
+        "latlng": [
+          62.197866,
+          12.185211
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 82,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  },
+  {
+    "id": "fiske-83",
+    "name": {
+      "no": "Grøvelsjøen (Norge)"
+    },
+    "latlng": [
+      62.156564,
+      12.258468
+    ],
+    "symbolType": "fiske",
+    "symbolTypes": [
+      "fiske"
+    ],
+    "texts": {
+      "no": "Fiskearter: Ørret, Røye."
+    },
+    "fishSpecies": [
+      "Ørret",
+      "Røye"
+    ],
+    "fishingArea": "Sylens private område",
+    "locations": [
+      {
+        "name": "Grøvelsjøen (Norge)",
+        "latlng": [
+          62.156564,
+          12.258468
+        ],
+        "coordinateSource": "Manuelt justert"
+      }
+    ],
+    "originalNumber": 83,
+    "reviewStatus": "checked",
+    "notes": "",
+    "source": "Fiskeguide Engerdal 2022"
+  }
+]
