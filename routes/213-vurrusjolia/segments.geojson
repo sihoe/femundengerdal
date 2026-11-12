@@ -1,0 +1,4775 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.0,
+        "sourceToKm": 0.029978,
+        "fromKm": 0.0,
+        "toKm": 0.029978,
+        "lengthKm": 0.029978,
+        "cyclingLengthKm": 0.029978,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.029212,
+            61.890189
+          ],
+          [
+            12.029483,
+            61.889952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.029978,
+        "sourceToKm": 0.059955,
+        "fromKm": 0.029978,
+        "toKm": 0.059955,
+        "lengthKm": 0.029977,
+        "cyclingLengthKm": 0.029977,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.029483,
+            61.889952
+          ],
+          [
+            12.029754,
+            61.889714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.059955,
+        "sourceToKm": 0.089933,
+        "fromKm": 0.059955,
+        "toKm": 0.089933,
+        "lengthKm": 0.029978,
+        "cyclingLengthKm": 0.029978,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.029754,
+            61.889714
+          ],
+          [
+            12.030026,
+            61.889477
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.089933,
+        "sourceToKm": 0.131845,
+        "fromKm": 0.089933,
+        "toKm": 0.131845,
+        "lengthKm": 0.041912,
+        "cyclingLengthKm": 0.041912,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.030026,
+            61.889477
+          ],
+          [
+            12.030405,
+            61.889145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.131845,
+        "sourceToKm": 0.269799,
+        "fromKm": 0.131845,
+        "toKm": 0.269799,
+        "lengthKm": 0.137954,
+        "cyclingLengthKm": 0.137954,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.030405,
+            61.889145
+          ],
+          [
+            12.030659,
+            61.88873
+          ],
+          [
+            12.030949,
+            61.888257
+          ],
+          [
+            12.03119,
+            61.887962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.269799,
+        "sourceToKm": 0.299777,
+        "fromKm": 0.269799,
+        "toKm": 0.299777,
+        "lengthKm": 0.029978,
+        "cyclingLengthKm": 0.029978,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.03119,
+            61.887962
+          ],
+          [
+            12.031395,
+            61.88771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.299777,
+        "sourceToKm": 0.339432,
+        "fromKm": 0.299777,
+        "toKm": 0.339432,
+        "lengthKm": 0.039655,
+        "cyclingLengthKm": 0.039655,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.031395,
+            61.88771
+          ],
+          [
+            12.031666,
+            61.887377
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.339432,
+        "sourceToKm": 0.509621,
+        "fromKm": 0.339432,
+        "toKm": 0.509621,
+        "lengthKm": 0.170189,
+        "cyclingLengthKm": 0.170189,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.031666,
+            61.887377
+          ],
+          [
+            12.031341,
+            61.886952
+          ],
+          [
+            12.031148,
+            61.886698
+          ],
+          [
+            12.030954,
+            61.886444
+          ],
+          [
+            12.0309,
+            61.886373
+          ],
+          [
+            12.030806,
+            61.886184
+          ],
+          [
+            12.030676,
+            61.885922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.509621,
+        "sourceToKm": 0.56508,
+        "fromKm": 0.509621,
+        "toKm": 0.56508,
+        "lengthKm": 0.055459,
+        "cyclingLengthKm": 0.055459,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.030676,
+            61.885922
+          ],
+          [
+            12.030434,
+            61.885436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.56508,
+        "sourceToKm": 0.599554,
+        "fromKm": 0.56508,
+        "toKm": 0.599554,
+        "lengthKm": 0.034474,
+        "cyclingLengthKm": 0.034474,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.030434,
+            61.885436
+          ],
+          [
+            12.030412,
+            61.885126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.599554,
+        "sourceToKm": 0.77942,
+        "fromKm": 0.599554,
+        "toKm": 0.77942,
+        "lengthKm": 0.179866,
+        "cyclingLengthKm": 0.179866,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.030412,
+            61.885126
+          ],
+          [
+            12.030393,
+            61.884857
+          ],
+          [
+            12.030375,
+            61.884587
+          ],
+          [
+            12.030345,
+            61.884166
+          ],
+          [
+            12.029791,
+            61.88388
+          ],
+          [
+            12.029406,
+            61.88368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.77942,
+        "sourceToKm": 0.813189,
+        "fromKm": 0.77942,
+        "toKm": 0.813189,
+        "lengthKm": 0.033769,
+        "cyclingLengthKm": 0.033769,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.029406,
+            61.88368
+          ],
+          [
+            12.028972,
+            61.883456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.813189,
+        "sourceToKm": 0.869353,
+        "fromKm": 0.813189,
+        "toKm": 0.869353,
+        "lengthKm": 0.056164,
+        "cyclingLengthKm": 0.056164,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.028972,
+            61.883456
+          ],
+          [
+            12.027916,
+            61.883369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.869353,
+        "sourceToKm": 0.89933,
+        "fromKm": 0.869353,
+        "toKm": 0.89933,
+        "lengthKm": 0.029977,
+        "cyclingLengthKm": 0.029977,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.027916,
+            61.883369
+          ],
+          [
+            12.027353,
+            61.883322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.89933,
+        "sourceToKm": 0.916292,
+        "fromKm": 0.89933,
+        "toKm": 0.916292,
+        "lengthKm": 0.016962,
+        "cyclingLengthKm": 0.016962,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.027353,
+            61.883322
+          ],
+          [
+            12.027034,
+            61.883296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.916292,
+        "sourceToKm": 0.929308,
+        "fromKm": 0.916292,
+        "toKm": 0.929308,
+        "lengthKm": 0.013016,
+        "cyclingLengthKm": 0.013016,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.027034,
+            61.883296
+          ],
+          [
+            12.026786,
+            61.883293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.929308,
+        "sourceToKm": 0.959286,
+        "fromKm": 0.929308,
+        "toKm": 0.959286,
+        "lengthKm": 0.029978,
+        "cyclingLengthKm": 0.029978,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.026786,
+            61.883293
+          ],
+          [
+            12.026214,
+            61.883286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.959286,
+        "sourceToKm": 0.989263,
+        "fromKm": 0.959286,
+        "toKm": 0.989263,
+        "lengthKm": 0.029977,
+        "cyclingLengthKm": 0.029977,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.026214,
+            61.883286
+          ],
+          [
+            12.025642,
+            61.883279
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.989263,
+        "sourceToKm": 1.048235,
+        "fromKm": 0.989263,
+        "toKm": 1.048235,
+        "lengthKm": 0.058972,
+        "cyclingLengthKm": 0.058972,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.025642,
+            61.883279
+          ],
+          [
+            12.024517,
+            61.883265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 1.048235,
+        "sourceToKm": 1.16714,
+        "fromKm": 1.048235,
+        "toKm": 1.16714,
+        "lengthKm": 0.118905,
+        "cyclingLengthKm": 0.118905,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.024517,
+            61.883265
+          ],
+          [
+            12.023256,
+            61.882376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 1.16714,
+        "sourceToKm": 1.259063,
+        "fromKm": 1.16714,
+        "toKm": 1.259063,
+        "lengthKm": 0.091923,
+        "cyclingLengthKm": 0.091923,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.023256,
+            61.882376
+          ],
+          [
+            12.023286,
+            61.882089
+          ],
+          [
+            12.023313,
+            61.88182
+          ],
+          [
+            12.023341,
+            61.88155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 1.259063,
+        "sourceToKm": 1.270004,
+        "fromKm": 1.259063,
+        "toKm": 1.270004,
+        "lengthKm": 0.010941,
+        "cyclingLengthKm": 0.010941,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.023341,
+            61.88155
+          ],
+          [
+            12.023351,
+            61.881452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 1.270004,
+        "sourceToKm": 1.768683,
+        "fromKm": 1.270004,
+        "toKm": 1.768683,
+        "lengthKm": 0.498679,
+        "cyclingLengthKm": 0.498679,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.023351,
+            61.881452
+          ],
+          [
+            12.023398,
+            61.881282
+          ],
+          [
+            12.023472,
+            61.881015
+          ],
+          [
+            12.023547,
+            61.880748
+          ],
+          [
+            12.023621,
+            61.88048
+          ],
+          [
+            12.023657,
+            61.88035
+          ],
+          [
+            12.023697,
+            61.880213
+          ],
+          [
+            12.023775,
+            61.879946
+          ],
+          [
+            12.023926,
+            61.879429
+          ],
+          [
+            12.023971,
+            61.879143
+          ],
+          [
+            12.024014,
+            61.878874
+          ],
+          [
+            12.024057,
+            61.878605
+          ],
+          [
+            12.024093,
+            61.878376
+          ],
+          [
+            12.02409,
+            61.878336
+          ],
+          [
+            12.02407,
+            61.878067
+          ],
+          [
+            12.02405,
+            61.877797
+          ],
+          [
+            12.024021,
+            61.877416
+          ],
+          [
+            12.023889,
+            61.876993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 1.768683,
+        "sourceToKm": 1.798661,
+        "fromKm": 1.768683,
+        "toKm": 1.798661,
+        "lengthKm": 0.029978,
+        "cyclingLengthKm": 0.029978,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.023889,
+            61.876993
+          ],
+          [
+            12.023806,
+            61.876727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 1.798661,
+        "sourceToKm": 2.428192,
+        "fromKm": 1.798661,
+        "toKm": 2.428192,
+        "lengthKm": 0.629531,
+        "cyclingLengthKm": 0.629531,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.023806,
+            61.876727
+          ],
+          [
+            12.023723,
+            61.87646
+          ],
+          [
+            12.023705,
+            61.876401
+          ],
+          [
+            12.023613,
+            61.876196
+          ],
+          [
+            12.023495,
+            61.875932
+          ],
+          [
+            12.023376,
+            61.875668
+          ],
+          [
+            12.023258,
+            61.875404
+          ],
+          [
+            12.02314,
+            61.87514
+          ],
+          [
+            12.023021,
+            61.874877
+          ],
+          [
+            12.023,
+            61.874829
+          ],
+          [
+            12.022905,
+            61.874613
+          ],
+          [
+            12.022789,
+            61.874349
+          ],
+          [
+            12.022673,
+            61.874085
+          ],
+          [
+            12.022556,
+            61.873821
+          ],
+          [
+            12.022476,
+            61.873638
+          ],
+          [
+            12.022448,
+            61.873556
+          ],
+          [
+            12.022355,
+            61.87329
+          ],
+          [
+            12.022263,
+            61.873024
+          ],
+          [
+            12.022171,
+            61.872758
+          ],
+          [
+            12.022079,
+            61.872492
+          ],
+          [
+            12.02207,
+            61.872467
+          ],
+          [
+            12.022004,
+            61.872225
+          ],
+          [
+            12.021932,
+            61.871957
+          ],
+          [
+            12.02181,
+            61.871505
+          ],
+          [
+            12.022381,
+            61.871277
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 2.428192,
+        "sourceToKm": 2.45817,
+        "fromKm": 2.428192,
+        "toKm": 2.45817,
+        "lengthKm": 0.029978,
+        "cyclingLengthKm": 0.029978,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.022381,
+            61.871277
+          ],
+          [
+            12.022817,
+            61.871102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 2.45817,
+        "sourceToKm": 3.147656,
+        "fromKm": 2.45817,
+        "toKm": 3.147656,
+        "lengthKm": 0.689486,
+        "cyclingLengthKm": 0.689486,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.022817,
+            61.871102
+          ],
+          [
+            12.023318,
+            61.870902
+          ],
+          [
+            12.023889,
+            61.870482
+          ],
+          [
+            12.024197,
+            61.870255
+          ],
+          [
+            12.024558,
+            61.869989
+          ],
+          [
+            12.024716,
+            61.869501
+          ],
+          [
+            12.024849,
+            61.869091
+          ],
+          [
+            12.024579,
+            61.868719
+          ],
+          [
+            12.024393,
+            61.868463
+          ],
+          [
+            12.024107,
+            61.868069
+          ],
+          [
+            12.023702,
+            61.867727
+          ],
+          [
+            12.023423,
+            61.867491
+          ],
+          [
+            12.023145,
+            61.867256
+          ],
+          [
+            12.022866,
+            61.867021
+          ],
+          [
+            12.022832,
+            61.866992
+          ],
+          [
+            12.022575,
+            61.866788
+          ],
+          [
+            12.022283,
+            61.866557
+          ],
+          [
+            12.021771,
+            61.86615
+          ],
+          [
+            12.021687,
+            61.865817
+          ],
+          [
+            12.021619,
+            61.865549
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 3.147656,
+        "sourceToKm": 3.237589,
+        "fromKm": 3.147656,
+        "toKm": 3.237589,
+        "lengthKm": 0.089933,
+        "cyclingLengthKm": 0.089933,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.021619,
+            61.865549
+          ],
+          [
+            12.021508,
+            61.865109
+          ],
+          [
+            12.021814,
+            61.864773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 3.237589,
+        "sourceToKm": 3.3575,
+        "fromKm": 3.237589,
+        "toKm": 3.3575,
+        "lengthKm": 0.119911,
+        "cyclingLengthKm": 0.119911,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.021814,
+            61.864773
+          ],
+          [
+            12.02204,
+            61.864525
+          ],
+          [
+            12.022392,
+            61.864139
+          ],
+          [
+            12.023182,
+            61.864029
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 3.3575,
+        "sourceToKm": 3.387478,
+        "fromKm": 3.3575,
+        "toKm": 3.387478,
+        "lengthKm": 0.029978,
+        "cyclingLengthKm": 0.029978,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.023182,
+            61.864029
+          ],
+          [
+            12.02373,
+            61.863952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 3.387478,
+        "sourceToKm": 4.850817,
+        "fromKm": 3.387478,
+        "toKm": 4.850817,
+        "lengthKm": 1.463339,
+        "cyclingLengthKm": 1.463339,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.02373,
+            61.863952
+          ],
+          [
+            12.024278,
+            61.863876
+          ],
+          [
+            12.024637,
+            61.863826
+          ],
+          [
+            12.024835,
+            61.863823
+          ],
+          [
+            12.025406,
+            61.863815
+          ],
+          [
+            12.025977,
+            61.863806
+          ],
+          [
+            12.026549,
+            61.863798
+          ],
+          [
+            12.026955,
+            61.863792
+          ],
+          [
+            12.027117,
+            61.863776
+          ],
+          [
+            12.027676,
+            61.86372
+          ],
+          [
+            12.028235,
+            61.863664
+          ],
+          [
+            12.028794,
+            61.863608
+          ],
+          [
+            12.029354,
+            61.863552
+          ],
+          [
+            12.029913,
+            61.863496
+          ],
+          [
+            12.030791,
+            61.863408
+          ],
+          [
+            12.031586,
+            61.863319
+          ],
+          [
+            12.032142,
+            61.863256
+          ],
+          [
+            12.032698,
+            61.863193
+          ],
+          [
+            12.032818,
+            61.86318
+          ],
+          [
+            12.033253,
+            61.863129
+          ],
+          [
+            12.033808,
+            61.863063
+          ],
+          [
+            12.034362,
+            61.862998
+          ],
+          [
+            12.034917,
+            61.862932
+          ],
+          [
+            12.035096,
+            61.862911
+          ],
+          [
+            12.035455,
+            61.862843
+          ],
+          [
+            12.035985,
+            61.862742
+          ],
+          [
+            12.036516,
+            61.862641
+          ],
+          [
+            12.03714,
+            61.862523
+          ],
+          [
+            12.038167,
+            61.862441
+          ],
+          [
+            12.038731,
+            61.862396
+          ],
+          [
+            12.039295,
+            61.862351
+          ],
+          [
+            12.039859,
+            61.862306
+          ],
+          [
+            12.040422,
+            61.862261
+          ],
+          [
+            12.040986,
+            61.862217
+          ],
+          [
+            12.04155,
+            61.862172
+          ],
+          [
+            12.042072,
+            61.86213
+          ],
+          [
+            12.042114,
+            61.862129
+          ],
+          [
+            12.042684,
+            61.862111
+          ],
+          [
+            12.043255,
+            61.862094
+          ],
+          [
+            12.043825,
+            61.862077
+          ],
+          [
+            12.044106,
+            61.862068
+          ],
+          [
+            12.044394,
+            61.862051
+          ],
+          [
+            12.044961,
+            61.862018
+          ],
+          [
+            12.045529,
+            61.861985
+          ],
+          [
+            12.046096,
+            61.861952
+          ],
+          [
+            12.046393,
+            61.861935
+          ],
+          [
+            12.046663,
+            61.861918
+          ],
+          [
+            12.04723,
+            61.861882
+          ],
+          [
+            12.047797,
+            61.861847
+          ],
+          [
+            12.048363,
+            61.861811
+          ],
+          [
+            12.048975,
+            61.861773
+          ],
+          [
+            12.050073,
+            61.861774
+          ],
+          [
+            12.050644,
+            61.861775
+          ],
+          [
+            12.05111,
+            61.861775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 4.850817,
+        "sourceToKm": 4.856384,
+        "fromKm": 4.850817,
+        "toKm": 4.856384,
+        "lengthKm": 0.005567,
+        "cyclingLengthKm": 0.005567,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.05111,
+            61.861775
+          ],
+          [
+            12.051214,
+            61.861786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 4.856384,
+        "sourceToKm": 9.20316,
+        "fromKm": 4.856384,
+        "toKm": 9.20316,
+        "lengthKm": 4.346776,
+        "cyclingLengthKm": 4.346776,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.051214,
+            61.861786
+          ],
+          [
+            12.051771,
+            61.861846
+          ],
+          [
+            12.052328,
+            61.861906
+          ],
+          [
+            12.052886,
+            61.861966
+          ],
+          [
+            12.053356,
+            61.862016
+          ],
+          [
+            12.053445,
+            61.862021
+          ],
+          [
+            12.054012,
+            61.862056
+          ],
+          [
+            12.054579,
+            61.862091
+          ],
+          [
+            12.055486,
+            61.862146
+          ],
+          [
+            12.05628,
+            61.862099
+          ],
+          [
+            12.056847,
+            61.862066
+          ],
+          [
+            12.057414,
+            61.862033
+          ],
+          [
+            12.057802,
+            61.86201
+          ],
+          [
+            12.057983,
+            61.862006
+          ],
+          [
+            12.058554,
+            61.861992
+          ],
+          [
+            12.059125,
+            61.861979
+          ],
+          [
+            12.059696,
+            61.861965
+          ],
+          [
+            12.060006,
+            61.861958
+          ],
+          [
+            12.060266,
+            61.861967
+          ],
+          [
+            12.060836,
+            61.861987
+          ],
+          [
+            12.061406,
+            61.862007
+          ],
+          [
+            12.061977,
+            61.862027
+          ],
+          [
+            12.062547,
+            61.862047
+          ],
+          [
+            12.063037,
+            61.862064
+          ],
+          [
+            12.063117,
+            61.862065
+          ],
+          [
+            12.063688,
+            61.862074
+          ],
+          [
+            12.06426,
+            61.862084
+          ],
+          [
+            12.064831,
+            61.862093
+          ],
+          [
+            12.065399,
+            61.862102
+          ],
+          [
+            12.065973,
+            61.862091
+          ],
+          [
+            12.066545,
+            61.86208
+          ],
+          [
+            12.067116,
+            61.862069
+          ],
+          [
+            12.067667,
+            61.862058
+          ],
+          [
+            12.067687,
+            61.862058
+          ],
+          [
+            12.068258,
+            61.86205
+          ],
+          [
+            12.06883,
+            61.862041
+          ],
+          [
+            12.069401,
+            61.862033
+          ],
+          [
+            12.069973,
+            61.862025
+          ],
+          [
+            12.070544,
+            61.862017
+          ],
+          [
+            12.070905,
+            61.862012
+          ],
+          [
+            12.071115,
+            61.862009
+          ],
+          [
+            12.071687,
+            61.862001
+          ],
+          [
+            12.072258,
+            61.861994
+          ],
+          [
+            12.07283,
+            61.861986
+          ],
+          [
+            12.073196,
+            61.861981
+          ],
+          [
+            12.073401,
+            61.861977
+          ],
+          [
+            12.073972,
+            61.861966
+          ],
+          [
+            12.074544,
+            61.861956
+          ],
+          [
+            12.075115,
+            61.861945
+          ],
+          [
+            12.075538,
+            61.861937
+          ],
+          [
+            12.075686,
+            61.861934
+          ],
+          [
+            12.076257,
+            61.861923
+          ],
+          [
+            12.076828,
+            61.861912
+          ],
+          [
+            12.0774,
+            61.861902
+          ],
+          [
+            12.077971,
+            61.861891
+          ],
+          [
+            12.078542,
+            61.86188
+          ],
+          [
+            12.078748,
+            61.861876
+          ],
+          [
+            12.079113,
+            61.861868
+          ],
+          [
+            12.079684,
+            61.861857
+          ],
+          [
+            12.080255,
+            61.861845
+          ],
+          [
+            12.080827,
+            61.861833
+          ],
+          [
+            12.081398,
+            61.861822
+          ],
+          [
+            12.082211,
+            61.861805
+          ],
+          [
+            12.083111,
+            61.861819
+          ],
+          [
+            12.083683,
+            61.861829
+          ],
+          [
+            12.084254,
+            61.861838
+          ],
+          [
+            12.084524,
+            61.861842
+          ],
+          [
+            12.084825,
+            61.861847
+          ],
+          [
+            12.085397,
+            61.861857
+          ],
+          [
+            12.085968,
+            61.861866
+          ],
+          [
+            12.086539,
+            61.861876
+          ],
+          [
+            12.087111,
+            61.861886
+          ],
+          [
+            12.087682,
+            61.861895
+          ],
+          [
+            12.088013,
+            61.861901
+          ],
+          [
+            12.088253,
+            61.861903
+          ],
+          [
+            12.088825,
+            61.861909
+          ],
+          [
+            12.089396,
+            61.861915
+          ],
+          [
+            12.089968,
+            61.861921
+          ],
+          [
+            12.090169,
+            61.861923
+          ],
+          [
+            12.090539,
+            61.861928
+          ],
+          [
+            12.091111,
+            61.861937
+          ],
+          [
+            12.091682,
+            61.861945
+          ],
+          [
+            12.092253,
+            61.861953
+          ],
+          [
+            12.092825,
+            61.861961
+          ],
+          [
+            12.093396,
+            61.86197
+          ],
+          [
+            12.093493,
+            61.861971
+          ],
+          [
+            12.093968,
+            61.861976
+          ],
+          [
+            12.094539,
+            61.861981
+          ],
+          [
+            12.095111,
+            61.861987
+          ],
+          [
+            12.09562,
+            61.861992
+          ],
+          [
+            12.095682,
+            61.861993
+          ],
+          [
+            12.096254,
+            61.861999
+          ],
+          [
+            12.096825,
+            61.862006
+          ],
+          [
+            12.097692,
+            61.862016
+          ],
+          [
+            12.098524,
+            61.862094
+          ],
+          [
+            12.099084,
+            61.862147
+          ],
+          [
+            12.099645,
+            61.862199
+          ],
+          [
+            12.099843,
+            61.862218
+          ],
+          [
+            12.100205,
+            61.862253
+          ],
+          [
+            12.100766,
+            61.862307
+          ],
+          [
+            12.101326,
+            61.86236
+          ],
+          [
+            12.101717,
+            61.862398
+          ],
+          [
+            12.101888,
+            61.862408
+          ],
+          [
+            12.102455,
+            61.862442
+          ],
+          [
+            12.103022,
+            61.862475
+          ],
+          [
+            12.10359,
+            61.862509
+          ],
+          [
+            12.10371,
+            61.862516
+          ],
+          [
+            12.104159,
+            61.862533
+          ],
+          [
+            12.104729,
+            61.862555
+          ],
+          [
+            12.105299,
+            61.862577
+          ],
+          [
+            12.10586,
+            61.862598
+          ],
+          [
+            12.10643,
+            61.862648
+          ],
+          [
+            12.106993,
+            61.862697
+          ],
+          [
+            12.108025,
+            61.862787
+          ],
+          [
+            12.1086,
+            61.862945
+          ],
+          [
+            12.109093,
+            61.863081
+          ],
+          [
+            12.109587,
+            61.863217
+          ],
+          [
+            12.109963,
+            61.86332
+          ],
+          [
+            12.110077,
+            61.863356
+          ],
+          [
+            12.110551,
+            61.863506
+          ],
+          [
+            12.111026,
+            61.863656
+          ],
+          [
+            12.111501,
+            61.863806
+          ],
+          [
+            12.111738,
+            61.863881
+          ],
+          [
+            12.11197,
+            61.863961
+          ],
+          [
+            12.112432,
+            61.864119
+          ],
+          [
+            12.112894,
+            61.864278
+          ],
+          [
+            12.113422,
+            61.86446
+          ],
+          [
+            12.114096,
+            61.864846
+          ],
+          [
+            12.11446,
+            61.865054
+          ],
+          [
+            12.114823,
+            61.865263
+          ],
+          [
+            12.114965,
+            61.865344
+          ],
+          [
+            12.115168,
+            61.865478
+          ],
+          [
+            12.1155,
+            61.865697
+          ],
+          [
+            12.115833,
+            61.865916
+          ],
+          [
+            12.116203,
+            61.86616
+          ],
+          [
+            12.117108,
+            61.866437
+          ],
+          [
+            12.117588,
+            61.866584
+          ],
+          [
+            12.118395,
+            61.866831
+          ],
+          [
+            12.119062,
+            61.866996
+          ],
+          [
+            12.119568,
+            61.867121
+          ],
+          [
+            12.120075,
+            61.867246
+          ],
+          [
+            12.120169,
+            61.867269
+          ],
+          [
+            12.120605,
+            61.867347
+          ],
+          [
+            12.121139,
+            61.867442
+          ],
+          [
+            12.121674,
+            61.867537
+          ],
+          [
+            12.122209,
+            61.867633
+          ],
+          [
+            12.122238,
+            61.867638
+          ],
+          [
+            12.122761,
+            61.867702
+          ],
+          [
+            12.123315,
+            61.86777
+          ],
+          [
+            12.123868,
+            61.867838
+          ],
+          [
+            12.124275,
+            61.867888
+          ],
+          [
+            12.124421,
+            61.867906
+          ],
+          [
+            12.124975,
+            61.867972
+          ],
+          [
+            12.125529,
+            61.868039
+          ],
+          [
+            12.126084,
+            61.868105
+          ],
+          [
+            12.126638,
+            61.868172
+          ],
+          [
+            12.126728,
+            61.868183
+          ],
+          [
+            12.127157,
+            61.868283
+          ],
+          [
+            12.12767,
+            61.868402
+          ],
+          [
+            12.128183,
+            61.868521
+          ],
+          [
+            12.128983,
+            61.868707
+          ],
+          [
+            12.129137,
+            61.868736
+          ],
+          [
+            12.129766,
+            61.868646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 9.20316,
+        "sourceToKm": 9.32307,
+        "fromKm": 9.20316,
+        "toKm": 9.32307,
+        "lengthKm": 0.11991,
+        "cyclingLengthKm": 0.11991,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.129766,
+            61.868646
+          ],
+          [
+            12.130318,
+            61.868574
+          ],
+          [
+            12.130869,
+            61.868503
+          ],
+          [
+            12.13142,
+            61.868432
+          ],
+          [
+            12.131972,
+            61.86836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 9.32307,
+        "sourceToKm": 9.742757,
+        "fromKm": 9.32307,
+        "toKm": 9.742757,
+        "lengthKm": 0.419687,
+        "cyclingLengthKm": 0.419687,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.131972,
+            61.86836
+          ],
+          [
+            12.132523,
+            61.868289
+          ],
+          [
+            12.133075,
+            61.868217
+          ],
+          [
+            12.133626,
+            61.868146
+          ],
+          [
+            12.134177,
+            61.868075
+          ],
+          [
+            12.134729,
+            61.868003
+          ],
+          [
+            12.13528,
+            61.867932
+          ],
+          [
+            12.135831,
+            61.86786
+          ],
+          [
+            12.136383,
+            61.867789
+          ],
+          [
+            12.136934,
+            61.867717
+          ],
+          [
+            12.137485,
+            61.867646
+          ],
+          [
+            12.138037,
+            61.867575
+          ],
+          [
+            12.138588,
+            61.867503
+          ],
+          [
+            12.139139,
+            61.867432
+          ],
+          [
+            12.139691,
+            61.86736
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 9.742757,
+        "sourceToKm": 9.772735,
+        "fromKm": 9.742757,
+        "toKm": 9.772735,
+        "lengthKm": 0.029978,
+        "cyclingLengthKm": 0.029978,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.139691,
+            61.86736
+          ],
+          [
+            12.140242,
+            61.867289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 9.772735,
+        "sourceToKm": 10.012556,
+        "fromKm": 9.772735,
+        "toKm": 10.012556,
+        "lengthKm": 0.239821,
+        "cyclingLengthKm": 0.239821,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.140242,
+            61.867289
+          ],
+          [
+            12.140793,
+            61.867217
+          ],
+          [
+            12.141345,
+            61.867146
+          ],
+          [
+            12.141896,
+            61.867074
+          ],
+          [
+            12.142447,
+            61.867003
+          ],
+          [
+            12.142999,
+            61.866932
+          ],
+          [
+            12.14355,
+            61.86686
+          ],
+          [
+            12.144652,
+            61.866717
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 10.012556,
+        "sourceToKm": 10.042535,
+        "fromKm": 10.012556,
+        "toKm": 10.042535,
+        "lengthKm": 0.029979,
+        "cyclingLengthKm": 0.029979,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.144652,
+            61.866717
+          ],
+          [
+            12.145204,
+            61.866646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 10.042535,
+        "sourceToKm": 10.10249,
+        "fromKm": 10.042535,
+        "toKm": 10.10249,
+        "lengthKm": 0.059955,
+        "cyclingLengthKm": 0.059955,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.145204,
+            61.866646
+          ],
+          [
+            12.145755,
+            61.866574
+          ],
+          [
+            12.146306,
+            61.866503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 10.10249,
+        "sourceToKm": 10.252379,
+        "fromKm": 10.10249,
+        "toKm": 10.252379,
+        "lengthKm": 0.149889,
+        "cyclingLengthKm": 0.149889,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.146306,
+            61.866503
+          ],
+          [
+            12.146858,
+            61.866431
+          ],
+          [
+            12.147409,
+            61.86636
+          ],
+          [
+            12.14796,
+            61.866288
+          ],
+          [
+            12.148511,
+            61.866217
+          ],
+          [
+            12.149063,
+            61.866145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 10.252379,
+        "sourceToKm": 10.4922,
+        "fromKm": 10.252379,
+        "toKm": 10.4922,
+        "lengthKm": 0.239821,
+        "cyclingLengthKm": 0.239821,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.149063,
+            61.866145
+          ],
+          [
+            12.149614,
+            61.866074
+          ],
+          [
+            12.150165,
+            61.866002
+          ],
+          [
+            12.150717,
+            61.865931
+          ],
+          [
+            12.151268,
+            61.865859
+          ],
+          [
+            12.151819,
+            61.865788
+          ],
+          [
+            12.15237,
+            61.865716
+          ],
+          [
+            12.152922,
+            61.865645
+          ],
+          [
+            12.153473,
+            61.865573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 10.4922,
+        "sourceToKm": 10.552155,
+        "fromKm": 10.4922,
+        "toKm": 10.552155,
+        "lengthKm": 0.059955,
+        "cyclingLengthKm": 0.059955,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.153473,
+            61.865573
+          ],
+          [
+            12.154024,
+            61.865502
+          ],
+          [
+            12.154575,
+            61.86543
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 10.552155,
+        "sourceToKm": 10.642088,
+        "fromKm": 10.552155,
+        "toKm": 10.642088,
+        "lengthKm": 0.089933,
+        "cyclingLengthKm": 0.089933,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.154575,
+            61.86543
+          ],
+          [
+            12.155127,
+            61.865359
+          ],
+          [
+            12.155678,
+            61.865287
+          ],
+          [
+            12.156229,
+            61.865216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 10.642088,
+        "sourceToKm": 10.672066,
+        "fromKm": 10.642088,
+        "toKm": 10.672066,
+        "lengthKm": 0.029978,
+        "cyclingLengthKm": 0.029978,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.156229,
+            61.865216
+          ],
+          [
+            12.15678,
+            61.865144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 10.672066,
+        "sourceToKm": 10.981264,
+        "fromKm": 10.672066,
+        "toKm": 10.981264,
+        "lengthKm": 0.309198,
+        "cyclingLengthKm": 0.309198,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.15678,
+            61.865144
+          ],
+          [
+            12.157332,
+            61.865073
+          ],
+          [
+            12.157883,
+            61.865001
+          ],
+          [
+            12.158434,
+            61.86493
+          ],
+          [
+            12.159537,
+            61.864787
+          ],
+          [
+            12.160088,
+            61.864715
+          ],
+          [
+            12.160639,
+            61.864644
+          ],
+          [
+            12.162466,
+            61.864407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 10.981264,
+        "sourceToKm": 11.031798,
+        "fromKm": 10.981264,
+        "toKm": 11.031798,
+        "lengthKm": 0.050534,
+        "cyclingLengthKm": 0.050534,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.162466,
+            61.864407
+          ],
+          [
+            12.162687,
+            61.864849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "trail",
+        "travelMode": "cycling",
+        "sourceFromKm": 11.031798,
+        "sourceToKm": 11.631351,
+        "fromKm": 11.031798,
+        "toKm": 11.631351,
+        "lengthKm": 0.599553,
+        "cyclingLengthKm": 0.599553,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.162687,
+            61.864849
+          ],
+          [
+            12.162818,
+            61.865111
+          ],
+          [
+            12.162949,
+            61.865374
+          ],
+          [
+            12.16308,
+            61.865636
+          ],
+          [
+            12.16321,
+            61.865899
+          ],
+          [
+            12.163341,
+            61.866161
+          ],
+          [
+            12.163472,
+            61.866424
+          ],
+          [
+            12.163603,
+            61.866686
+          ],
+          [
+            12.163734,
+            61.866949
+          ],
+          [
+            12.163864,
+            61.867211
+          ],
+          [
+            12.163995,
+            61.867473
+          ],
+          [
+            12.164126,
+            61.867736
+          ],
+          [
+            12.164257,
+            61.867998
+          ],
+          [
+            12.164388,
+            61.868261
+          ],
+          [
+            12.164519,
+            61.868523
+          ],
+          [
+            12.164649,
+            61.868786
+          ],
+          [
+            12.16478,
+            61.869048
+          ],
+          [
+            12.164911,
+            61.869311
+          ],
+          [
+            12.165042,
+            61.869573
+          ],
+          [
+            12.165173,
+            61.869835
+          ],
+          [
+            12.165304,
+            61.870098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "trail",
+        "travelMode": "cycling",
+        "sourceFromKm": 11.631351,
+        "sourceToKm": 11.679303,
+        "fromKm": 11.631351,
+        "toKm": 11.679303,
+        "lengthKm": 0.047952,
+        "cyclingLengthKm": 0.047952,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.165304,
+            61.870098
+          ],
+          [
+            12.165513,
+            61.870518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 11.679303,
+        "sourceToKm": 11.751262,
+        "fromKm": 11.679303,
+        "toKm": 11.751262,
+        "lengthKm": 0.071959,
+        "cyclingLengthKm": 0.071959,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.165513,
+            61.870518
+          ],
+          [
+            12.166609,
+            61.870908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 11.751262,
+        "sourceToKm": 11.90115,
+        "fromKm": 11.751262,
+        "toKm": 11.90115,
+        "lengthKm": 0.149888,
+        "cyclingLengthKm": 0.149888,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.166609,
+            61.870908
+          ],
+          [
+            12.167065,
+            61.87107
+          ],
+          [
+            12.167521,
+            61.871233
+          ],
+          [
+            12.167977,
+            61.871395
+          ],
+          [
+            12.16889,
+            61.87172
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 11.90115,
+        "sourceToKm": 11.961106,
+        "fromKm": 11.90115,
+        "toKm": 11.961106,
+        "lengthKm": 0.059956,
+        "cyclingLengthKm": 0.059956,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.16889,
+            61.87172
+          ],
+          [
+            12.169346,
+            61.871883
+          ],
+          [
+            12.169803,
+            61.872045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 11.961106,
+        "sourceToKm": 12.081016,
+        "fromKm": 11.961106,
+        "toKm": 12.081016,
+        "lengthKm": 0.11991,
+        "cyclingLengthKm": 0.11991,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.169803,
+            61.872045
+          ],
+          [
+            12.170614,
+            61.872334
+          ],
+          [
+            12.170816,
+            61.872649
+          ],
+          [
+            12.170981,
+            61.872908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 12.081016,
+        "sourceToKm": 12.115217,
+        "fromKm": 12.081016,
+        "toKm": 12.115217,
+        "lengthKm": 0.034201,
+        "cyclingLengthKm": 0.034201,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.170981,
+            61.872908
+          ],
+          [
+            12.171169,
+            61.873202
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "gravel",
+        "travelMode": "cycling",
+        "sourceFromKm": 12.115217,
+        "sourceToKm": 12.17095,
+        "fromKm": 12.115217,
+        "toKm": 12.17095,
+        "lengthKm": 0.055733,
+        "cyclingLengthKm": 0.055733,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.171169,
+            61.873202
+          ],
+          [
+            12.170446,
+            61.873569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 12.17095,
+        "sourceToKm": 12.200927,
+        "fromKm": 12.17095,
+        "toKm": 12.200927,
+        "lengthKm": 0.029977,
+        "cyclingLengthKm": 0.029977,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.170446,
+            61.873569
+          ],
+          [
+            12.170057,
+            61.873767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 12.200927,
+        "sourceToKm": 12.234748,
+        "fromKm": 12.200927,
+        "toKm": 12.234748,
+        "lengthKm": 0.033821,
+        "cyclingLengthKm": 0.033821,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.170057,
+            61.873767
+          ],
+          [
+            12.169618,
+            61.87399
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 12.234748,
+        "sourceToKm": 12.530681,
+        "fromKm": 12.234748,
+        "toKm": 12.530681,
+        "lengthKm": 0.295933,
+        "cyclingLengthKm": 0.295933,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.169618,
+            61.87399
+          ],
+          [
+            12.168617,
+            61.874168
+          ],
+          [
+            12.168082,
+            61.874263
+          ],
+          [
+            12.167546,
+            61.874359
+          ],
+          [
+            12.167455,
+            61.874375
+          ],
+          [
+            12.166987,
+            61.874412
+          ],
+          [
+            12.166423,
+            61.874456
+          ],
+          [
+            12.165859,
+            61.8745
+          ],
+          [
+            12.165419,
+            61.874534
+          ],
+          [
+            12.165297,
+            61.874549
+          ],
+          [
+            12.164744,
+            61.874618
+          ],
+          [
+            12.164191,
+            61.874686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 12.530681,
+        "sourceToKm": 12.582932,
+        "fromKm": 12.530681,
+        "toKm": 12.582932,
+        "lengthKm": 0.052251,
+        "cyclingLengthKm": 0.052251,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.164191,
+            61.874686
+          ],
+          [
+            12.163227,
+            61.874806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 12.582932,
+        "sourceToKm": 13.935894,
+        "fromKm": 12.582932,
+        "toKm": 13.935894,
+        "lengthKm": 1.352962,
+        "cyclingLengthKm": 1.352962,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.163227,
+            61.874806
+          ],
+          [
+            12.162603,
+            61.874974
+          ],
+          [
+            12.162107,
+            61.875108
+          ],
+          [
+            12.16161,
+            61.875242
+          ],
+          [
+            12.161281,
+            61.875331
+          ],
+          [
+            12.161123,
+            61.875383
+          ],
+          [
+            12.160653,
+            61.875536
+          ],
+          [
+            12.160183,
+            61.87569
+          ],
+          [
+            12.159713,
+            61.875844
+          ],
+          [
+            12.159629,
+            61.875871
+          ],
+          [
+            12.159204,
+            61.875966
+          ],
+          [
+            12.158688,
+            61.876081
+          ],
+          [
+            12.157684,
+            61.876306
+          ],
+          [
+            12.157101,
+            61.876383
+          ],
+          [
+            12.156551,
+            61.876455
+          ],
+          [
+            12.156,
+            61.876527
+          ],
+          [
+            12.155659,
+            61.876572
+          ],
+          [
+            12.155444,
+            61.87659
+          ],
+          [
+            12.154881,
+            61.876637
+          ],
+          [
+            12.154317,
+            61.876684
+          ],
+          [
+            12.153754,
+            61.876731
+          ],
+          [
+            12.153191,
+            61.876777
+          ],
+          [
+            12.152628,
+            61.876824
+          ],
+          [
+            12.152127,
+            61.876866
+          ],
+          [
+            12.152065,
+            61.876871
+          ],
+          [
+            12.151501,
+            61.876918
+          ],
+          [
+            12.150938,
+            61.876964
+          ],
+          [
+            12.150374,
+            61.877011
+          ],
+          [
+            12.149827,
+            61.877056
+          ],
+          [
+            12.14926,
+            61.877129
+          ],
+          [
+            12.148708,
+            61.877201
+          ],
+          [
+            12.148157,
+            61.877272
+          ],
+          [
+            12.147517,
+            61.877355
+          ],
+          [
+            12.146472,
+            61.877413
+          ],
+          [
+            12.145904,
+            61.877445
+          ],
+          [
+            12.145532,
+            61.877466
+          ],
+          [
+            12.145335,
+            61.877458
+          ],
+          [
+            12.144765,
+            61.877437
+          ],
+          [
+            12.144195,
+            61.877415
+          ],
+          [
+            12.143366,
+            61.877383
+          ],
+          [
+            12.142499,
+            61.877301
+          ],
+          [
+            12.141939,
+            61.877248
+          ],
+          [
+            12.141378,
+            61.877195
+          ],
+          [
+            12.140817,
+            61.877142
+          ],
+          [
+            12.140585,
+            61.87712
+          ],
+          [
+            12.140257,
+            61.877087
+          ],
+          [
+            12.139697,
+            61.877032
+          ],
+          [
+            12.139138,
+            61.876976
+          ],
+          [
+            12.138648,
+            61.876927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 13.935894,
+        "sourceToKm": 13.939633,
+        "fromKm": 13.935894,
+        "toKm": 13.939633,
+        "lengthKm": 0.003739,
+        "cyclingLengthKm": 0.003739,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.138648,
+            61.876927
+          ],
+          [
+            12.138578,
+            61.87692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 13.939633,
+        "sourceToKm": 16.36293,
+        "fromKm": 13.939633,
+        "toKm": 16.36293,
+        "lengthKm": 2.423297,
+        "cyclingLengthKm": 2.423297,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.138578,
+            61.87692
+          ],
+          [
+            12.138017,
+            61.876867
+          ],
+          [
+            12.137457,
+            61.876814
+          ],
+          [
+            12.136896,
+            61.876761
+          ],
+          [
+            12.136668,
+            61.876739
+          ],
+          [
+            12.13633,
+            61.876725
+          ],
+          [
+            12.13576,
+            61.876701
+          ],
+          [
+            12.134765,
+            61.87666
+          ],
+          [
+            12.134049,
+            61.876669
+          ],
+          [
+            12.133477,
+            61.876676
+          ],
+          [
+            12.132905,
+            61.876684
+          ],
+          [
+            12.132333,
+            61.876691
+          ],
+          [
+            12.131762,
+            61.876698
+          ],
+          [
+            12.13119,
+            61.876705
+          ],
+          [
+            12.131133,
+            61.876706
+          ],
+          [
+            12.130618,
+            61.876714
+          ],
+          [
+            12.130047,
+            61.876723
+          ],
+          [
+            12.129064,
+            61.876738
+          ],
+          [
+            12.128336,
+            61.876775
+          ],
+          [
+            12.127767,
+            61.876804
+          ],
+          [
+            12.127198,
+            61.876834
+          ],
+          [
+            12.126662,
+            61.876861
+          ],
+          [
+            12.126631,
+            61.876865
+          ],
+          [
+            12.126077,
+            61.876933
+          ],
+          [
+            12.125524,
+            61.877
+          ],
+          [
+            12.12497,
+            61.877068
+          ],
+          [
+            12.124416,
+            61.877136
+          ],
+          [
+            12.124204,
+            61.877162
+          ],
+          [
+            12.123858,
+            61.877193
+          ],
+          [
+            12.123296,
+            61.877243
+          ],
+          [
+            12.122734,
+            61.877293
+          ],
+          [
+            12.122172,
+            61.877344
+          ],
+          [
+            12.122122,
+            61.877348
+          ],
+          [
+            12.121604,
+            61.877374
+          ],
+          [
+            12.121035,
+            61.877403
+          ],
+          [
+            12.120466,
+            61.877433
+          ],
+          [
+            12.119898,
+            61.877462
+          ],
+          [
+            12.119595,
+            61.877477
+          ],
+          [
+            12.11933,
+            61.877494
+          ],
+          [
+            12.118763,
+            61.877529
+          ],
+          [
+            12.118196,
+            61.877565
+          ],
+          [
+            12.117629,
+            61.8776
+          ],
+          [
+            12.117502,
+            61.877608
+          ],
+          [
+            12.117064,
+            61.877641
+          ],
+          [
+            12.116499,
+            61.877684
+          ],
+          [
+            12.115934,
+            61.877727
+          ],
+          [
+            12.11537,
+            61.877769
+          ],
+          [
+            12.115125,
+            61.877788
+          ],
+          [
+            12.114804,
+            61.877808
+          ],
+          [
+            12.114237,
+            61.877843
+          ],
+          [
+            12.113669,
+            61.877878
+          ],
+          [
+            12.113102,
+            61.877913
+          ],
+          [
+            12.112737,
+            61.877936
+          ],
+          [
+            12.112535,
+            61.877946
+          ],
+          [
+            12.111966,
+            61.877975
+          ],
+          [
+            12.111397,
+            61.878004
+          ],
+          [
+            12.110829,
+            61.878032
+          ],
+          [
+            12.110382,
+            61.878055
+          ],
+          [
+            12.110262,
+            61.878068
+          ],
+          [
+            12.109705,
+            61.878129
+          ],
+          [
+            12.109148,
+            61.878189
+          ],
+          [
+            12.10859,
+            61.87825
+          ],
+          [
+            12.108033,
+            61.87831
+          ],
+          [
+            12.107476,
+            61.878371
+          ],
+          [
+            12.10718,
+            61.878403
+          ],
+          [
+            12.106914,
+            61.878422
+          ],
+          [
+            12.106349,
+            61.878461
+          ],
+          [
+            12.105783,
+            61.878501
+          ],
+          [
+            12.104923,
+            61.878561
+          ],
+          [
+            12.104078,
+            61.878585
+          ],
+          [
+            12.103507,
+            61.878601
+          ],
+          [
+            12.102936,
+            61.878617
+          ],
+          [
+            12.102689,
+            61.878624
+          ],
+          [
+            12.102366,
+            61.878641
+          ],
+          [
+            12.101798,
+            61.878671
+          ],
+          [
+            12.10123,
+            61.878701
+          ],
+          [
+            12.100666,
+            61.878731
+          ],
+          [
+            12.100097,
+            61.878774
+          ],
+          [
+            12.099532,
+            61.878817
+          ],
+          [
+            12.098967,
+            61.87886
+          ],
+          [
+            12.098403,
+            61.878903
+          ],
+          [
+            12.097838,
+            61.878946
+          ],
+          [
+            12.097273,
+            61.878989
+          ],
+          [
+            12.097004,
+            61.87901
+          ],
+          [
+            12.096707,
+            61.879028
+          ],
+          [
+            12.09614,
+            61.879063
+          ],
+          [
+            12.095573,
+            61.879097
+          ],
+          [
+            12.095005,
+            61.879132
+          ],
+          [
+            12.094772,
+            61.879146
+          ],
+          [
+            12.094437,
+            61.87916
+          ],
+          [
+            12.093867,
+            61.879185
+          ],
+          [
+            12.092821,
+            61.87923
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 16.36293,
+        "sourceToKm": 16.397801,
+        "fromKm": 16.36293,
+        "toKm": 16.397801,
+        "lengthKm": 0.034871,
+        "cyclingLengthKm": 0.034871,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.092821,
+            61.87923
+          ],
+          [
+            12.092157,
+            61.879248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 16.397801,
+        "sourceToKm": 16.759593,
+        "fromKm": 16.397801,
+        "toKm": 16.759593,
+        "lengthKm": 0.361792,
+        "cyclingLengthKm": 0.361792,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.092157,
+            61.879248
+          ],
+          [
+            12.091586,
+            61.879263
+          ],
+          [
+            12.091014,
+            61.879278
+          ],
+          [
+            12.090789,
+            61.879284
+          ],
+          [
+            12.090443,
+            61.879286
+          ],
+          [
+            12.089871,
+            61.879291
+          ],
+          [
+            12.089299,
+            61.879295
+          ],
+          [
+            12.088727,
+            61.879299
+          ],
+          [
+            12.088155,
+            61.879303
+          ],
+          [
+            12.087583,
+            61.879308
+          ],
+          [
+            12.087531,
+            61.879308
+          ],
+          [
+            12.087012,
+            61.879315
+          ],
+          [
+            12.08644,
+            61.879322
+          ],
+          [
+            12.085868,
+            61.87933
+          ],
+          [
+            12.085296,
+            61.879337
+          ],
+          [
+            12.085257,
+            61.879338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 16.759593,
+        "sourceToKm": 16.787512,
+        "fromKm": 16.759593,
+        "toKm": 16.787512,
+        "lengthKm": 0.027919,
+        "cyclingLengthKm": 0.027919,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.085257,
+            61.879338
+          ],
+          [
+            12.084727,
+            61.879364
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 16.787512,
+        "sourceToKm": 17.98662,
+        "fromKm": 16.787512,
+        "toKm": 17.98662,
+        "lengthKm": 1.199108,
+        "cyclingLengthKm": 1.199108,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.084727,
+            61.879364
+          ],
+          [
+            12.084158,
+            61.879393
+          ],
+          [
+            12.08359,
+            61.879421
+          ],
+          [
+            12.082835,
+            61.879459
+          ],
+          [
+            12.081897,
+            61.879548
+          ],
+          [
+            12.081336,
+            61.879601
+          ],
+          [
+            12.080775,
+            61.879655
+          ],
+          [
+            12.080215,
+            61.879708
+          ],
+          [
+            12.079654,
+            61.879761
+          ],
+          [
+            12.079277,
+            61.879797
+          ],
+          [
+            12.079095,
+            61.879818
+          ],
+          [
+            12.078538,
+            61.87988
+          ],
+          [
+            12.077982,
+            61.879943
+          ],
+          [
+            12.077426,
+            61.880006
+          ],
+          [
+            12.076869,
+            61.880069
+          ],
+          [
+            12.076413,
+            61.88012
+          ],
+          [
+            12.076313,
+            61.880131
+          ],
+          [
+            12.075755,
+            61.880191
+          ],
+          [
+            12.075197,
+            61.88025
+          ],
+          [
+            12.07464,
+            61.88031
+          ],
+          [
+            12.074082,
+            61.88037
+          ],
+          [
+            12.073524,
+            61.88043
+          ],
+          [
+            12.073347,
+            61.880449
+          ],
+          [
+            12.072965,
+            61.880486
+          ],
+          [
+            12.072404,
+            61.88054
+          ],
+          [
+            12.071844,
+            61.880594
+          ],
+          [
+            12.071283,
+            61.880648
+          ],
+          [
+            12.07099,
+            61.880676
+          ],
+          [
+            12.070721,
+            61.880698
+          ],
+          [
+            12.070158,
+            61.880744
+          ],
+          [
+            12.069594,
+            61.88079
+          ],
+          [
+            12.069031,
+            61.880836
+          ],
+          [
+            12.068467,
+            61.880882
+          ],
+          [
+            12.067903,
+            61.880928
+          ],
+          [
+            12.06766,
+            61.880948
+          ],
+          [
+            12.067339,
+            61.880973
+          ],
+          [
+            12.066775,
+            61.881018
+          ],
+          [
+            12.066211,
+            61.881063
+          ],
+          [
+            12.065358,
+            61.881131
+          ],
+          [
+            12.064536,
+            61.881234
+          ],
+          [
+            12.063983,
+            61.881303
+          ],
+          [
+            12.063326,
+            61.881385
+          ],
+          [
+            12.062419,
+            61.881622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 17.98662,
+        "sourceToKm": 18.158623,
+        "fromKm": 17.98662,
+        "toKm": 18.158623,
+        "lengthKm": 0.172003,
+        "cyclingLengthKm": 0.172003,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.062419,
+            61.881622
+          ],
+          [
+            12.061919,
+            61.881753
+          ],
+          [
+            12.061419,
+            61.881883
+          ],
+          [
+            12.060919,
+            61.882014
+          ],
+          [
+            12.060418,
+            61.882145
+          ],
+          [
+            12.059549,
+            61.882372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 18.158623,
+        "sourceToKm": 18.196464,
+        "fromKm": 18.158623,
+        "toKm": 18.196464,
+        "lengthKm": 0.037841,
+        "cyclingLengthKm": 0.037841,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.059549,
+            61.882372
+          ],
+          [
+            12.058935,
+            61.882551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 18.196464,
+        "sourceToKm": 19.065815,
+        "fromKm": 18.196464,
+        "toKm": 19.065815,
+        "lengthKm": 0.869351,
+        "cyclingLengthKm": 0.869351,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.058935,
+            61.882551
+          ],
+          [
+            12.058448,
+            61.882693
+          ],
+          [
+            12.057962,
+            61.882835
+          ],
+          [
+            12.057704,
+            61.88291
+          ],
+          [
+            12.057486,
+            61.882984
+          ],
+          [
+            12.05702,
+            61.883141
+          ],
+          [
+            12.056555,
+            61.883297
+          ],
+          [
+            12.055993,
+            61.883487
+          ],
+          [
+            12.055253,
+            61.883821
+          ],
+          [
+            12.05484,
+            61.884008
+          ],
+          [
+            12.054427,
+            61.884194
+          ],
+          [
+            12.054305,
+            61.884249
+          ],
+          [
+            12.053987,
+            61.884366
+          ],
+          [
+            12.053536,
+            61.884532
+          ],
+          [
+            12.053085,
+            61.884698
+          ],
+          [
+            12.052552,
+            61.884894
+          ],
+          [
+            12.051654,
+            61.885141
+          ],
+          [
+            12.05116,
+            61.885277
+          ],
+          [
+            12.050666,
+            61.885413
+          ],
+          [
+            12.050518,
+            61.885454
+          ],
+          [
+            12.050165,
+            61.885543
+          ],
+          [
+            12.049661,
+            61.885671
+          ],
+          [
+            12.049157,
+            61.885798
+          ],
+          [
+            12.048653,
+            61.885926
+          ],
+          [
+            12.048352,
+            61.886002
+          ],
+          [
+            12.048139,
+            61.886044
+          ],
+          [
+            12.047611,
+            61.886148
+          ],
+          [
+            12.047083,
+            61.886252
+          ],
+          [
+            12.046517,
+            61.886363
+          ],
+          [
+            12.045457,
+            61.886507
+          ],
+          [
+            12.044907,
+            61.886581
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 19.065815,
+        "sourceToKm": 19.095794,
+        "fromKm": 19.065815,
+        "toKm": 19.095794,
+        "lengthKm": 0.029979,
+        "cyclingLengthKm": 0.029979,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.044907,
+            61.886581
+          ],
+          [
+            12.044358,
+            61.886656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 19.095794,
+        "sourceToKm": 19.155749,
+        "fromKm": 19.095794,
+        "toKm": 19.155749,
+        "lengthKm": 0.059955,
+        "cyclingLengthKm": 0.059955,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.044358,
+            61.886656
+          ],
+          [
+            12.044204,
+            61.886677
+          ],
+          [
+            12.043798,
+            61.886709
+          ],
+          [
+            12.043234,
+            61.886754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 19.155749,
+        "sourceToKm": 19.521023,
+        "fromKm": 19.155749,
+        "toKm": 19.521023,
+        "lengthKm": 0.365274,
+        "cyclingLengthKm": 0.365274,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.043234,
+            61.886754
+          ],
+          [
+            12.042669,
+            61.886799
+          ],
+          [
+            12.042174,
+            61.886839
+          ],
+          [
+            12.042105,
+            61.886843
+          ],
+          [
+            12.041537,
+            61.886875
+          ],
+          [
+            12.040969,
+            61.886908
+          ],
+          [
+            12.040401,
+            61.88694
+          ],
+          [
+            12.039833,
+            61.886972
+          ],
+          [
+            12.039265,
+            61.887005
+          ],
+          [
+            12.038697,
+            61.887037
+          ],
+          [
+            12.038129,
+            61.88707
+          ],
+          [
+            12.037561,
+            61.887102
+          ],
+          [
+            12.036993,
+            61.887135
+          ],
+          [
+            12.036425,
+            61.887167
+          ],
+          [
+            12.03632,
+            61.887173
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 19.521023,
+        "sourceToKm": 19.545458,
+        "fromKm": 19.521023,
+        "toKm": 19.545458,
+        "lengthKm": 0.024435,
+        "cyclingLengthKm": 0.024435,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.03632,
+            61.887173
+          ],
+          [
+            12.035857,
+            61.8872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 19.545458,
+        "sourceToKm": 19.628935,
+        "fromKm": 19.545458,
+        "toKm": 19.628935,
+        "lengthKm": 0.083477,
+        "cyclingLengthKm": 0.083477,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.035857,
+            61.8872
+          ],
+          [
+            12.035289,
+            61.887233
+          ],
+          [
+            12.034721,
+            61.887266
+          ],
+          [
+            12.034276,
+            61.887292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 19.628935,
+        "sourceToKm": 19.875214,
+        "fromKm": 19.628935,
+        "toKm": 19.875214,
+        "lengthKm": 0.246279,
+        "cyclingLengthKm": 0.246279,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.034276,
+            61.887292
+          ],
+          [
+            12.034158,
+            61.887309
+          ],
+          [
+            12.033611,
+            61.887388
+          ],
+          [
+            12.033064,
+            61.887466
+          ],
+          [
+            12.032405,
+            61.887561
+          ],
+          [
+            12.031683,
+            61.887906
+          ],
+          [
+            12.030949,
+            61.888257
+          ],
+          [
+            12.030848,
+            61.888569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 19.875214,
+        "sourceToKm": 20.0251,
+        "fromKm": 19.875214,
+        "toKm": 20.0251,
+        "lengthKm": 0.149886,
+        "cyclingLengthKm": 0.149886,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.030848,
+            61.888569
+          ],
+          [
+            12.030763,
+            61.888836
+          ],
+          [
+            12.030677,
+            61.889102
+          ],
+          [
+            12.030566,
+            61.889446
+          ],
+          [
+            12.029961,
+            61.889808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 20.0251,
+        "sourceToKm": 20.078109,
+        "fromKm": 20.0251,
+        "toKm": 20.078109,
+        "lengthKm": 0.053009,
+        "cyclingLengthKm": 0.053009,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.029961,
+            61.889808
+          ],
+          [
+            12.029335,
+            61.890183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 20.078109,
+        "sourceToKm": 20.084587,
+        "fromKm": 20.078109,
+        "toKm": 20.084587,
+        "lengthKm": 0.006478,
+        "cyclingLengthKm": 0.006478,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.029335,
+            61.890183
+          ],
+          [
+            12.029212,
+            61.890189
+          ]
+        ]
+      }
+    }
+  ]
+}
