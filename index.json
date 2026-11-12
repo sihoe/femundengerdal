@@ -1,0 +1,265 @@
+{
+  "schemaVersion": "fe-cycle-map-1.0",
+  "routes": [
+    {
+      "id": "210-idrerunden",
+      "title": "Idre-runden",
+      "number": "210",
+      "difficulty": "middels",
+      "difficultyStatus": "provisional",
+      "stats": {
+        "distanceKm": 123.513924,
+        "boatKm": 0,
+        "climbM": 921,
+        "descentM": 921,
+        "minElevationM": 438,
+        "maxElevationM": 839
+      },
+      "surface": {
+        "asphalt": 123.513924,
+        "gravel": 0,
+        "trail": 0,
+        "boat": 0
+      },
+      "routeUrl": "routes/210-idrerunden/route.json",
+      "pointsUrl": "routes/210-idrerunden/points.json",
+      "profileUrl": "routes/210-idrerunden/elevation-profile.json",
+      "segmentsUrl": "routes/210-idrerunden/segments.geojson",
+      "sourceGapCount": 0
+    },
+    {
+      "id": "211-jyltingsmarka",
+      "title": "Jyltingsmarka",
+      "number": "211",
+      "difficulty": "enkel",
+      "difficultyStatus": "provisional",
+      "stats": {
+        "distanceKm": 40.061047,
+        "boatKm": 0,
+        "climbM": 166,
+        "descentM": 166,
+        "minElevationM": 660,
+        "maxElevationM": 717
+      },
+      "surface": {
+        "asphalt": 23.587018,
+        "gravel": 16.474029,
+        "trail": 0,
+        "boat": 0
+      },
+      "routeUrl": "routes/211-jyltingsmarka/route.json",
+      "pointsUrl": "routes/211-jyltingsmarka/points.json",
+      "profileUrl": "routes/211-jyltingsmarka/elevation-profile.json",
+      "segmentsUrl": "routes/211-jyltingsmarka/segments.geojson",
+      "sourceGapCount": 0
+    },
+    {
+      "id": "212-kvemsjorunden",
+      "title": "Kvemsjørunden",
+      "number": "212",
+      "difficulty": "enkel",
+      "difficultyStatus": "provisional",
+      "stats": {
+        "distanceKm": 22.565855,
+        "boatKm": 0,
+        "climbM": 129,
+        "descentM": 129,
+        "minElevationM": 660,
+        "maxElevationM": 723
+      },
+      "surface": {
+        "asphalt": 12.785178,
+        "gravel": 9.780677,
+        "trail": 0,
+        "boat": 0
+      },
+      "routeUrl": "routes/212-kvemsjorunden/route.json",
+      "pointsUrl": "routes/212-kvemsjorunden/points.json",
+      "profileUrl": "routes/212-kvemsjorunden/elevation-profile.json",
+      "segmentsUrl": "routes/212-kvemsjorunden/segments.geojson",
+      "sourceGapCount": 0
+    },
+    {
+      "id": "213-vurrusjolia",
+      "title": "Vurrusjølia",
+      "number": "213",
+      "difficulty": "middels",
+      "difficultyStatus": "provisional",
+      "stats": {
+        "distanceKm": 20.084587,
+        "boatKm": 0,
+        "climbM": 75,
+        "descentM": 75,
+        "minElevationM": 662,
+        "maxElevationM": 702
+      },
+      "surface": {
+        "asphalt": 11.151226,
+        "gravel": 8.285856,
+        "trail": 0.647505,
+        "boat": 0
+      },
+      "routeUrl": "routes/213-vurrusjolia/route.json",
+      "pointsUrl": "routes/213-vurrusjolia/points.json",
+      "profileUrl": "routes/213-vurrusjolia/elevation-profile.json",
+      "segmentsUrl": "routes/213-vurrusjolia/segments.geojson",
+      "sourceGapCount": 0
+    },
+    {
+      "id": "214-solenstua–drevsjo",
+      "title": "Sølenstua–Drevsjø",
+      "number": "214",
+      "difficulty": "enkel",
+      "difficultyStatus": "provisional",
+      "stats": {
+        "distanceKm": 48.304954,
+        "boatKm": 0,
+        "climbM": 350,
+        "descentM": 350,
+        "minElevationM": 588,
+        "maxElevationM": 760
+      },
+      "surface": {
+        "asphalt": 48.304954,
+        "gravel": 0,
+        "trail": 0,
+        "boat": 0
+      },
+      "routeUrl": "routes/214-solenstua-drevsjo/route.json",
+      "pointsUrl": "routes/214-solenstua-drevsjo/points.json",
+      "profileUrl": "routes/214-solenstua-drevsjo/elevation-profile.json",
+      "segmentsUrl": "routes/214-solenstua-drevsjo/segments.geojson",
+      "sourceGapCount": 0
+    },
+    {
+      "id": "215-hovdrunden",
+      "title": "Hovdrunden",
+      "number": "215",
+      "difficulty": "middels",
+      "difficultyStatus": "provisional",
+      "stats": {
+        "distanceKm": 18.66307,
+        "boatKm": 0,
+        "climbM": 372,
+        "descentM": 372,
+        "minElevationM": 540,
+        "maxElevationM": 879
+      },
+      "surface": {
+        "asphalt": 7.802871,
+        "gravel": 10.860199,
+        "trail": 0,
+        "boat": 0
+      },
+      "routeUrl": "routes/215-hovdrunden/route.json",
+      "pointsUrl": "routes/215-hovdrunden/points.json",
+      "profileUrl": "routes/215-hovdrunden/elevation-profile.json",
+      "segmentsUrl": "routes/215-hovdrunden/segments.geojson",
+      "sourceGapCount": 0
+    },
+    {
+      "id": "217-veundåsen–solen",
+      "title": "Veundåsen–Sølen",
+      "number": "217",
+      "difficulty": "krevende",
+      "difficultyStatus": "provisional",
+      "stats": {
+        "distanceKm": 46.392454,
+        "boatKm": 0,
+        "climbM": 721,
+        "descentM": 721,
+        "minElevationM": 542,
+        "maxElevationM": 1066
+      },
+      "surface": {
+        "asphalt": 19.292718,
+        "gravel": 23.097635,
+        "trail": 4.002101,
+        "boat": 0
+      },
+      "routeUrl": "routes/217-veundasen-solen/route.json",
+      "pointsUrl": "routes/217-veundasen-solen/points.json",
+      "profileUrl": "routes/217-veundasen-solen/elevation-profile.json",
+      "segmentsUrl": "routes/217-veundasen-solen/segments.geojson",
+      "sourceGapCount": 0
+    },
+    {
+      "id": "218-tverrfjellsetra",
+      "title": "Tverrfjellsetra",
+      "number": "218",
+      "difficulty": "krevende",
+      "difficultyStatus": "provisional",
+      "stats": {
+        "distanceKm": 40.464124,
+        "boatKm": 0,
+        "climbM": 496,
+        "descentM": 534,
+        "minElevationM": 469,
+        "maxElevationM": 817
+      },
+      "surface": {
+        "asphalt": 18.230775,
+        "gravel": 19.063214,
+        "trail": 3.170135,
+        "boat": 0
+      },
+      "routeUrl": "routes/218-tverrfjellsetra/route.json",
+      "pointsUrl": "routes/218-tverrfjellsetra/points.json",
+      "profileUrl": "routes/218-tverrfjellsetra/elevation-profile.json",
+      "segmentsUrl": "routes/218-tverrfjellsetra/segments.geojson",
+      "sourceGapCount": 1
+    },
+    {
+      "id": "219-sendsjørunden",
+      "title": "Sendsjørunden",
+      "number": "219",
+      "difficulty": "middels",
+      "difficultyStatus": "provisional",
+      "stats": {
+        "distanceKm": 96.770901,
+        "boatKm": 0,
+        "climbM": 661,
+        "descentM": 661,
+        "minElevationM": 469,
+        "maxElevationM": 704
+      },
+      "surface": {
+        "asphalt": 57.050568,
+        "gravel": 39.720333,
+        "trail": 0,
+        "boat": 0
+      },
+      "routeUrl": "routes/219-sendsjorunden/route.json",
+      "pointsUrl": "routes/219-sendsjorunden/points.json",
+      "profileUrl": "routes/219-sendsjorunden/elevation-profile.json",
+      "segmentsUrl": "routes/219-sendsjorunden/segments.geojson",
+      "sourceGapCount": 0
+    },
+    {
+      "id": "femund-rundt",
+      "title": "Femund rundt",
+      "number": "",
+      "difficulty": "middels",
+      "difficultyStatus": "provisional",
+      "stats": {
+        "distanceKm": 101.348705,
+        "boatKm": 3.96987,
+        "climbM": 687,
+        "descentM": 687,
+        "minElevationM": 642,
+        "maxElevationM": 788
+      },
+      "surface": {
+        "asphalt": 87.471932,
+        "gravel": 13.876773,
+        "trail": 0,
+        "boat": 3.96987
+      },
+      "routeUrl": "routes/femund-rundt/route.json",
+      "pointsUrl": "routes/femund-rundt/points.json",
+      "profileUrl": "routes/femund-rundt/elevation-profile.json",
+      "segmentsUrl": "routes/femund-rundt/segments.geojson",
+      "sourceGapCount": 0
+    }
+  ]
+}
