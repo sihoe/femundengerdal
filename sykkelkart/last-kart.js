@@ -3,7 +3,7 @@
 const mount=document.getElementById('femund-sykkelkart');if(!mount||mount.dataset.loading==='true'||mount.querySelector('#fe-cycle-map'))return;
 const currentScript=document.currentScript;const base=new URL(mount.dataset.base||(currentScript?.src?'.':'https://cdn.jsdelivr.net/gh/sihoe/femundengerdal@main/sykkelkart/'),currentScript?.src||document.baseURI).href;
 const poiUrl=mount.dataset.poisUrl||'https://raw.githubusercontent.com/sihoe/femundengerdal/main/poi/pois_femundengerdal.json';
-const version='2026-11-13.1';mount.dataset.loading='true';mount.textContent='Laster sykkelrutene …';
+const version='2026-11-13.2';mount.dataset.loading='true';mount.textContent='Laster sykkelrutene …';
 function css(url){if([...document.querySelectorAll('link[rel="stylesheet"]')].some(x=>x.href===url))return;const e=document.createElement('link');e.rel='stylesheet';e.href=url;document.head.appendChild(e);}
 function script(url){return new Promise((resolve,reject)=>{const e=document.createElement('script');e.src=url;e.onload=resolve;e.onerror=()=>reject(new Error('Kunne ikke laste kartkode.'));document.head.appendChild(e);});}
 async function get(url,json){const response=await fetch(url,{cache:'no-store'});if(!response.ok)throw new Error('Kunne ikke hente '+new URL(url,document.baseURI).pathname+' ('+response.status+').');return json?response.json():response.text();}
