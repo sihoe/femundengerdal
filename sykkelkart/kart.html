@@ -1,0 +1,23 @@
+<div id="fe-cycle-map">
+  
+  <header class="fe-header"><div class="fe-brand">Femund Engerdal<span>EKTE VILLMARK · PÅ TO HJUL</span></div><div class="fe-header-right"><span>10 turer · skog, fjell og innsjøer</span><span class="fe-tag">Testkart</span></div></header>
+  <fieldset class="fe-service-filters"><legend>Vis tjenester og opplevelser</legend><div id="fe-service-filters"></div><span><b id="fe-poi-count">0</b> punkter</span></fieldset><div class="fe-layout">
+   <aside class="fe-sidebar">
+    <label class="fe-select-label" for="fe-route-select">Finn din sykkeltur</label>
+    <select id="fe-route-select" aria-label="Velg sykkelrute"></select>
+    <div class="fe-select-actions"><button class="fe-text-button" id="fe-all-routes" type="button">Vis alle rutene</button><span class="fe-eyebrow" id="fe-route-count">10 ruter</span></div>
+    <div id="fe-route-detail" aria-live="polite"></div>
+   </aside>
+   <section class="fe-right" aria-label="Kart og høydeprofil">
+    <div class="fe-map-wrap">
+     <div id="fe-leaflet-map" class="fe-map" aria-label="Sykkelruter og tilbud i Femund Engerdal"></div>
+     <div class="fe-map-toolbar"><div class="fe-basemaps" id="fe-basemap-control" style="display:none"><button id="fe-topo" type="button" aria-pressed="true">Topo</button><button id="fe-osm" type="button" aria-pressed="false">Veikart</button></div></div>
+     <div class="fe-map-legend"><span><i style="border-color:#183f6e"></i>Asfalt</span><span><i style="border-color:#7d4d1f"></i>Grus</span><span><i style="border-color:#579241"></i>Sti</span><span id="fe-boat-legend" hidden><i style="border-color:#b7dde0;border-top-style:dashed"></i>Båt</span></div>
+     <button id="fe-fit" class="fe-zoom-all" type="button">Hele turen</button>
+    </div>
+    <div class="fe-profile" id="fe-profile-panel"><div class="fe-profile-head"><b id="fe-profile-title">Høydeprofil</b><span id="fe-profile-range"></span></div><canvas id="fe-elevation-chart" class="fe-chart" role="img" aria-label="Høydeprofil med sykkelkilometer og meter over havet"></canvas><div class="fe-profile-info" id="fe-profile-info">Pek på profilen for å følge turen i kartet.</div></div>
+   </section>
+  </div>
+  <footer class="fe-footer"><span>Rutedata: kontrollert underlag · turtekster bearbeidet fra sykkelbrosjyren</span><button class="fe-text-button" type="button" id="fe-about">Om testkartet</button></footer>
+  <div class="fe-source-info" id="fe-source-info" hidden>Dette er en forhåndsvisning. Distanser kommer fra rutedataene; høydeberegningen bruker 200 m utjevning og 4 m reversering, separat for hver landserie. Båt inngår ikke i sykkelkilometer eller profil. Punkter og symboler er hentet fra den publiserte POI-filen i sihoe/femundengerdal. Punkter uten valgt symbol vises som en enkel prikk. Beskrivelsene er korte utdrag fra den eldre sykkelbrosjyren, tilpasset testen. Kilde: Kartverket og © OpenStreetMap-bidragsytere.</div>
+</div>
