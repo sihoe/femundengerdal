@@ -55,6 +55,10 @@
             61.678157
           ],
           [
+            12.005419,
+            61.677762
+          ],
+          [
             12.00543,
             61.677731
           ],
@@ -189,11 +193,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 0.249733,
-        "sourceToKm": 0.385667,
+        "sourceToKm": 0.299794,
         "fromKm": 0.249733,
-        "toKm": 0.385667,
-        "lengthKm": 0.135934,
-        "cyclingLengthKm": 0.135934,
+        "toKm": 0.299794,
+        "lengthKm": 0.050061,
+        "cyclingLengthKm": 0.050061,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -205,6 +209,40 @@
           [
             12.006993,
             61.676142
+          ],
+          [
+            12.007488,
+            61.675758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 0.299794,
+        "sourceToKm": 0.385667,
+        "fromKm": 0.299794,
+        "toKm": 0.385667,
+        "lengthKm": 0.085873,
+        "cyclingLengthKm": 0.085873,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.007488,
+            61.675758
+          ],
+          [
+            12.007982,
+            61.675374
           ],
           [
             12.008337,
@@ -219,11 +257,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 0.385667,
-        "sourceToKm": 0.412886,
+        "sourceToKm": 0.399733,
         "fromKm": 0.385667,
-        "toKm": 0.412886,
-        "lengthKm": 0.027219,
-        "cyclingLengthKm": 0.027219,
+        "toKm": 0.399733,
+        "lengthKm": 0.014066,
+        "cyclingLengthKm": 0.014066,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -237,8 +275,8 @@
             61.675099
           ],
           [
-            12.008609,
-            61.674891
+            12.008477,
+            61.674991
           ]
         ]
       }
@@ -248,12 +286,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 0.412886,
+        "sourceFromKm": 0.399733,
         "sourceToKm": 0.473949,
-        "fromKm": 0.412886,
+        "fromKm": 0.399733,
         "toKm": 0.473949,
-        "lengthKm": 0.061063,
-        "cyclingLengthKm": 0.061063,
+        "lengthKm": 0.074216,
+        "cyclingLengthKm": 0.074216,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -263,8 +301,16 @@
         "type": "LineString",
         "coordinates": [
           [
+            12.008477,
+            61.674991
+          ],
+          [
             12.008609,
             61.674891
+          ],
+          [
+            12.008965,
+            61.674606
           ],
           [
             12.00906,
@@ -321,12 +367,36 @@
             61.673638
           ],
           [
+            12.010182,
+            61.673391
+          ],
+          [
             12.010391,
             61.673125
           ],
           [
+            12.010507,
+            61.672969
+          ],
+          [
+            12.010821,
+            61.672545
+          ],
+          [
+            12.011136,
+            61.672121
+          ],
+          [
+            12.01145,
+            61.671697
+          ],
+          [
             12.011483,
             61.671653
+          ],
+          [
+            12.011774,
+            61.671275
           ],
           [
             12.011832,
@@ -349,6 +419,10 @@
             61.670216
           ],
           [
+            12.012977,
+            61.670055
+          ],
+          [
             12.013117,
             61.66993
           ]
@@ -361,11 +435,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 1.015099,
-        "sourceToKm": 1.087088,
+        "sourceToKm": 1.049289,
         "fromKm": 1.015099,
-        "toKm": 1.087088,
-        "lengthKm": 0.071989,
-        "cyclingLengthKm": 0.071989,
+        "toKm": 1.049289,
+        "lengthKm": 0.03419,
+        "cyclingLengthKm": 0.03419,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -379,8 +453,8 @@
             61.66993
           ],
           [
-            12.013748,
-            61.669356
+            12.013417,
+            61.669657
           ]
         ]
       }
@@ -390,12 +464,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 1.087088,
+        "sourceFromKm": 1.049289,
         "sourceToKm": 2.4956,
-        "fromKm": 1.087088,
+        "fromKm": 1.049289,
         "toKm": 2.4956,
-        "lengthKm": 1.408512,
-        "cyclingLengthKm": 1.408512,
+        "lengthKm": 1.446311,
+        "cyclingLengthKm": 1.446311,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -405,32 +479,80 @@
         "type": "LineString",
         "coordinates": [
           [
+            12.013417,
+            61.669657
+          ],
+          [
             12.013748,
             61.669356
+          ],
+          [
+            12.013852,
+            61.669258
           ],
           [
             12.014279,
             61.668858
           ],
           [
+            12.014718,
+            61.668459
+          ],
+          [
+            12.015157,
+            61.668061
+          ],
+          [
+            12.015596,
+            61.667663
+          ],
+          [
+            12.016034,
+            61.667265
+          ],
+          [
             12.016361,
             61.666968
+          ],
+          [
+            12.016471,
+            61.666866
           ],
           [
             12.016665,
             61.666684
           ],
           [
+            12.016906,
+            61.666467
+          ],
+          [
             12.017083,
             61.666308
+          ],
+          [
+            12.017344,
+            61.666068
+          ],
+          [
+            12.017779,
+            61.665669
           ],
           [
             12.018015,
             61.665452
           ],
           [
+            12.018218,
+            61.665271
+          ],
+          [
             12.018279,
             61.665216
+          ],
+          [
+            12.018656,
+            61.664873
           ],
           [
             12.018851,
@@ -449,20 +571,40 @@
             61.663831
           ],
           [
+            12.019858,
+            61.663652
+          ],
+          [
             12.020037,
             61.663434
+          ],
+          [
+            12.020191,
+            61.663232
           ],
           [
             12.020264,
             61.663137
           ],
           [
+            12.0205,
+            61.662807
+          ],
+          [
             12.020697,
             61.662532
           ],
           [
+            12.020798,
+            61.662381
+          ],
+          [
             12.020899,
             61.66223
+          ],
+          [
+            12.021093,
+            61.661954
           ],
           [
             12.021114,
@@ -477,12 +619,24 @@
             61.661221
           ],
           [
+            12.021738,
+            61.661109
+          ],
+          [
             12.021806,
             61.661026
           ],
           [
+            12.022095,
+            61.660693
+          ],
+          [
             12.022149,
             61.66063
+          ],
+          [
+            12.022462,
+            61.660278
           ],
           [
             12.02249,
@@ -493,12 +647,32 @@
             61.660051
           ],
           [
+            12.022843,
+            61.659867
+          ],
+          [
             12.022935,
             61.659765
           ],
           [
+            12.023222,
+            61.659455
+          ],
+          [
+            12.023603,
+            61.659044
+          ],
+          [
+            12.023984,
+            61.658633
+          ],
+          [
             12.024029,
             61.658584
+          ],
+          [
+            12.024362,
+            61.65822
           ],
           [
             12.024558,
@@ -521,11 +695,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 2.4956,
-        "sourceToKm": 2.60659,
+        "sourceToKm": 2.498307,
         "fromKm": 2.4956,
-        "toKm": 2.60659,
-        "lengthKm": 0.11099,
-        "cyclingLengthKm": 0.11099,
+        "toKm": 2.498307,
+        "lengthKm": 0.002707,
+        "cyclingLengthKm": 0.002707,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -539,8 +713,8 @@
             61.657831
           ],
           [
-            12.025565,
-            61.656917
+            12.024741,
+            61.657809
           ]
         ]
       }
@@ -550,12 +724,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 2.60659,
+        "sourceFromKm": 2.498307,
         "sourceToKm": 2.619953,
-        "fromKm": 2.60659,
+        "fromKm": 2.498307,
         "toKm": 2.619953,
-        "lengthKm": 0.013363,
-        "cyclingLengthKm": 0.013363,
+        "lengthKm": 0.121646,
+        "cyclingLengthKm": 0.121646,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -564,6 +738,18 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [
+            12.024741,
+            61.657809
+          ],
+          [
+            12.025121,
+            61.657397
+          ],
+          [
+            12.025501,
+            61.656986
+          ],
           [
             12.025565,
             61.656917
@@ -581,11 +767,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 2.619953,
-        "sourceToKm": 2.654438,
+        "sourceToKm": 2.648197,
         "fromKm": 2.619953,
-        "toKm": 2.654438,
-        "lengthKm": 0.034485,
-        "cyclingLengthKm": 0.034485,
+        "toKm": 2.648197,
+        "lengthKm": 0.028244,
+        "cyclingLengthKm": 0.028244,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -599,8 +785,8 @@
             61.656806
           ],
           [
-            12.025899,
-            61.656517
+            12.025856,
+            61.656569
           ]
         ]
       }
@@ -610,12 +796,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 2.654438,
+        "sourceFromKm": 2.648197,
         "sourceToKm": 3.09655,
-        "fromKm": 2.654438,
+        "fromKm": 2.648197,
         "toKm": 3.09655,
-        "lengthKm": 0.442112,
-        "cyclingLengthKm": 0.442112,
+        "lengthKm": 0.448353,
+        "cyclingLengthKm": 0.448353,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -624,6 +810,10 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [
+            12.025856,
+            61.656569
+          ],
           [
             12.025899,
             61.656517
@@ -677,8 +867,24 @@
             61.654406
           ],
           [
+            12.026351,
+            61.65437
+          ],
+          [
             12.026255,
             61.654103
+          ],
+          [
+            12.026186,
+            61.653927
+          ],
+          [
+            12.026012,
+            61.653486
+          ],
+          [
+            12.025838,
+            61.653044
           ],
           [
             12.02583,
@@ -717,6 +923,10 @@
           [
             12.025683,
             61.652613
+          ],
+          [
+            12.02568,
+            61.652601
           ],
           [
             12.025652,
@@ -767,6 +977,10 @@
           [
             12.025492,
             61.651414
+          ],
+          [
+            12.025496,
+            61.651257
           ],
           [
             12.025503,
@@ -845,6 +1059,10 @@
             61.65001
           ],
           [
+            12.02572,
+            61.649915
+          ],
+          [
             12.02576,
             61.649801
           ],
@@ -853,16 +1071,36 @@
             61.649481
           ],
           [
+            12.026082,
+            61.649033
+          ],
+          [
             12.026232,
             61.648688
+          ],
+          [
+            12.026273,
+            61.648593
+          ],
+          [
+            12.026464,
+            61.648152
           ],
           [
             12.026532,
             61.647995
           ],
           [
+            12.02664,
+            61.647711
+          ],
+          [
             12.026668,
             61.647639
+          ],
+          [
+            12.026799,
+            61.647268
           ],
           [
             12.026838,
@@ -881,12 +1119,20 @@
             61.646221
           ],
           [
+            12.027126,
+            61.64593
+          ],
+          [
             12.027167,
             61.645689
           ],
           [
             12.027183,
             61.645566
+          ],
+          [
+            12.027196,
+            61.645481
           ],
           [
             12.027231,
@@ -897,6 +1143,10 @@
             61.645134
           ],
           [
+            12.027268,
+            61.645033
+          ],
+          [
             12.027291,
             61.644868
           ],
@@ -905,12 +1155,36 @@
             61.64461
           ],
           [
+            12.02734,
+            61.644585
+          ],
+          [
             12.02735,
             61.644494
           ],
           [
+            12.02741,
+            61.644137
+          ],
+          [
+            12.027485,
+            61.643689
+          ],
+          [
             12.027554,
             61.643281
+          ],
+          [
+            12.02756,
+            61.643241
+          ],
+          [
+            12.027631,
+            61.642793
+          ],
+          [
+            12.027702,
+            61.642345
           ],
           [
             12.027752,
@@ -931,6 +1205,14 @@
           [
             12.028038,
             61.641059
+          ],
+          [
+            12.028066,
+            61.641011
+          ],
+          [
+            12.028316,
+            61.640577
           ],
           [
             12.028389,
@@ -1017,20 +1299,52 @@
             61.639317
           ],
           [
+            12.028557,
+            61.639241
+          ],
+          [
+            12.028531,
+            61.638792
+          ],
+          [
             12.028523,
             61.638658
+          ],
+          [
+            12.028508,
+            61.638343
           ],
           [
             12.028492,
             61.638017
           ],
           [
+            12.028486,
+            61.637894
+          ],
+          [
+            12.028465,
+            61.637445
+          ],
+          [
             12.028463,
             61.637408
           ],
           [
+            12.028438,
+            61.636995
+          ],
+          [
             12.028425,
             61.636781
+          ],
+          [
+            12.028414,
+            61.636546
+          ],
+          [
+            12.028394,
+            61.636097
           ],
           [
             12.028391,
@@ -1065,6 +1379,10 @@
             61.634835
           ],
           [
+            12.02858,
+            61.634755
+          ],
+          [
             12.028587,
             61.634741
           ],
@@ -1077,8 +1395,16 @@
             61.634517
           ],
           [
+            12.028803,
+            61.634319
+          ],
+          [
             12.028815,
             61.6343
+          ],
+          [
+            12.029062,
+            61.633887
           ],
           [
             12.029109,
@@ -1113,16 +1439,36 @@
             61.632644
           ],
           [
+            12.029562,
+            61.632564
+          ],
+          [
             12.0296,
             61.632326
+          ],
+          [
+            12.029631,
+            61.632116
           ],
           [
             12.029677,
             61.631798
           ],
           [
+            12.029693,
+            61.631667
+          ],
+          [
             12.029743,
             61.631268
+          ],
+          [
+            12.02975,
+            61.631219
+          ],
+          [
+            12.029817,
+            61.630771
           ],
           [
             12.029822,
@@ -1133,12 +1479,40 @@
             61.630427
           ],
           [
+            12.029889,
+            61.630323
+          ],
+          [
+            12.029955,
+            61.629874
+          ],
+          [
+            12.03002,
+            61.629426
+          ],
+          [
             12.030029,
             61.629363
           ],
           [
+            12.030084,
+            61.628978
+          ],
+          [
+            12.030149,
+            61.62853
+          ],
+          [
+            12.030213,
+            61.628081
+          ],
+          [
             12.030239,
             61.627901
+          ],
+          [
+            12.030273,
+            61.627633
           ],
           [
             12.030283,
@@ -1149,8 +1523,16 @@
             61.627347
           ],
           [
+            12.030334,
+            61.627184
+          ],
+          [
             12.030341,
             61.627125
+          ],
+          [
+            12.030399,
+            61.626736
           ],
           [
             12.030437,
@@ -1177,6 +1559,10 @@
             61.625482
           ],
           [
+            12.030738,
+            61.625399
+          ],
+          [
             12.030827,
             61.625202
           ],
@@ -1185,8 +1571,16 @@
             61.62497
           ],
           [
+            12.030947,
+            61.624961
+          ],
+          [
             12.031071,
             61.624735
+          ],
+          [
+            12.031196,
+            61.624527
           ],
           [
             12.031205,
@@ -1209,11 +1603,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 6.291926,
-        "sourceToKm": 6.369891,
+        "sourceToKm": 6.295726,
         "fromKm": 6.291926,
-        "toKm": 6.369891,
-        "lengthKm": 0.077965,
-        "cyclingLengthKm": 0.077965,
+        "toKm": 6.295726,
+        "lengthKm": 0.0038,
+        "cyclingLengthKm": 0.0038,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1227,8 +1621,8 @@
             61.624129
           ],
           [
-            12.03187,
-            61.623458
+            12.031463,
+            61.624096
           ]
         ]
       }
@@ -1238,12 +1632,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 6.369891,
+        "sourceFromKm": 6.295726,
         "sourceToKm": 6.381882,
-        "fromKm": 6.369891,
+        "fromKm": 6.295726,
         "toKm": 6.381882,
-        "lengthKm": 0.011991,
-        "cyclingLengthKm": 0.011991,
+        "lengthKm": 0.086156,
+        "cyclingLengthKm": 0.086156,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1252,6 +1646,14 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [
+            12.031463,
+            61.624096
+          ],
+          [
+            12.031737,
+            61.623666
+          ],
           [
             12.03187,
             61.623458
@@ -1269,11 +1671,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 6.381882,
-        "sourceToKm": 6.424844,
+        "sourceToKm": 6.395658,
         "fromKm": 6.381882,
-        "toKm": 6.424844,
-        "lengthKm": 0.042962,
-        "cyclingLengthKm": 0.042962,
+        "toKm": 6.395658,
+        "lengthKm": 0.013776,
+        "cyclingLengthKm": 0.013776,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1287,8 +1689,8 @@
             61.623354
           ],
           [
-            12.032142,
-            61.622981
+            12.031998,
+            61.623234
           ]
         ]
       }
@@ -1298,12 +1700,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 6.424844,
+        "sourceFromKm": 6.395658,
         "sourceToKm": 6.576307,
-        "fromKm": 6.424844,
+        "fromKm": 6.395658,
         "toKm": 6.576307,
-        "lengthKm": 0.151463,
-        "cyclingLengthKm": 0.151463,
+        "lengthKm": 0.180649,
+        "cyclingLengthKm": 0.180649,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1312,6 +1714,10 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [
+            12.031998,
+            61.623234
+          ],
           [
             12.032142,
             61.622981
@@ -1323,6 +1729,10 @@
           [
             12.032542,
             61.622142
+          ],
+          [
+            12.03263,
+            61.621921
           ],
           [
             12.032739,
@@ -1337,11 +1747,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 6.576307,
-        "sourceToKm": 6.626898,
+        "sourceToKm": 6.595527,
         "fromKm": 6.576307,
-        "toKm": 6.626898,
-        "lengthKm": 0.050591,
-        "cyclingLengthKm": 0.050591,
+        "toKm": 6.595527,
+        "lengthKm": 0.01922,
+        "cyclingLengthKm": 0.01922,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1355,8 +1765,8 @@
             61.621649
           ],
           [
-            12.032906,
-            61.621201
+            12.032802,
+            61.621479
           ]
         ]
       }
@@ -1366,12 +1776,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 6.626898,
+        "sourceFromKm": 6.595527,
         "sourceToKm": 6.816738,
-        "fromKm": 6.626898,
+        "fromKm": 6.595527,
         "toKm": 6.816738,
-        "lengthKm": 0.18984,
-        "cyclingLengthKm": 0.18984,
+        "lengthKm": 0.221211,
+        "cyclingLengthKm": 0.221211,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1381,6 +1791,10 @@
         "type": "LineString",
         "coordinates": [
           [
+            12.032802,
+            61.621479
+          ],
+          [
             12.032906,
             61.621201
           ],
@@ -1389,12 +1803,28 @@
             61.621108
           ],
           [
+            12.032965,
+            61.621036
+          ],
+          [
             12.032984,
             61.620989
           ],
           [
+            12.03313,
+            61.620594
+          ],
+          [
+            12.033293,
+            61.620151
+          ],
+          [
             12.033329,
             61.620054
+          ],
+          [
+            12.033453,
+            61.619708
           ],
           [
             12.033521,
@@ -1409,11 +1839,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 6.816738,
-        "sourceToKm": 6.987149,
+        "sourceToKm": 6.845354,
         "fromKm": 6.816738,
-        "toKm": 6.987149,
-        "lengthKm": 0.170411,
-        "cyclingLengthKm": 0.170411,
+        "toKm": 6.845354,
+        "lengthKm": 0.028616,
+        "cyclingLengthKm": 0.028616,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1425,6 +1855,44 @@
           [
             12.033521,
             61.619519
+          ],
+          [
+            12.033615,
+            61.619266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 6.845354,
+        "sourceToKm": 6.987149,
+        "fromKm": 6.845354,
+        "toKm": 6.987149,
+        "lengthKm": 0.141795,
+        "cyclingLengthKm": 0.141795,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.033615,
+            61.619266
+          ],
+          [
+            12.033781,
+            61.618823
+          ],
+          [
+            12.033946,
+            61.618381
           ],
           [
             12.034084,
@@ -1439,11 +1907,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 6.987149,
-        "sourceToKm": 7.042463,
+        "sourceToKm": 6.995253,
         "fromKm": 6.987149,
-        "toKm": 7.042463,
-        "lengthKm": 0.055314,
-        "cyclingLengthKm": 0.055314,
+        "toKm": 6.995253,
+        "lengthKm": 0.008104,
+        "cyclingLengthKm": 0.008104,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1457,8 +1925,8 @@
             61.61801
           ],
           [
-            12.034287,
-            61.617522
+            12.034114,
+            61.617939
           ]
         ]
       }
@@ -1468,12 +1936,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 7.042463,
+        "sourceFromKm": 6.995253,
         "sourceToKm": 7.508695,
-        "fromKm": 7.042463,
+        "fromKm": 6.995253,
         "toKm": 7.508695,
-        "lengthKm": 0.466232,
-        "cyclingLengthKm": 0.466232,
+        "lengthKm": 0.513442,
+        "cyclingLengthKm": 0.513442,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1482,6 +1950,10 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [
+            12.034114,
+            61.617939
+          ],
           [
             12.034287,
             61.617522
@@ -1499,24 +1971,48 @@
             61.616925
           ],
           [
+            12.034771,
+            61.616628
+          ],
+          [
             12.034916,
             61.616392
+          ],
+          [
+            12.035047,
+            61.616198
           ],
           [
             12.035196,
             61.615978
           ],
           [
+            12.035348,
+            61.615772
+          ],
+          [
             12.035398,
             61.615704
+          ],
+          [
+            12.035685,
+            61.615353
           ],
           [
             12.035879,
             61.615115
           ],
           [
+            12.03603,
+            61.614934
+          ],
+          [
             12.036293,
             61.614619
+          ],
+          [
+            12.036374,
+            61.614516
           ],
           [
             12.036383,
@@ -1555,11 +2051,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 7.508695,
-        "sourceToKm": 7.52738,
+        "sourceToKm": 7.527381,
         "fromKm": 7.508695,
-        "toKm": 7.52738,
-        "lengthKm": 0.018685,
-        "cyclingLengthKm": 0.018685,
+        "toKm": 7.527381,
+        "lengthKm": 0.018686,
+        "cyclingLengthKm": 0.018686,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1584,12 +2080,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 7.52738,
+        "sourceFromKm": 7.527381,
         "sourceToKm": 7.938095,
-        "fromKm": 7.52738,
+        "fromKm": 7.527381,
         "toKm": 7.938095,
-        "lengthKm": 0.410715,
-        "cyclingLengthKm": 0.410715,
+        "lengthKm": 0.410714,
+        "cyclingLengthKm": 0.410714,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1607,12 +2103,24 @@
             61.613246
           ],
           [
+            12.036739,
+            61.613191
+          ],
+          [
             12.036709,
             61.613015
           ],
           [
             12.036657,
             61.612818
+          ],
+          [
+            12.036635,
+            61.612744
+          ],
+          [
+            12.036503,
+            61.6123
           ],
           [
             12.036472,
@@ -1667,6 +2175,10 @@
             61.610176
           ],
           [
+            12.037482,
+            61.610152
+          ],
+          [
             12.037882,
             61.609811
           ]
@@ -1679,11 +2191,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 7.938095,
-        "sourceToKm": 7.957415,
+        "sourceToKm": 7.944603,
         "fromKm": 7.938095,
-        "toKm": 7.957415,
-        "lengthKm": 0.01932,
-        "cyclingLengthKm": 0.01932,
+        "toKm": 7.944603,
+        "lengthKm": 0.006508,
+        "cyclingLengthKm": 0.006508,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1695,6 +2207,36 @@
           [
             12.037882,
             61.609811
+          ],
+          [
+            12.037942,
+            61.60976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 7.944603,
+        "sourceToKm": 7.957415,
+        "fromKm": 7.944603,
+        "toKm": 7.957415,
+        "lengthKm": 0.012812,
+        "cyclingLengthKm": 0.012812,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.037942,
+            61.60976
           ],
           [
             12.038059,
@@ -1709,11 +2251,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 7.957415,
-        "sourceToKm": 7.9804,
+        "sourceToKm": 7.980401,
         "fromKm": 7.957415,
-        "toKm": 7.9804,
-        "lengthKm": 0.022985,
-        "cyclingLengthKm": 0.022985,
+        "toKm": 7.980401,
+        "lengthKm": 0.022986,
+        "cyclingLengthKm": 0.022986,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1738,12 +2280,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 7.9804,
-        "sourceToKm": 7.998118,
-        "fromKm": 7.9804,
-        "toKm": 7.998118,
-        "lengthKm": 0.017718,
-        "cyclingLengthKm": 0.017718,
+        "sourceFromKm": 7.980401,
+        "sourceToKm": 7.994574,
+        "fromKm": 7.980401,
+        "toKm": 7.994574,
+        "lengthKm": 0.014173,
+        "cyclingLengthKm": 0.014173,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1755,6 +2297,36 @@
           [
             12.038269,
             61.609478
+          ],
+          [
+            12.038397,
+            61.609366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 7.994574,
+        "sourceToKm": 7.998118,
+        "fromKm": 7.994574,
+        "toKm": 7.998118,
+        "lengthKm": 0.003544,
+        "cyclingLengthKm": 0.003544,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.038397,
+            61.609366
           ],
           [
             12.038429,
@@ -1799,11 +2371,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 8.012317,
-        "sourceToKm": 8.059011,
+        "sourceToKm": 8.044543,
         "fromKm": 8.012317,
-        "toKm": 8.059011,
-        "lengthKm": 0.046694,
-        "cyclingLengthKm": 0.046694,
+        "toKm": 8.044543,
+        "lengthKm": 0.032226,
+        "cyclingLengthKm": 0.032226,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1817,8 +2389,8 @@
             61.609226
           ],
           [
-            12.038991,
-            61.60886
+            12.038857,
+            61.608973
           ]
         ]
       }
@@ -1828,12 +2400,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 8.059011,
+        "sourceFromKm": 8.044543,
         "sourceToKm": 8.12334,
-        "fromKm": 8.059011,
+        "fromKm": 8.044543,
         "toKm": 8.12334,
-        "lengthKm": 0.064329,
-        "cyclingLengthKm": 0.064329,
+        "lengthKm": 0.078797,
+        "cyclingLengthKm": 0.078797,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1843,8 +2415,16 @@
         "type": "LineString",
         "coordinates": [
           [
+            12.038857,
+            61.608973
+          ],
+          [
             12.038991,
             61.60886
+          ],
+          [
+            12.039314,
+            61.60858
           ],
           [
             12.039577,
@@ -1907,8 +2487,20 @@
             61.608238
           ],
           [
+            12.039772,
+            61.608187
+          ],
+          [
+            12.040234,
+            61.607795
+          ],
+          [
             12.04042,
             61.607637
+          ],
+          [
+            12.040692,
+            61.607402
           ],
           [
             12.041129,
@@ -1923,11 +2515,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 8.292277,
-        "sourceToKm": 8.308991,
+        "sourceToKm": 8.29437,
         "fromKm": 8.292277,
-        "toKm": 8.308991,
-        "lengthKm": 0.016714,
-        "cyclingLengthKm": 0.016714,
+        "toKm": 8.29437,
+        "lengthKm": 0.002093,
+        "cyclingLengthKm": 0.002093,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1941,8 +2533,8 @@
             61.607025
           ],
           [
-            12.041284,
-            61.606894
+            12.041148,
+            61.607009
           ]
         ]
       }
@@ -1952,12 +2544,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 8.308991,
+        "sourceFromKm": 8.29437,
         "sourceToKm": 8.50739,
-        "fromKm": 8.308991,
+        "fromKm": 8.29437,
         "toKm": 8.50739,
-        "lengthKm": 0.198399,
-        "cyclingLengthKm": 0.198399,
+        "lengthKm": 0.21302,
+        "cyclingLengthKm": 0.21302,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -1966,6 +2558,10 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [
+            12.041148,
+            61.607009
+          ],
           [
             12.041284,
             61.606894
@@ -2015,6 +2611,10 @@
             61.605402
           ],
           [
+            12.042115,
+            61.6053
+          ],
+          [
             12.042114,
             61.605289
           ],
@@ -2053,52 +2653,136 @@
             61.60505
           ],
           [
+            12.04202,
+            61.604853
+          ],
+          [
             12.041908,
             61.604444
+          ],
+          [
+            12.041898,
+            61.604408
+          ],
+          [
+            12.041771,
+            61.603962
+          ],
+          [
+            12.041644,
+            61.603517
+          ],
+          [
+            12.041517,
+            61.603072
           ],
           [
             12.0415,
             61.60301
           ],
           [
+            12.041394,
+            61.602626
+          ],
+          [
             12.041337,
             61.602422
+          ],
+          [
+            12.041268,
+            61.602181
           ],
           [
             12.041221,
             61.602018
           ],
           [
+            12.041143,
+            61.601735
+          ],
+          [
             12.041036,
             61.601351
+          ],
+          [
+            12.041019,
+            61.60129
+          ],
+          [
+            12.040893,
+            61.600845
           ],
           [
             12.040848,
             61.600684
           ],
           [
+            12.040766,
+            61.600399
+          ],
+          [
             12.04073,
             61.600276
+          ],
+          [
+            12.040641,
+            61.599954
           ],
           [
             12.040616,
             61.599862
           ],
           [
+            12.04051,
+            61.599509
+          ],
+          [
             12.040492,
             61.599447
+          ],
+          [
+            12.040384,
+            61.599063
           ],
           [
             12.040273,
             61.598667
           ],
           [
+            12.040259,
+            61.598618
+          ],
+          [
+            12.040134,
+            61.598173
+          ],
+          [
             12.040066,
             61.597932
           ],
           [
+            12.040009,
+            61.597727
+          ],
+          [
+            12.039886,
+            61.597282
+          ],
+          [
             12.039766,
             61.596847
+          ],
+          [
+            12.039763,
+            61.596836
+          ],
+          [
+            12.039635,
+            61.596391
+          ],
+          [
+            12.039507,
+            61.595946
           ],
           [
             12.039463,
@@ -2107,6 +2791,10 @@
           [
             12.039426,
             61.595625
+          ],
+          [
+            12.039408,
+            61.595499
           ],
           [
             12.039393,
@@ -2119,6 +2807,10 @@
           [
             12.03941,
             61.594934
+          ],
+          [
+            12.039412,
+            61.594923
           ],
           [
             12.039447,
@@ -2149,6 +2841,10 @@
             61.593843
           ],
           [
+            12.039979,
+            61.593834
+          ],
+          [
             12.040061,
             61.593742
           ],
@@ -2161,16 +2857,32 @@
             61.593455
           ],
           [
+            12.040475,
+            61.593346
+          ],
+          [
             12.040659,
             61.593187
+          ],
+          [
+            12.040937,
+            61.592954
           ],
           [
             12.041262,
             61.59268
           ],
           [
+            12.041407,
+            61.592564
+          ],
+          [
             12.041618,
             61.592396
+          ],
+          [
+            12.041862,
+            61.592171
           ],
           [
             12.041995,
@@ -2183,6 +2895,10 @@
           [
             12.042235,
             61.591782
+          ],
+          [
+            12.042251,
+            61.591761
           ],
           [
             12.042304,
@@ -2217,12 +2933,24 @@
             61.589994
           ],
           [
+            12.042984,
+            61.58955
+          ],
+          [
             12.043014,
             61.589374
           ],
           [
+            12.043067,
+            61.589103
+          ],
+          [
             12.043116,
             61.588848
+          ],
+          [
+            12.043144,
+            61.588655
           ],
           [
             12.043149,
@@ -2233,16 +2961,44 @@
             61.58847
           ],
           [
+            12.043233,
+            61.588208
+          ],
+          [
+            12.043313,
+            61.58776
+          ],
+          [
             12.043346,
             61.587578
+          ],
+          [
+            12.043401,
+            61.587312
           ],
           [
             12.04345,
             61.587075
           ],
           [
+            12.043489,
+            61.586865
+          ],
+          [
+            12.043573,
+            61.586418
+          ],
+          [
             12.043642,
             61.586048
+          ],
+          [
+            12.043658,
+            61.58597
+          ],
+          [
+            12.043746,
+            61.585523
           ],
           [
             12.04377,
@@ -2253,12 +3009,24 @@
             61.585294
           ],
           [
+            12.043823,
+            61.585075
+          ],
+          [
             12.043841,
             61.584973
           ],
           [
+            12.043908,
+            61.584627
+          ],
+          [
             12.043992,
             61.584194
+          ],
+          [
+            12.043995,
+            61.58418
           ],
           [
             12.044027,
@@ -2273,12 +3041,20 @@
             61.583482
           ],
           [
+            12.04415,
+            61.583472
+          ],
+          [
             12.044236,
             61.583199
           ],
           [
             12.044282,
             61.583053
+          ],
+          [
+            12.044366,
+            61.582844
           ],
           [
             12.044374,
@@ -2289,16 +3065,36 @@
             61.582501
           ],
           [
+            12.044575,
+            61.582406
+          ],
+          [
             12.04472,
             61.582133
+          ],
+          [
+            12.044816,
+            61.581972
           ],
           [
             12.045053,
             61.581572
           ],
           [
+            12.045074,
+            61.581539
+          ],
+          [
+            12.045356,
+            61.58111
+          ],
+          [
             12.045474,
             61.580931
+          ],
+          [
+            12.045632,
+            61.580681
           ],
           [
             12.045643,
@@ -2325,12 +3121,28 @@
             61.579391
           ],
           [
+            12.046205,
+            61.579362
+          ],
+          [
+            12.04633,
+            61.578916
+          ],
+          [
             12.046356,
             61.578824
           ],
           [
+            12.046445,
+            61.57847
+          ],
+          [
             12.046554,
             61.578037
+          ],
+          [
+            12.046558,
+            61.578024
           ],
           [
             12.046611,
@@ -2339,6 +3151,10 @@
           [
             12.046687,
             61.577651
+          ],
+          [
+            12.046715,
+            61.577581
           ],
           [
             12.046772,
@@ -2353,6 +3169,10 @@
             61.577013
           ],
           [
+            12.046995,
+            61.577002
+          ],
+          [
             12.047161,
             61.576723
           ],
@@ -2361,8 +3181,16 @@
             61.576433
           ],
           [
+            12.047461,
+            61.576282
+          ],
+          [
             12.04757,
             61.576132
+          ],
+          [
+            12.047795,
+            61.575862
           ],
           [
             12.047826,
@@ -2371,6 +3199,10 @@
           [
             12.048098,
             61.575534
+          ],
+          [
+            12.048182,
+            61.575452
           ],
           [
             12.048289,
@@ -2389,36 +3221,100 @@
             61.574782
           ],
           [
+            12.048942,
+            61.574773
+          ],
+          [
+            12.049563,
+            61.574276
+          ],
+          [
             12.049864,
             61.574034
+          ],
+          [
+            12.050044,
+            61.573889
+          ],
+          [
+            12.050523,
+            61.573502
           ],
           [
             12.050972,
             61.573139
           ],
           [
+            12.051002,
+            61.573115
+          ],
+          [
+            12.051485,
+            61.572728
+          ],
+          [
+            12.051967,
+            61.572342
+          ],
+          [
+            12.052449,
+            61.571956
+          ],
+          [
+            12.052931,
+            61.57157
+          ],
+          [
             12.053304,
             61.571271
+          ],
+          [
+            12.053413,
+            61.571183
           ],
           [
             12.05382,
             61.570857
           ],
           [
+            12.053896,
+            61.570797
+          ],
+          [
             12.054281,
             61.570496
+          ],
+          [
+            12.054384,
+            61.570412
           ],
           [
             12.054797,
             61.570075
           ],
           [
+            12.054862,
+            61.570025
+          ],
+          [
             12.054932,
             61.569971
           ],
           [
+            12.055345,
+            61.569639
+          ],
+          [
+            12.055825,
+            61.569252
+          ],
+          [
             12.056272,
             61.568892
+          ],
+          [
+            12.056306,
+            61.568865
           ],
           [
             12.056791,
@@ -2449,6 +3345,10 @@
             61.567795
           ],
           [
+            12.057929,
+            61.567766
+          ],
+          [
             12.058063,
             61.567704
           ],
@@ -2461,6 +3361,10 @@
             61.567529
           ],
           [
+            12.058645,
+            61.567474
+          ],
+          [
             12.058759,
             61.567433
           ],
@@ -2469,8 +3373,16 @@
             61.567386
           ],
           [
+            12.05942,
+            61.567218
+          ],
+          [
             12.059736,
             61.567116
+          ],
+          [
+            12.060195,
+            61.566961
           ],
           [
             12.060259,
@@ -2509,6 +3421,10 @@
             61.56611
           ],
           [
+            12.061796,
+            61.566101
+          ],
+          [
             12.061945,
             61.565965
           ],
@@ -2517,8 +3433,20 @@
             61.565714
           ],
           [
+            12.062357,
+            61.565522
+          ],
+          [
+            12.062729,
+            61.565109
+          ],
+          [
             12.062977,
             61.564833
+          ],
+          [
+            12.063109,
+            61.564697
           ],
           [
             12.063199,
@@ -2527,6 +3455,10 @@
           [
             12.063352,
             61.564462
+          ],
+          [
+            12.063549,
+            61.5643
           ],
           [
             12.063619,
@@ -2539,6 +3471,14 @@
           [
             12.064041,
             61.563938
+          ],
+          [
+            12.064063,
+            61.563924
+          ],
+          [
+            12.064622,
+            61.563561
           ],
           [
             12.064774,
@@ -2621,8 +3561,16 @@
             61.562544
           ],
           [
+            12.065869,
+            61.562363
+          ],
+          [
             12.065986,
             61.562158
+          ],
+          [
+            12.066109,
+            61.561928
           ],
           [
             12.066117,
@@ -2687,6 +3635,10 @@
           [
             12.066432,
             61.561462
+          ],
+          [
+            12.066442,
+            61.561452
           ],
           [
             12.066546,
@@ -2757,8 +3709,16 @@
             61.56091
           ],
           [
+            12.067317,
+            61.560718
+          ],
+          [
             12.067515,
             61.56057
+          ],
+          [
+            12.067816,
+            61.560336
           ],
           [
             12.067845,
@@ -2829,6 +3789,10 @@
             61.559861
           ],
           [
+            12.068336,
+            61.55985
+          ],
+          [
             12.068438,
             61.559722
           ],
@@ -2857,6 +3821,10 @@
             61.55909
           ],
           [
+            12.068731,
+            61.559073
+          ],
+          [
             12.06876,
             61.558882
           ],
@@ -2865,8 +3833,16 @@
             61.558653
           ],
           [
+            12.068778,
+            61.558624
+          ],
+          [
             12.068793,
             61.558219
+          ],
+          [
+            12.068799,
+            61.558175
           ],
           [
             12.068822,
@@ -2893,6 +3869,10 @@
             61.557424
           ],
           [
+            12.069068,
+            61.55741
+          ],
+          [
             12.069153,
             61.557287
           ],
@@ -2901,12 +3881,24 @@
             61.557136
           ],
           [
+            12.069507,
+            61.55688
+          ],
+          [
             12.069658,
             61.556715
           ],
           [
+            12.06989,
+            61.55647
+          ],
+          [
             12.070157,
             61.556189
+          ],
+          [
+            12.070279,
+            61.556061
           ],
           [
             12.070474,
@@ -2921,11 +3913,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 14.415112,
-        "sourceToKm": 14.455509,
+        "sourceToKm": 14.440195,
         "fromKm": 14.415112,
-        "toKm": 14.455509,
-        "lengthKm": 0.040397,
-        "cyclingLengthKm": 0.040397,
+        "toKm": 14.440195,
+        "lengthKm": 0.025083,
+        "cyclingLengthKm": 0.025083,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -2939,8 +3931,8 @@
             61.555857
           ],
           [
-            12.070793,
-            61.555527
+            12.070672,
+            61.555652
           ]
         ]
       }
@@ -2950,12 +3942,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 14.455509,
+        "sourceFromKm": 14.440195,
         "sourceToKm": 15.184546,
-        "fromKm": 14.455509,
+        "fromKm": 14.440195,
         "toKm": 15.184546,
-        "lengthKm": 0.729037,
-        "cyclingLengthKm": 0.729037,
+        "lengthKm": 0.744351,
+        "cyclingLengthKm": 0.744351,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -2965,8 +3957,16 @@
         "type": "LineString",
         "coordinates": [
           [
+            12.070672,
+            61.555652
+          ],
+          [
             12.070793,
             61.555527
+          ],
+          [
+            12.071056,
+            61.555242
           ],
           [
             12.071216,
@@ -2985,6 +3985,10 @@
             61.554534
           ],
           [
+            12.071594,
+            61.55452
+          ],
+          [
             12.071651,
             61.554393
           ],
@@ -2997,12 +4001,24 @@
             61.554128
           ],
           [
+            12.071756,
+            61.553945
+          ],
+          [
             12.071781,
             61.553788
           ],
           [
+            12.071816,
+            61.553496
+          ],
+          [
             12.071862,
             61.55311
+          ],
+          [
+            12.071873,
+            61.553048
           ],
           [
             12.071906,
@@ -3015,6 +4031,10 @@
           [
             12.072064,
             61.552473
+          ],
+          [
+            12.072073,
+            61.552461
           ],
           [
             12.072171,
@@ -3033,12 +4053,32 @@
             61.551787
           ],
           [
+            12.072706,
+            61.551773
+          ],
+          [
+            12.07318,
+            61.551385
+          ],
+          [
             12.073577,
             61.551059
           ],
           [
+            12.073655,
+            61.550997
+          ],
+          [
+            12.074137,
+            61.550611
+          ],
+          [
             12.074308,
             61.550474
+          ],
+          [
+            12.074614,
+            61.550223
           ],
           [
             12.074777,
@@ -3047,6 +4087,10 @@
           [
             12.075063,
             61.549863
+          ],
+          [
+            12.075094,
+            61.549836
           ],
           [
             12.075391,
@@ -3129,8 +4173,16 @@
             61.548647
           ],
           [
+            12.076005,
+            61.548572
+          ],
+          [
             12.076022,
             61.5485
+          ],
+          [
+            12.076066,
+            61.548124
           ],
           [
             12.076078,
@@ -3165,11 +4217,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 15.422153,
-        "sourceToKm": 15.451445,
+        "sourceToKm": 15.423218,
         "fromKm": 15.422153,
-        "toKm": 15.451445,
-        "lengthKm": 0.029292,
-        "cyclingLengthKm": 0.029292,
+        "toKm": 15.423218,
+        "lengthKm": 0.001065,
+        "cyclingLengthKm": 0.001065,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -3183,8 +4235,8 @@
             61.547389
           ],
           [
-            12.076428,
-            61.547136
+            12.07628,
+            61.54738
           ]
         ]
       }
@@ -3194,12 +4246,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 15.451445,
+        "sourceFromKm": 15.423218,
         "sourceToKm": 15.990859,
-        "fromKm": 15.451445,
+        "fromKm": 15.423218,
         "toKm": 15.990859,
-        "lengthKm": 0.539414,
-        "cyclingLengthKm": 0.539414,
+        "lengthKm": 0.567641,
+        "cyclingLengthKm": 0.567641,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -3209,12 +4261,40 @@
         "type": "LineString",
         "coordinates": [
           [
+            12.07628,
+            61.54738
+          ],
+          [
             12.076428,
             61.547136
           ],
           [
+            12.076672,
+            61.546814
+          ],
+          [
             12.076688,
             61.546793
+          ],
+          [
+            12.077015,
+            61.546396
+          ],
+          [
+            12.077359,
+            61.545977
+          ],
+          [
+            12.077703,
+            61.545559
+          ],
+          [
+            12.078048,
+            61.545141
+          ],
+          [
+            12.078392,
+            61.544722
           ],
           [
             12.078429,
@@ -3225,6 +4305,10 @@
             61.544321
           ],
           [
+            12.078718,
+            61.544301
+          ],
+          [
             12.078844,
             61.544129
           ],
@@ -3233,8 +4317,16 @@
             61.543946
           ],
           [
+            12.079023,
+            61.543875
+          ],
+          [
             12.079093,
             61.543771
+          ],
+          [
+            12.079295,
+            61.543445
           ],
           [
             12.079318,
@@ -3243,6 +4335,10 @@
           [
             12.079423,
             61.543225
+          ],
+          [
+            12.079539,
+            61.543011
           ],
           [
             12.079627,
@@ -3261,11 +4357,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 15.990859,
-        "sourceToKm": 16.022375,
+        "sourceToKm": 15.992077,
         "fromKm": 15.990859,
-        "toKm": 16.022375,
-        "lengthKm": 0.031516,
-        "cyclingLengthKm": 0.031516,
+        "toKm": 15.992077,
+        "lengthKm": 0.001218,
+        "cyclingLengthKm": 0.001218,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -3279,8 +4375,8 @@
             61.54256
           ],
           [
-            12.079899,
-            61.542283
+            12.079778,
+            61.542549
           ]
         ]
       }
@@ -3290,12 +4386,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 16.022375,
+        "sourceFromKm": 15.992077,
         "sourceToKm": 16.318549,
-        "fromKm": 16.022375,
+        "fromKm": 15.992077,
         "toKm": 16.318549,
-        "lengthKm": 0.296174,
-        "cyclingLengthKm": 0.296174,
+        "lengthKm": 0.326472,
+        "cyclingLengthKm": 0.326472,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -3305,12 +4401,20 @@
         "type": "LineString",
         "coordinates": [
           [
+            12.079778,
+            61.542549
+          ],
+          [
             12.079899,
             61.542283
           ],
           [
             12.080015,
             61.541988
+          ],
+          [
+            12.080114,
+            61.541692
           ],
           [
             12.080163,
@@ -3321,8 +4425,24 @@
             61.541408
           ],
           [
+            12.080243,
+            61.541247
+          ],
+          [
             12.080309,
             61.540984
+          ],
+          [
+            12.080344,
+            61.5408
+          ],
+          [
+            12.080429,
+            61.540353
+          ],
+          [
+            12.080514,
+            61.539905
           ],
           [
             12.080565,
@@ -3337,11 +4457,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 16.318549,
-        "sourceToKm": 16.360855,
+        "sourceToKm": 16.338909,
         "fromKm": 16.318549,
-        "toKm": 16.360855,
-        "lengthKm": 0.042306,
-        "cyclingLengthKm": 0.042306,
+        "toKm": 16.338909,
+        "lengthKm": 0.02036,
+        "cyclingLengthKm": 0.02036,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -3355,8 +4475,8 @@
             61.53964
           ],
           [
-            12.080635,
-            61.539261
+            12.080599,
+            61.539458
           ]
         ]
       }
@@ -3366,12 +4486,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 16.360855,
+        "sourceFromKm": 16.338909,
         "sourceToKm": 16.483145,
-        "fromKm": 16.360855,
+        "fromKm": 16.338909,
         "toKm": 16.483145,
-        "lengthKm": 0.12229,
-        "cyclingLengthKm": 0.12229,
+        "lengthKm": 0.144236,
+        "cyclingLengthKm": 0.144236,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -3381,8 +4501,16 @@
         "type": "LineString",
         "coordinates": [
           [
+            12.080599,
+            61.539458
+          ],
+          [
             12.080635,
             61.539261
+          ],
+          [
+            12.080677,
+            61.53901
           ],
           [
             12.080686,
@@ -3391,6 +4519,10 @@
           [
             12.080721,
             61.538744
+          ],
+          [
+            12.080754,
+            61.538562
           ],
           [
             12.080826,
@@ -3405,11 +4537,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 16.483145,
-        "sourceToKm": 16.497344,
+        "sourceToKm": 16.488802,
         "fromKm": 16.483145,
-        "toKm": 16.497344,
-        "lengthKm": 0.014199,
-        "cyclingLengthKm": 0.014199,
+        "toKm": 16.488802,
+        "lengthKm": 0.005657,
+        "cyclingLengthKm": 0.005657,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -3421,6 +4553,36 @@
           [
             12.080826,
             61.538165
+          ],
+          [
+            12.080837,
+            61.538114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 16.488802,
+        "sourceToKm": 16.497344,
+        "fromKm": 16.488802,
+        "toKm": 16.497344,
+        "lengthKm": 0.008542,
+        "cyclingLengthKm": 0.008542,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.080837,
+            61.538114
           ],
           [
             12.080854,
@@ -3435,11 +4597,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 16.497344,
-        "sourceToKm": 16.825383,
+        "sourceToKm": 16.538776,
         "fromKm": 16.497344,
-        "toKm": 16.825383,
-        "lengthKm": 0.328039,
-        "cyclingLengthKm": 0.328039,
+        "toKm": 16.538776,
+        "lengthKm": 0.041432,
+        "cyclingLengthKm": 0.041432,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -3451,6 +4613,56 @@
           [
             12.080854,
             61.538038
+          ],
+          [
+            12.080922,
+            61.537667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "asphalt",
+        "travelMode": "cycling",
+        "sourceFromKm": 16.538776,
+        "sourceToKm": 16.825383,
+        "fromKm": 16.538776,
+        "toKm": 16.825383,
+        "lengthKm": 0.286607,
+        "cyclingLengthKm": 0.286607,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.080922,
+            61.537667
+          ],
+          [
+            12.081004,
+            61.537219
+          ],
+          [
+            12.081085,
+            61.536772
+          ],
+          [
+            12.081167,
+            61.536324
+          ],
+          [
+            12.081249,
+            61.535876
+          ],
+          [
+            12.081331,
+            61.535429
           ],
           [
             12.081391,
@@ -3465,11 +4677,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 16.825383,
-        "sourceToKm": 16.932661,
+        "sourceToKm": 16.838567,
         "fromKm": 16.825383,
-        "toKm": 16.932661,
-        "lengthKm": 0.107278,
-        "cyclingLengthKm": 0.107278,
+        "toKm": 16.838567,
+        "lengthKm": 0.013184,
+        "cyclingLengthKm": 0.013184,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -3483,8 +4695,8 @@
             61.535099
           ],
           [
-            12.08157,
-            61.534138
+            12.081413,
+            61.534981
           ]
         ]
       }
@@ -3494,12 +4706,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 16.932661,
-        "sourceToKm": 17.55056,
-        "fromKm": 16.932661,
-        "toKm": 17.55056,
-        "lengthKm": 0.617899,
-        "cyclingLengthKm": 0.617899,
+        "sourceFromKm": 16.838567,
+        "sourceToKm": 17.550561,
+        "fromKm": 16.838567,
+        "toKm": 17.550561,
+        "lengthKm": 0.711994,
+        "cyclingLengthKm": 0.711994,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -3509,8 +4721,24 @@
         "type": "LineString",
         "coordinates": [
           [
+            12.081413,
+            61.534981
+          ],
+          [
+            12.081496,
+            61.534533
+          ],
+          [
             12.08157,
             61.534138
+          ],
+          [
+            12.081579,
+            61.534086
+          ],
+          [
+            12.081657,
+            61.533638
           ],
           [
             12.081708,
@@ -3523,6 +4751,10 @@
           [
             12.081812,
             61.532891
+          ],
+          [
+            12.081816,
+            61.532879
           ],
           [
             12.081892,
@@ -3541,8 +4773,16 @@
             61.532087
           ],
           [
+            12.082383,
+            61.531883
+          ],
+          [
             12.082396,
             61.531866
+          ],
+          [
+            12.082758,
+            61.531471
           ],
           [
             12.082843,
@@ -3565,6 +4805,10 @@
             61.530868
           ],
           [
+            12.083131,
+            61.530859
+          ],
+          [
             12.083159,
             61.530744
           ],
@@ -3578,11 +4822,27 @@
           ],
           [
             12.083184,
+            61.530151
+          ],
+          [
+            12.083184,
             61.52977
+          ],
+          [
+            12.083183,
+            61.529702
+          ],
+          [
+            12.083174,
+            61.529252
           ],
           [
             12.083173,
             61.529192
+          ],
+          [
+            12.083188,
+            61.528803
           ],
           [
             12.083192,
@@ -3596,10 +4856,10 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 17.55056,
-        "sourceToKm": 17.572466,
-        "fromKm": 17.55056,
-        "toKm": 17.572466,
+        "sourceFromKm": 17.550561,
+        "sourceToKm": 17.572467,
+        "fromKm": 17.550561,
+        "toKm": 17.572467,
         "lengthKm": 0.021906,
         "cyclingLengthKm": 0.021906,
         "includeInCyclingDistance": true,
@@ -3626,12 +4886,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 17.572466,
+        "sourceFromKm": 17.572467,
         "sourceToKm": 17.804894,
-        "fromKm": 17.572466,
+        "fromKm": 17.572467,
         "toKm": 17.804894,
-        "lengthKm": 0.232428,
-        "cyclingLengthKm": 0.232428,
+        "lengthKm": 0.232427,
+        "cyclingLengthKm": 0.232427,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -3645,6 +4905,10 @@
             61.528494
           ],
           [
+            12.083206,
+            61.528354
+          ],
+          [
             12.083219,
             61.528183
           ],
@@ -3655,6 +4919,10 @@
           [
             12.083337,
             61.527393
+          ],
+          [
+            12.083341,
+            61.527379
           ],
           [
             12.08338,
@@ -3671,6 +4939,10 @@
           [
             12.083606,
             61.526687
+          ],
+          [
+            12.08368,
+            61.526576
           ],
           [
             12.083777,
@@ -3737,6 +5009,10 @@
             61.526233
           ],
           [
+            12.084007,
+            61.526156
+          ],
+          [
             12.084097,
             61.526058
           ],
@@ -3753,11 +5029,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 17.886385,
-        "sourceToKm": 17.890916,
+        "sourceToKm": 17.887975,
         "fromKm": 17.886385,
-        "toKm": 17.890916,
-        "lengthKm": 0.004531,
-        "cyclingLengthKm": 0.004531,
+        "toKm": 17.887975,
+        "lengthKm": 0.00159,
+        "cyclingLengthKm": 0.00159,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -3771,8 +5047,8 @@
             61.525764
           ],
           [
-            12.084329,
-            61.525751
+            12.084382,
+            61.525759
           ]
         ]
       }
@@ -3782,12 +5058,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 17.890916,
+        "sourceFromKm": 17.887975,
         "sourceToKm": 17.906666,
-        "fromKm": 17.890916,
+        "fromKm": 17.887975,
         "toKm": 17.906666,
-        "lengthKm": 0.01575,
-        "cyclingLengthKm": 0.01575,
+        "lengthKm": 0.018691,
+        "cyclingLengthKm": 0.018691,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -3796,6 +5072,14 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [
+            12.084382,
+            61.525759
+          ],
+          [
+            12.084329,
+            61.525751
+          ],
           [
             12.084329,
             61.525751
@@ -3813,11 +5097,11 @@
         "category": "asphalt",
         "travelMode": "cycling",
         "sourceFromKm": 17.906666,
-        "sourceToKm": 17.929347,
+        "sourceToKm": 17.929348,
         "fromKm": 17.906666,
-        "toKm": 17.929347,
-        "lengthKm": 0.022681,
-        "cyclingLengthKm": 0.022681,
+        "toKm": 17.929348,
+        "lengthKm": 0.022682,
+        "cyclingLengthKm": 0.022682,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -3842,12 +5126,12 @@
       "properties": {
         "category": "asphalt",
         "travelMode": "cycling",
-        "sourceFromKm": 17.929347,
+        "sourceFromKm": 17.929348,
         "sourceToKm": 17.939307,
-        "fromKm": 17.929347,
+        "fromKm": 17.929348,
         "toKm": 17.939307,
-        "lengthKm": 0.00996,
-        "cyclingLengthKm": 0.00996,
+        "lengthKm": 0.009959,
+        "cyclingLengthKm": 0.009959,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -3921,16 +5205,36 @@
             61.52561
           ],
           [
+            12.082571,
+            61.525513
+          ],
+          [
             12.082361,
             61.525485
+          ],
+          [
+            12.081664,
+            61.525391
           ],
           [
             12.081439,
             61.525361
           ],
           [
+            12.080755,
+            61.525272
+          ],
+          [
+            12.079845,
+            61.525155
+          ],
+          [
             12.079593,
             61.525122
+          ],
+          [
+            12.078937,
+            61.525034
           ],
           [
             12.078154,
@@ -3961,6 +5265,10 @@
           [
             12.078154,
             61.52493
+          ],
+          [
+            12.078029,
+            61.524914
           ],
           [
             12.077759,
@@ -4027,6 +5335,14 @@
             61.524816
           ],
           [
+            12.077122,
+            61.524793
+          ],
+          [
+            12.076214,
+            61.524673
+          ],
+          [
             12.076075,
             61.524654
           ]
@@ -4039,11 +5355,11 @@
         "category": "gravel",
         "travelMode": "cycling",
         "sourceFromKm": 18.345196,
-        "sourceToKm": 18.447265,
+        "sourceToKm": 18.387515,
         "fromKm": 18.345196,
-        "toKm": 18.447265,
-        "lengthKm": 0.102069,
-        "cyclingLengthKm": 0.102069,
+        "toKm": 18.387515,
+        "lengthKm": 0.042319,
+        "cyclingLengthKm": 0.042319,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -4057,8 +5373,8 @@
             61.524654
           ],
           [
-            12.074219,
-            61.52441
+            12.075306,
+            61.524553
           ]
         ]
       }
@@ -4068,12 +5384,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 18.447265,
+        "sourceFromKm": 18.387515,
         "sourceToKm": 18.845269,
-        "fromKm": 18.447265,
+        "fromKm": 18.387515,
         "toKm": 18.845269,
-        "lengthKm": 0.398004,
-        "cyclingLengthKm": 0.398004,
+        "lengthKm": 0.457754,
+        "cyclingLengthKm": 0.457754,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -4083,16 +5399,56 @@
         "type": "LineString",
         "coordinates": [
           [
+            12.075306,
+            61.524553
+          ],
+          [
+            12.074397,
+            61.524433
+          ],
+          [
             12.074219,
             61.52441
+          ],
+          [
+            12.07349,
+            61.524311
           ],
           [
             12.073392,
             61.524298
           ],
           [
+            12.072581,
+            61.524193
+          ],
+          [
             12.071856,
             61.5241
+          ],
+          [
+            12.071671,
+            61.524075
+          ],
+          [
+            12.070764,
+            61.523954
+          ],
+          [
+            12.069856,
+            61.523833
+          ],
+          [
+            12.068948,
+            61.523712
+          ],
+          [
+            12.068041,
+            61.523591
+          ],
+          [
+            12.067133,
+            61.523469
           ],
           [
             12.066987,
@@ -4107,11 +5463,11 @@
         "category": "gravel",
         "travelMode": "cycling",
         "sourceFromKm": 18.845269,
-        "sourceToKm": 18.965977,
+        "sourceToKm": 18.887176,
         "fromKm": 18.845269,
-        "toKm": 18.965977,
-        "lengthKm": 0.120708,
-        "cyclingLengthKm": 0.120708,
+        "toKm": 18.887176,
+        "lengthKm": 0.041907,
+        "cyclingLengthKm": 0.041907,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -4125,8 +5481,8 @@
             61.52345
           ],
           [
-            12.064793,
-            61.52316
+            12.066225,
+            61.523349
           ]
         ]
       }
@@ -4136,12 +5492,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 18.965977,
+        "sourceFromKm": 18.887176,
         "sourceToKm": 19.218582,
-        "fromKm": 18.965977,
+        "fromKm": 18.887176,
         "toKm": 19.218582,
-        "lengthKm": 0.252605,
-        "cyclingLengthKm": 0.252605,
+        "lengthKm": 0.331406,
+        "cyclingLengthKm": 0.331406,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -4151,20 +5507,48 @@
         "type": "LineString",
         "coordinates": [
           [
+            12.066225,
+            61.523349
+          ],
+          [
+            12.065317,
+            61.523229
+          ],
+          [
             12.064793,
             61.52316
+          ],
+          [
+            12.06441,
+            61.523108
+          ],
+          [
+            12.063503,
+            61.522986
           ],
           [
             12.063128,
             61.522935
           ],
           [
+            12.062594,
+            61.522867
+          ],
+          [
             12.06243,
             61.522846
           ],
           [
+            12.061678,
+            61.522761
+          ],
+          [
             12.061467,
             61.522737
+          ],
+          [
+            12.060759,
+            61.522662
           ],
           [
             12.060606,
@@ -4213,11 +5597,11 @@
         "category": "gravel",
         "travelMode": "cycling",
         "sourceFromKm": 19.228329,
-        "sourceToKm": 19.85627,
+        "sourceToKm": 19.856271,
         "fromKm": 19.228329,
-        "toKm": 19.85627,
-        "lengthKm": 0.627941,
-        "cyclingLengthKm": 0.627941,
+        "toKm": 19.856271,
+        "lengthKm": 0.627942,
+        "cyclingLengthKm": 0.627942,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -4231,8 +5615,20 @@
             61.522576
           ],
           [
+            12.059841,
+            61.522561
+          ],
+          [
             12.059459,
             61.522524
+          ],
+          [
+            12.058915,
+            61.522477
+          ],
+          [
+            12.057987,
+            61.522398
           ],
           [
             12.057303,
@@ -4241,6 +5637,10 @@
           [
             12.056931,
             61.5223
+          ],
+          [
+            12.056902,
+            61.522296
           ],
           [
             12.056588,
@@ -4255,12 +5655,20 @@
             61.522041
           ],
           [
+            12.055287,
+            61.522015
+          ],
+          [
             12.054854,
             61.521928
           ],
           [
             12.054707,
             61.521903
+          ],
+          [
+            12.054412,
+            61.521847
           ],
           [
             12.053993,
@@ -4271,12 +5679,20 @@
             61.521744
           ],
           [
+            12.053537,
+            61.521683
+          ],
+          [
             12.0535,
             61.521675
           ],
           [
             12.052713,
             61.521489
+          ],
+          [
+            12.052692,
+            61.521484
           ],
           [
             12.05234,
@@ -4299,12 +5715,24 @@
             61.521228
           ],
           [
+            12.051211,
+            61.521226
+          ],
+          [
             12.050834,
             61.521203
           ],
           [
             12.050187,
             61.52117
+          ],
+          [
+            12.049977,
+            61.521156
+          ],
+          [
+            12.049043,
+            61.521096
           ],
           [
             12.048674,
@@ -4318,12 +5746,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 19.85627,
+        "sourceFromKm": 19.856271,
         "sourceToKm": 19.878369,
-        "fromKm": 19.85627,
+        "fromKm": 19.856271,
         "toKm": 19.878369,
-        "lengthKm": 0.022099,
-        "cyclingLengthKm": 0.022099,
+        "lengthKm": 0.022098,
+        "cyclingLengthKm": 0.022098,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -4367,12 +5795,20 @@
             61.521042
           ],
           [
+            12.04811,
+            61.521033
+          ],
+          [
             12.047999,
             61.521027
           ],
           [
             12.047434,
             61.521008
+          ],
+          [
+            12.04717,
+            61.521004
           ],
           [
             12.047137,
@@ -4387,11 +5823,11 @@
         "category": "gravel",
         "travelMode": "cycling",
         "sourceFromKm": 19.938202,
-        "sourceToKm": 19.947857,
+        "sourceToKm": 19.947858,
         "fromKm": 19.938202,
-        "toKm": 19.947857,
-        "lengthKm": 0.009655,
-        "cyclingLengthKm": 0.009655,
+        "toKm": 19.947858,
+        "lengthKm": 0.009656,
+        "cyclingLengthKm": 0.009656,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -4416,12 +5852,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 19.947857,
+        "sourceFromKm": 19.947858,
         "sourceToKm": 22.040643,
-        "fromKm": 19.947857,
+        "fromKm": 19.947858,
         "toKm": 22.040643,
-        "lengthKm": 2.092786,
-        "cyclingLengthKm": 2.092786,
+        "lengthKm": 2.092785,
+        "cyclingLengthKm": 2.092785,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -4439,12 +5875,20 @@
             61.521016
           ],
           [
+            12.046231,
+            61.52104
+          ],
+          [
             12.045968,
             61.521055
           ],
           [
             12.045337,
             61.521086
+          ],
+          [
+            12.045294,
+            61.521088
           ],
           [
             12.045166,
@@ -4455,8 +5899,16 @@
             61.5211
           ],
           [
+            12.044353,
+            61.521094
+          ],
+          [
             12.043614,
             61.521086
+          ],
+          [
+            12.043411,
+            61.521082
           ],
           [
             12.043053,
@@ -4475,6 +5927,10 @@
             61.521065
           ],
           [
+            12.041799,
+            61.521063
+          ],
+          [
             12.04163,
             61.521054
           ],
@@ -4485,6 +5941,10 @@
           [
             12.040915,
             61.520979
+          ],
+          [
+            12.040611,
+            61.520947
           ],
           [
             12.04055,
@@ -4499,12 +5959,20 @@
             61.520855
           ],
           [
+            12.039734,
+            61.520787
+          ],
+          [
             12.039644,
             61.520764
           ],
           [
             12.039545,
             61.520742
+          ],
+          [
+            12.038858,
+            61.520623
           ],
           [
             12.038537,
@@ -4524,6 +5992,10 @@
           ],
           [
             12.037393,
+            61.520462
+          ],
+          [
+            12.037355,
             61.520462
           ],
           [
@@ -4547,6 +6019,10 @@
             61.5205
           ],
           [
+            12.036083,
+            61.520505
+          ],
+          [
             12.035755,
             61.520538
           ],
@@ -4559,8 +6035,16 @@
             61.520564
           ],
           [
+            12.035151,
+            61.520565
+          ],
+          [
             12.034287,
             61.520579
+          ],
+          [
+            12.03421,
+            61.520583
           ],
           [
             12.033985,
@@ -4579,12 +6063,20 @@
             61.520654
           ],
           [
+            12.033281,
+            61.520654
+          ],
+          [
             12.032568,
             61.52067
           ],
           [
             12.032221,
             61.520683
+          ],
+          [
+            12.032182,
+            61.520686
           ],
           [
             12.031806,
@@ -4599,8 +6091,16 @@
             61.520791
           ],
           [
+            12.030552,
+            61.520944
+          ],
+          [
             12.029888,
             61.521088
+          ],
+          [
+            12.029692,
+            61.521127
           ],
           [
             12.029477,
@@ -4617,6 +6117,10 @@
           [
             12.028574,
             61.52129
+          ],
+          [
+            12.02853,
+            61.521293
           ],
           [
             12.028337,
@@ -4639,12 +6143,20 @@
             61.52122
           ],
           [
+            12.026975,
+            61.521142
+          ],
+          [
             12.026677,
             61.521088
           ],
           [
             12.026328,
             61.521031
+          ],
+          [
+            12.026084,
+            61.520995
           ],
           [
             12.025995,
@@ -4657,6 +6169,10 @@
           [
             12.025165,
             61.520926
+          ],
+          [
+            12.02513,
+            61.520927
           ],
           [
             12.024857,
@@ -4687,8 +6203,16 @@
             61.521177
           ],
           [
+            12.022614,
+            61.521189
+          ],
+          [
             12.022033,
             61.521366
+          ],
+          [
+            12.021628,
+            61.521467
           ],
           [
             12.021558,
@@ -4705,6 +6229,10 @@
           [
             12.020958,
             61.521739
+          ],
+          [
+            12.020919,
+            61.521759
           ],
           [
             12.020762,
@@ -4727,8 +6255,16 @@
             61.521996
           ],
           [
+            12.020167,
+            61.522019
+          ],
+          [
             12.019473,
             61.522135
+          ],
+          [
+            12.019281,
+            61.522171
           ],
           [
             12.019262,
@@ -4751,6 +6287,10 @@
             61.522395
           ],
           [
+            12.018511,
+            61.522427
+          ],
+          [
             12.018397,
             61.522463
           ],
@@ -4763,6 +6303,10 @@
             61.522589
           ],
           [
+            12.017676,
+            61.522633
+          ],
+          [
             12.017366,
             61.522726
           ],
@@ -4773,6 +6317,10 @@
           [
             12.016993,
             61.52279
+          ],
+          [
+            12.016816,
+            61.522803
           ],
           [
             12.01659,
@@ -4791,6 +6339,10 @@
             61.522951
           ],
           [
+            12.01594,
+            61.522959
+          ],
+          [
             12.01572,
             61.523021
           ],
@@ -4805,6 +6357,10 @@
           [
             12.01459,
             61.52341
+          ],
+          [
+            12.014552,
+            61.523423
           ],
           [
             12.014389,
@@ -4827,6 +6383,10 @@
             61.523774
           ],
           [
+            12.013715,
+            61.523782
+          ],
+          [
             12.013396,
             61.523889
           ],
@@ -4843,6 +6403,10 @@
             61.524049
           ],
           [
+            12.013017,
+            61.52408
+          ],
+          [
             12.012939,
             61.524131
           ],
@@ -4851,8 +6415,16 @@
             61.524384
           ],
           [
+            12.012485,
+            61.524451
+          ],
+          [
             12.012234,
             61.524635
+          ],
+          [
+            12.011951,
+            61.524821
           ],
           [
             12.011938,
@@ -4869,6 +6441,10 @@
           [
             12.011404,
             61.525102
+          ],
+          [
+            12.011302,
+            61.525145
           ],
           [
             12.011222,
@@ -4913,11 +6489,11 @@
         "category": "gravel",
         "travelMode": "cycling",
         "sourceFromKm": 22.048819,
-        "sourceToKm": 24.236127,
+        "sourceToKm": 24.236128,
         "fromKm": 22.048819,
-        "toKm": 24.236127,
-        "lengthKm": 2.187308,
-        "cyclingLengthKm": 2.187308,
+        "toKm": 24.236128,
+        "lengthKm": 2.187309,
+        "cyclingLengthKm": 2.187309,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -4939,6 +6515,10 @@
             61.525419
           ],
           [
+            12.010649,
+            61.525468
+          ],
+          [
             12.01016,
             61.525726
           ],
@@ -4949,6 +6529,10 @@
           [
             12.009927,
             61.525885
+          ],
+          [
+            12.00991,
+            61.525908
           ],
           [
             12.009903,
@@ -4973,6 +6557,10 @@
           [
             12.009655,
             61.526896
+          ],
+          [
+            12.009649,
+            61.52692
           ],
           [
             12.009635,
@@ -5015,6 +6603,10 @@
             61.527922
           ],
           [
+            12.008753,
+            61.527937
+          ],
+          [
             12.008727,
             61.52798
           ],
@@ -5023,12 +6615,20 @@
             61.528204
           ],
           [
+            12.00865,
+            61.528383
+          ],
+          [
             12.008631,
             61.528444
           ],
           [
             12.008536,
             61.52866
+          ],
+          [
+            12.008455,
+            61.528822
           ],
           [
             12.008415,
@@ -5047,6 +6647,10 @@
             61.529191
           ],
           [
+            12.008137,
+            61.529243
+          ],
+          [
             12.007878,
             61.529474
           ],
@@ -5055,12 +6659,20 @@
             61.529601
           ],
           [
+            12.007731,
+            61.529648
+          ],
+          [
             12.007683,
             61.529729
           ],
           [
             12.007655,
             61.529874
+          ],
+          [
+            12.007573,
+            61.53009
           ],
           [
             12.007555,
@@ -5083,12 +6695,20 @@
             61.530899
           ],
           [
+            12.007141,
+            61.530921
+          ],
+          [
             12.007077,
             61.531105
           ],
           [
             12.007024,
             61.531278
+          ],
+          [
+            12.006998,
+            61.531407
           ],
           [
             12.006989,
@@ -5107,6 +6727,10 @@
             61.531834
           ],
           [
+            12.006979,
+            61.531856
+          ],
+          [
             12.00696,
             61.531904
           ],
@@ -5119,8 +6743,16 @@
             61.532145
           ],
           [
+            12.006696,
+            61.532284
+          ],
+          [
             12.006496,
             61.5326
+          ],
+          [
+            12.006417,
+            61.532713
           ],
           [
             12.006373,
@@ -5133,6 +6765,10 @@
           [
             12.006322,
             61.533091
+          ],
+          [
+            12.006316,
+            61.533158
           ],
           [
             12.006301,
@@ -5159,6 +6795,10 @@
             61.533999
           ],
           [
+            12.006138,
+            61.534048
+          ],
+          [
             12.0061,
             61.534151
           ],
@@ -5167,8 +6807,16 @@
             61.534226
           ],
           [
+            12.006003,
+            61.534493
+          ],
+          [
             12.005933,
             61.534758
+          ],
+          [
+            12.005873,
+            61.534938
           ],
           [
             12.005868,
@@ -5207,6 +6855,10 @@
             61.53602
           ],
           [
+            12.005463,
+            61.536038
+          ],
+          [
             12.005398,
             61.53608
           ],
@@ -5239,6 +6891,10 @@
             61.536515
           ],
           [
+            12.004541,
+            61.536534
+          ],
+          [
             12.004452,
             61.536672
           ],
@@ -5251,6 +6907,10 @@
             61.536954
           ],
           [
+            12.004289,
+            61.536966
+          ],
+          [
             12.004215,
             61.537035
           ],
@@ -5261,6 +6921,10 @@
           [
             12.003978,
             61.537162
+          ],
+          [
+            12.003644,
+            61.537286
           ],
           [
             12.003601,
@@ -5279,6 +6943,10 @@
             61.537584
           ],
           [
+            12.003063,
+            61.537637
+          ],
+          [
             12.002765,
             61.537865
           ],
@@ -5289,6 +6957,10 @@
           [
             12.002443,
             61.538068
+          ],
+          [
+            12.0024,
+            61.538085
           ],
           [
             12.00236,
@@ -5343,6 +7015,10 @@
             61.538941
           ],
           [
+            12.000195,
+            61.538961
+          ],
+          [
             12.0001,
             61.539015
           ],
@@ -5379,6 +7055,10 @@
             61.539993
           ],
           [
+            11.999143,
+            61.540045
+          ],
+          [
             11.998833,
             61.540268
           ],
@@ -5387,12 +7067,20 @@
             61.54032
           ],
           [
+            11.998623,
+            61.54042
+          ],
+          [
             11.998609,
             61.54043
           ],
           [
             11.998467,
             61.54056
+          ],
+          [
+            11.998196,
+            61.54082
           ],
           [
             11.99818,
@@ -5407,12 +7095,24 @@
             61.541262
           ],
           [
+            11.997715,
+            61.541286
+          ],
+          [
             11.997495,
             61.541591
           ],
           [
+            11.997191,
+            61.542076
+          ],
+          [
             11.997163,
             61.542121
+          ],
+          [
+            11.996932,
+            61.542508
           ],
           [
             11.9969,
@@ -5421,6 +7121,10 @@
           [
             11.996803,
             61.542688
+          ],
+          [
+            11.996574,
+            61.542923
           ],
           [
             11.996554,
@@ -5434,12 +7138,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 24.236127,
+        "sourceFromKm": 24.236128,
         "sourceToKm": 24.262811,
-        "fromKm": 24.236127,
+        "fromKm": 24.236128,
         "toKm": 24.262811,
-        "lengthKm": 0.026684,
-        "cyclingLengthKm": 0.026684,
+        "lengthKm": 0.026683,
+        "cyclingLengthKm": 0.026683,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -5507,6 +7211,10 @@
             61.543979
           ],
           [
+            11.995685,
+            61.544002
+          ],
+          [
             11.995639,
             61.544036
           ],
@@ -5519,12 +7227,24 @@
             61.544387
           ],
           [
+            11.994849,
+            61.544494
+          ],
+          [
             11.994277,
             61.544806
           ],
           [
+            11.99423,
+            61.544833
+          ],
+          [
             11.993669,
             61.545155
+          ],
+          [
+            11.993626,
+            61.545178
           ],
           [
             11.993441,
@@ -5539,12 +7259,20 @@
             61.545458
           ],
           [
+            11.992951,
+            61.545491
+          ],
+          [
             11.992824,
             61.545539
           ],
           [
             11.992321,
             61.545715
+          ],
+          [
+            11.992191,
+            61.545757
           ],
           [
             11.99206,
@@ -5567,11 +7295,11 @@
         "category": "gravel",
         "travelMode": "cycling",
         "sourceFromKm": 24.686871,
-        "sourceToKm": 24.699588,
+        "sourceToKm": 24.699589,
         "fromKm": 24.686871,
-        "toKm": 24.699588,
-        "lengthKm": 0.012717,
-        "cyclingLengthKm": 0.012717,
+        "toKm": 24.699589,
+        "lengthKm": 0.012718,
+        "cyclingLengthKm": 0.012718,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -5583,6 +7311,10 @@
           [
             11.991376,
             61.546042
+          ],
+          [
+            11.991333,
+            61.546058
           ],
           [
             11.991307,
@@ -5600,12 +7332,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 24.699588,
+        "sourceFromKm": 24.699589,
         "sourceToKm": 24.869395,
-        "fromKm": 24.699588,
+        "fromKm": 24.699589,
         "toKm": 24.869395,
-        "lengthKm": 0.169807,
-        "cyclingLengthKm": 0.169807,
+        "lengthKm": 0.169806,
+        "cyclingLengthKm": 0.169806,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -5645,6 +7377,10 @@
           [
             11.989696,
             61.546236
+          ],
+          [
+            11.989661,
+            61.546237
           ],
           [
             11.989442,
@@ -5725,12 +7461,24 @@
             61.547004
           ],
           [
+            11.987977,
+            61.547015
+          ],
+          [
             11.987856,
             61.547194
           ],
           [
             11.98776,
             61.547355
+          ],
+          [
+            11.987702,
+            61.547445
+          ],
+          [
+            11.987427,
+            61.547874
           ],
           [
             11.987409,
@@ -5755,6 +7503,10 @@
           [
             11.986948,
             61.548499
+          ],
+          [
+            11.986937,
+            61.548528
           ],
           [
             11.986902,
@@ -5785,6 +7537,10 @@
             61.549088
           ],
           [
+            11.987039,
+            61.549115
+          ],
+          [
             11.987056,
             61.549132
           ],
@@ -5807,6 +7563,10 @@
           [
             11.987507,
             61.549395
+          ],
+          [
+            11.987568,
+            61.549411
           ],
           [
             11.987586,
@@ -5833,6 +7593,10 @@
             61.549477
           ],
           [
+            11.988716,
+            61.549475
+          ],
+          [
             11.988837,
             61.549467
           ],
@@ -5843,6 +7607,10 @@
           [
             11.989355,
             61.54945
+          ],
+          [
+            11.989657,
+            61.549451
           ],
           [
             11.989727,
@@ -5877,6 +7645,10 @@
             61.549718
           ],
           [
+            11.990539,
+            61.549751
+          ],
+          [
             11.990543,
             61.549764
           ],
@@ -5901,6 +7673,10 @@
             61.550189
           ],
           [
+            11.99034,
+            61.550217
+          ],
+          [
             11.99015,
             61.550381
           ],
@@ -5917,6 +7693,10 @@
             61.550665
           ],
           [
+            11.989511,
+            61.550854
+          ],
+          [
             11.989387,
             61.550947
           ],
@@ -5929,6 +7709,10 @@
             61.551215
           ],
           [
+            11.989017,
+            61.551236
+          ],
+          [
             11.988667,
             61.551512
           ],
@@ -5939,6 +7723,10 @@
           [
             11.988458,
             61.551726
+          ],
+          [
+            11.988434,
+            61.551758
           ],
           [
             11.988247,
@@ -5983,11 +7771,11 @@
         "category": "gravel",
         "travelMode": "cycling",
         "sourceFromKm": 25.696314,
-        "sourceToKm": 28.884057,
+        "sourceToKm": 28.88039,
         "fromKm": 25.696314,
-        "toKm": 28.884057,
-        "lengthKm": 3.187743,
-        "cyclingLengthKm": 3.187743,
+        "toKm": 28.88039,
+        "lengthKm": 3.184076,
+        "cyclingLengthKm": 3.184076,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -6005,6 +7793,10 @@
             61.552385
           ],
           [
+            11.987895,
+            61.552468
+          ],
+          [
             11.987875,
             61.552491
           ],
@@ -6019,6 +7811,10 @@
           [
             11.987492,
             61.552966
+          ],
+          [
+            11.987472,
+            61.552999
           ],
           [
             11.9874,
@@ -6049,6 +7845,10 @@
             61.553466
           ],
           [
+            11.987524,
+            61.553493
+          ],
+          [
             11.98754,
             61.553502
           ],
@@ -6077,12 +7877,20 @@
             61.553644
           ],
           [
+            11.988938,
+            61.553654
+          ],
+          [
             11.989394,
             61.55367
           ],
           [
             11.989844,
             61.553692
+          ],
+          [
+            11.989878,
+            61.553695
           ],
           [
             11.990074,
@@ -6103,6 +7911,10 @@
           [
             11.990805,
             61.553839
+          ],
+          [
+            11.990859,
+            61.553862
           ],
           [
             11.990893,
@@ -6133,6 +7945,10 @@
             61.554465
           ],
           [
+            11.991892,
+            61.554547
+          ],
+          [
             11.991922,
             61.554571
           ],
@@ -6143,6 +7959,10 @@
           [
             11.992277,
             61.554861
+          ],
+          [
+            11.992375,
+            61.554932
           ],
           [
             11.992491,
@@ -6173,6 +7993,10 @@
             61.555412
           ],
           [
+            11.993306,
+            61.555428
+          ],
+          [
             11.993325,
             61.555433
           ],
@@ -6197,6 +8021,10 @@
             61.555654
           ],
           [
+            11.994641,
+            61.555659
+          ],
+          [
             11.995006,
             61.555707
           ],
@@ -6207,6 +8035,10 @@
           [
             11.995406,
             61.555763
+          ],
+          [
+            11.995547,
+            61.555783
           ],
           [
             11.995605,
@@ -6223,6 +8055,10 @@
           [
             11.996392,
             61.555926
+          ],
+          [
+            11.996435,
+            61.555934
           ],
           [
             11.997014,
@@ -6243,6 +8079,10 @@
           [
             11.997776,
             61.556186
+          ],
+          [
+            11.997839,
+            61.556206
           ],
           [
             11.997905,
@@ -6273,6 +8113,10 @@
             61.556844
           ],
           [
+            11.998753,
+            61.556875
+          ],
+          [
             11.998761,
             61.556907
           ],
@@ -6291,6 +8135,10 @@
           [
             11.998569,
             61.557464
+          ],
+          [
+            11.998494,
+            61.557548
           ],
           [
             11.998466,
@@ -6325,6 +8173,10 @@
             61.558274
           ],
           [
+            11.997636,
+            61.558344
+          ],
+          [
             11.997522,
             61.55852
           ],
@@ -6333,8 +8185,16 @@
             61.558783
           ],
           [
+            11.997384,
+            61.558815
+          ],
+          [
             11.997307,
             61.559029
+          ],
+          [
+            11.997177,
+            61.559671
           ],
           [
             11.997165,
@@ -6345,8 +8205,16 @@
             61.560114
           ],
           [
+            11.996989,
+            61.560565
+          ],
+          [
             11.996865,
             61.561202
+          ],
+          [
+            11.996864,
+            61.561236
           ],
           [
             11.996856,
@@ -6361,6 +8229,14 @@
             61.561855
           ],
           [
+            11.997019,
+            61.561903
+          ],
+          [
+            11.997209,
+            61.562343
+          ],
+          [
             11.997269,
             61.562482
           ],
@@ -6373,12 +8249,20 @@
             61.562758
           ],
           [
+            11.997359,
+            61.562786
+          ],
+          [
             11.99738,
             61.562922
           ],
           [
             11.997411,
             61.563228
+          ],
+          [
+            11.997446,
+            61.563684
           ],
           [
             11.99745,
@@ -6389,8 +8273,16 @@
             61.564086
           ],
           [
+            11.997496,
+            61.564133
+          ],
+          [
             11.997515,
             61.564252
+          ],
+          [
+            11.997596,
+            61.564579
           ],
           [
             11.997598,
@@ -6407,6 +8299,10 @@
           [
             11.997839,
             61.565256
+          ],
+          [
+            11.997856,
+            61.565295
           ],
           [
             11.99795,
@@ -6433,6 +8329,10 @@
             61.56595
           ],
           [
+            11.998337,
+            61.565981
+          ],
+          [
             11.998421,
             61.566047
           ],
@@ -6453,8 +8353,16 @@
             61.566481
           ],
           [
+            11.999275,
+            61.566631
+          ],
+          [
             11.999727,
             61.566966
+          ],
+          [
+            11.999788,
+            61.567008
           ],
           [
             11.999847,
@@ -6469,6 +8377,10 @@
             61.567241
           ],
           [
+            12.000262,
+            61.567396
+          ],
+          [
             12.000288,
             61.567416
           ],
@@ -6481,12 +8393,20 @@
             61.567743
           ],
           [
+            12.000743,
+            61.567782
+          ],
+          [
             12.00081,
             61.567843
           ],
           [
             12.00109,
             61.56805
+          ],
+          [
+            12.001233,
+            61.568166
           ],
           [
             12.00145,
@@ -6505,6 +8425,10 @@
             61.56889
           ],
           [
+            12.002163,
+            61.568925
+          ],
+          [
             12.002258,
             61.569043
           ],
@@ -6515,6 +8439,10 @@
           [
             12.00251,
             61.569301
+          ],
+          [
+            12.002559,
+            61.569354
           ],
           [
             12.002648,
@@ -6529,12 +8457,20 @@
             61.569742
           ],
           [
+            12.00292,
+            61.569769
+          ],
+          [
             12.003015,
             61.569904
           ],
           [
             12.003144,
             61.570051
+          ],
+          [
+            12.003255,
+            61.570189
           ],
           [
             12.003408,
@@ -6545,12 +8481,20 @@
             61.570536
           ],
           [
+            12.003609,
+            61.570605
+          ],
+          [
             12.003681,
             61.570692
           ],
           [
             12.003937,
             61.570968
+          ],
+          [
+            12.003978,
+            61.571019
           ],
           [
             12.004058,
@@ -6563,6 +8507,10 @@
           [
             12.004325,
             61.571406
+          ],
+          [
+            12.00435,
+            61.571431
           ],
           [
             12.004601,
@@ -6581,6 +8529,10 @@
             61.572531
           ],
           [
+            12.005311,
+            61.572565
+          ],
+          [
             12.005385,
             61.572678
           ],
@@ -6597,8 +8549,16 @@
             61.573107
           ],
           [
+            12.005625,
+            61.573119
+          ],
+          [
             12.005672,
             61.573259
+          ],
+          [
+            12.00575,
+            61.573564
           ],
           [
             12.005779,
@@ -6609,6 +8569,10 @@
             61.573959
           ],
           [
+            12.005856,
+            61.57401
+          ],
+          [
             12.005925,
             61.574273
           ],
@@ -6617,8 +8581,16 @@
             61.574436
           ],
           [
+            12.005955,
+            61.574457
+          ],
+          [
             12.006027,
             61.574741
+          ],
+          [
+            12.006061,
+            61.574904
           ],
           [
             12.006063,
@@ -6633,6 +8605,10 @@
             61.575231
           ],
           [
+            12.006218,
+            61.575347
+          ],
+          [
             12.006233,
             61.575391
           ],
@@ -6645,12 +8621,16 @@
             61.575678
           ],
           [
+            12.006455,
+            61.575781
+          ],
+          [
             12.006602,
             61.576006
           ],
           [
-            12.006714,
-            61.576247
+            12.006699,
+            61.576215
           ]
         ]
       }
@@ -6660,12 +8640,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 28.884057,
+        "sourceFromKm": 28.88039,
         "sourceToKm": 28.912587,
-        "fromKm": 28.884057,
+        "fromKm": 28.88039,
         "toKm": 28.912587,
-        "lengthKm": 0.02853,
-        "cyclingLengthKm": 0.02853,
+        "lengthKm": 0.032197,
+        "cyclingLengthKm": 0.032197,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -6674,6 +8654,10 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [
+            12.006699,
+            61.576215
+          ],
           [
             12.006714,
             61.576247
@@ -6699,11 +8683,11 @@
         "category": "gravel",
         "travelMode": "cycling",
         "sourceFromKm": 28.912587,
-        "sourceToKm": 28.9513,
+        "sourceToKm": 28.930359,
         "fromKm": 28.912587,
-        "toKm": 28.9513,
-        "lengthKm": 0.038713,
-        "cyclingLengthKm": 0.038713,
+        "toKm": 28.930359,
+        "lengthKm": 0.017772,
+        "cyclingLengthKm": 0.017772,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -6717,8 +8701,8 @@
             61.576495
           ],
           [
-            12.006985,
-            61.576837
+            12.006911,
+            61.576652
           ]
         ]
       }
@@ -6728,12 +8712,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 28.9513,
-        "sourceToKm": 29.113123,
-        "fromKm": 28.9513,
-        "toKm": 29.113123,
-        "lengthKm": 0.161823,
-        "cyclingLengthKm": 0.161823,
+        "sourceFromKm": 28.930359,
+        "sourceToKm": 29.113124,
+        "fromKm": 28.930359,
+        "toKm": 29.113124,
+        "lengthKm": 0.182765,
+        "cyclingLengthKm": 0.182765,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -6742,6 +8726,10 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [
+            12.006911,
+            61.576652
+          ],
           [
             12.006985,
             61.576837
@@ -6757,6 +8745,10 @@
           [
             12.007271,
             61.577471
+          ],
+          [
+            12.007281,
+            61.577507
           ],
           [
             12.007331,
@@ -6790,12 +8782,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 29.113123,
-        "sourceToKm": 29.121516,
-        "fromKm": 29.113123,
-        "toKm": 29.121516,
-        "lengthKm": 0.008393,
-        "cyclingLengthKm": 0.008393,
+        "sourceFromKm": 29.113124,
+        "sourceToKm": 29.117084,
+        "fromKm": 29.113124,
+        "toKm": 29.117084,
+        "lengthKm": 0.00396,
+        "cyclingLengthKm": 0.00396,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -6809,8 +8801,8 @@
             61.578272
           ],
           [
-            12.007285,
-            61.578339
+            12.007324,
+            61.578304
           ]
         ]
       }
@@ -6820,12 +8812,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 29.121516,
+        "sourceFromKm": 29.117084,
         "sourceToKm": 29.154898,
-        "fromKm": 29.121516,
+        "fromKm": 29.117084,
         "toKm": 29.154898,
-        "lengthKm": 0.033382,
-        "cyclingLengthKm": 0.033382,
+        "lengthKm": 0.037814,
+        "cyclingLengthKm": 0.037814,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -6834,6 +8826,10 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [
+            12.007324,
+            61.578304
+          ],
           [
             12.007285,
             61.578339
@@ -6889,11 +8885,11 @@
         "category": "gravel",
         "travelMode": "cycling",
         "sourceFromKm": 29.162105,
-        "sourceToKm": 30.215997,
+        "sourceToKm": 30.215998,
         "fromKm": 29.162105,
-        "toKm": 30.215997,
-        "lengthKm": 1.053892,
-        "cyclingLengthKm": 1.053892,
+        "toKm": 30.215998,
+        "lengthKm": 1.053893,
+        "cyclingLengthKm": 1.053893,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -6907,12 +8903,20 @@
             61.578635
           ],
           [
+            12.006639,
+            61.578766
+          ],
+          [
             12.006486,
             61.578864
           ],
           [
             12.006357,
             61.578952
+          ],
+          [
+            12.006059,
+            61.57912
           ],
           [
             12.00598,
@@ -6931,12 +8935,20 @@
             61.579425
           ],
           [
+            12.004671,
+            61.579728
+          ],
+          [
             12.004386,
             61.579847
           ],
           [
             12.003978,
             61.580033
+          ],
+          [
+            12.003933,
+            61.580061
           ],
           [
             12.003799,
@@ -6959,6 +8971,10 @@
             61.580489
           ],
           [
+            12.003736,
+            61.580529
+          ],
+          [
             12.00376,
             61.580613
           ],
@@ -6969,6 +8985,10 @@
           [
             12.004049,
             61.581307
+          ],
+          [
+            12.004056,
+            61.58133
           ],
           [
             12.004111,
@@ -6987,6 +9007,10 @@
             61.582028
           ],
           [
+            12.004463,
+            61.582066
+          ],
+          [
             12.004559,
             61.582171
           ],
@@ -7003,6 +9027,10 @@
             61.582542
           ],
           [
+            12.005092,
+            61.582567
+          ],
+          [
             12.005164,
             61.582606
           ],
@@ -7013,6 +9041,10 @@
           [
             12.00558,
             61.582842
+          ],
+          [
+            12.0057,
+            61.58291
           ],
           [
             12.005784,
@@ -7035,6 +9067,10 @@
             61.583466
           ],
           [
+            12.006669,
+            61.583504
+          ],
+          [
             12.006857,
             61.583695
           ],
@@ -7045,6 +9081,10 @@
           [
             12.007092,
             61.583977
+          ],
+          [
+            12.007149,
+            61.584051
           ],
           [
             12.007207,
@@ -7059,12 +9099,20 @@
             61.584385
           ],
           [
+            12.007567,
+            61.584453
+          ],
+          [
             12.007636,
             61.584513
           ],
           [
             12.007788,
             61.584633
+          ],
+          [
+            12.008018,
+            61.584847
           ],
           [
             12.008053,
@@ -7087,6 +9135,10 @@
             61.585587
           ],
           [
+            12.008911,
+            61.585637
+          ],
+          [
             12.008943,
             61.58566
           ],
@@ -7105,6 +9157,10 @@
           [
             12.009544,
             61.586191
+          ],
+          [
+            12.009573,
+            61.586225
           ],
           [
             12.009598,
@@ -7132,14 +9188,14 @@
     {
       "type": "Feature",
       "properties": {
-        "category": "gravel",
+        "category": "trail",
         "travelMode": "cycling",
-        "sourceFromKm": 30.215997,
-        "sourceToKm": 30.502809,
-        "fromKm": 30.215997,
-        "toKm": 30.502809,
-        "lengthKm": 0.286812,
-        "cyclingLengthKm": 0.286812,
+        "sourceFromKm": 30.215998,
+        "sourceToKm": 30.57924,
+        "fromKm": 30.215998,
+        "toKm": 30.57924,
+        "lengthKm": 0.363242,
+        "cyclingLengthKm": 0.363242,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -7155,6 +9211,10 @@
           [
             12.009791,
             61.586911
+          ],
+          [
+            12.009785,
+            61.586949
           ],
           [
             12.00977,
@@ -7181,12 +9241,20 @@
             61.587686
           ],
           [
+            12.009348,
+            61.587724
+          ],
+          [
             12.009264,
             61.587803
           ],
           [
             12.009106,
             61.587915
+          ],
+          [
+            12.008843,
+            61.588134
           ],
           [
             12.008794,
@@ -7203,6 +9271,10 @@
           [
             12.008377,
             61.588498
+          ],
+          [
+            12.008356,
+            61.588518
           ],
           [
             12.008304,
@@ -7225,8 +9297,16 @@
             61.589027
           ],
           [
+            12.007833,
+            61.589068
+          ],
+          [
             12.007837,
             61.589116
+          ],
+          [
+            12.007705,
+            61.589801
           ]
         ]
       }
@@ -7236,12 +9316,12 @@
       "properties": {
         "category": "trail",
         "travelMode": "cycling",
-        "sourceFromKm": 30.502809,
-        "sourceToKm": 31.1202,
-        "fromKm": 30.502809,
-        "toKm": 31.1202,
-        "lengthKm": 0.617391,
-        "cyclingLengthKm": 0.617391,
+        "sourceFromKm": 30.57924,
+        "sourceToKm": 32.927645,
+        "fromKm": 30.57924,
+        "toKm": 32.927645,
+        "lengthKm": 2.348405,
+        "cyclingLengthKm": 2.348405,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -7251,8 +9331,260 @@
         "type": "LineString",
         "coordinates": [
           [
+            12.007705,
+            61.589801
+          ],
+          [
+            12.007621,
+            61.590248
+          ],
+          [
+            12.007537,
+            61.590696
+          ],
+          [
+            12.007453,
+            61.591143
+          ],
+          [
+            12.007369,
+            61.591591
+          ],
+          [
+            12.007285,
+            61.592038
+          ],
+          [
+            12.007201,
+            61.592486
+          ],
+          [
+            12.007117,
+            61.592934
+          ],
+          [
+            12.007033,
+            61.593381
+          ],
+          [
+            12.006949,
+            61.593829
+          ],
+          [
+            12.006865,
+            61.594276
+          ],
+          [
+            12.006781,
+            61.594724
+          ],
+          [
+            12.006697,
+            61.595171
+          ],
+          [
+            12.006613,
+            61.595619
+          ],
+          [
+            12.006529,
+            61.596066
+          ],
+          [
+            12.006445,
+            61.596514
+          ],
+          [
+            12.00636,
+            61.596962
+          ],
+          [
+            12.006277,
+            61.597409
+          ],
+          [
+            12.006192,
+            61.597857
+          ],
+          [
+            12.006108,
+            61.598304
+          ],
+          [
+            12.006024,
+            61.598752
+          ],
+          [
+            12.00594,
+            61.599199
+          ],
+          [
+            12.005856,
+            61.599647
+          ],
+          [
+            12.005772,
+            61.600095
+          ],
+          [
+            12.005688,
+            61.600542
+          ],
+          [
+            12.005604,
+            61.60099
+          ],
+          [
+            12.00552,
+            61.601437
+          ],
+          [
+            12.005436,
+            61.601885
+          ],
+          [
+            12.005351,
+            61.602333
+          ],
+          [
+            12.005267,
+            61.60278
+          ],
+          [
+            12.005183,
+            61.603228
+          ],
+          [
+            12.005099,
+            61.603675
+          ],
+          [
+            12.005015,
+            61.604123
+          ],
+          [
+            12.004931,
+            61.60457
+          ],
+          [
+            12.004847,
+            61.605018
+          ],
+          [
+            12.004763,
+            61.605466
+          ],
+          [
+            12.004679,
+            61.605913
+          ],
+          [
+            12.004595,
+            61.606361
+          ],
+          [
+            12.00451,
+            61.606808
+          ],
+          [
+            12.004426,
+            61.607256
+          ],
+          [
+            12.004342,
+            61.607703
+          ],
+          [
+            12.004258,
+            61.608151
+          ],
+          [
+            12.004174,
+            61.608598
+          ],
+          [
+            12.00409,
+            61.609046
+          ],
+          [
+            12.004006,
+            61.609494
+          ],
+          [
+            12.003922,
+            61.609941
+          ],
+          [
+            12.003837,
+            61.610389
+          ],
+          [
+            12.003753,
+            61.610836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "trail",
+        "travelMode": "cycling",
+        "sourceFromKm": 32.927645,
+        "sourceToKm": 32.977614,
+        "fromKm": 32.927645,
+        "toKm": 32.977614,
+        "lengthKm": 0.049969,
+        "cyclingLengthKm": 0.049969,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.003753,
+            61.610836
+          ],
+          [
+            12.003669,
+            61.611284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "trail",
+        "travelMode": "cycling",
+        "sourceFromKm": 32.977614,
+        "sourceToKm": 33.670474,
+        "fromKm": 32.977614,
+        "toKm": 33.670474,
+        "lengthKm": 0.69286,
+        "cyclingLengthKm": 0.69286,
+        "includeInCyclingDistance": true,
+        "includeInElevationProfile": true,
+        "includeInAscentDescent": true,
+        "breakBeforeGeometryIndexes": []
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.003669,
+            61.611284
+          ],
+          [
             12.003542,
             61.61196
+          ],
+          [
+            12.00354,
+            61.611922
           ],
           [
             12.003535,
@@ -7275,6 +9607,10 @@
             61.61142
           ],
           [
+            12.003879,
+            61.611319
+          ],
+          [
             12.003975,
             61.611135
           ],
@@ -7285,6 +9621,10 @@
           [
             12.004275,
             61.610693
+          ],
+          [
+            12.00431,
+            61.610654
           ],
           [
             12.004401,
@@ -7390,12 +9730,12 @@
       "properties": {
         "category": "trail",
         "travelMode": "cycling",
-        "sourceFromKm": 31.1202,
-        "sourceToKm": 31.128932,
-        "fromKm": 31.1202,
-        "toKm": 31.128932,
-        "lengthKm": 0.008732,
-        "cyclingLengthKm": 0.008732,
+        "sourceFromKm": 33.670474,
+        "sourceToKm": 33.675466,
+        "fromKm": 33.670474,
+        "toKm": 33.675466,
+        "lengthKm": 0.004992,
+        "cyclingLengthKm": 0.004992,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -7409,8 +9749,8 @@
             61.612436
           ],
           [
-            12.006525,
-            61.612514
+            12.006533,
+            61.612481
           ]
         ]
       }
@@ -7418,14 +9758,14 @@
     {
       "type": "Feature",
       "properties": {
-        "category": "trail",
+        "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 31.128932,
-        "sourceToKm": 33.672944,
-        "fromKm": 31.128932,
-        "toKm": 33.672944,
-        "lengthKm": 2.544012,
-        "cyclingLengthKm": 2.544012,
+        "sourceFromKm": 33.675466,
+        "sourceToKm": 36.223218,
+        "fromKm": 33.675466,
+        "toKm": 36.223218,
+        "lengthKm": 2.547752,
+        "cyclingLengthKm": 2.547752,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -7435,12 +9775,20 @@
         "type": "LineString",
         "coordinates": [
           [
+            12.006533,
+            61.612481
+          ],
+          [
             12.006525,
             61.612514
           ],
           [
             12.006515,
             61.612628
+          ],
+          [
+            12.006607,
+            61.612942
           ],
           [
             12.006612,
@@ -7461,6 +9809,10 @@
           [
             12.006575,
             61.613314
+          ],
+          [
+            12.006565,
+            61.61339
           ],
           [
             12.006548,
@@ -7499,6 +9851,10 @@
             61.614644
           ],
           [
+            12.006916,
+            61.615167
+          ],
+          [
             12.006943,
             61.61527
           ],
@@ -7507,12 +9863,20 @@
             61.615427
           ],
           [
+            12.00709,
+            61.615609
+          ],
+          [
             12.007186,
             61.615808
           ],
           [
             12.007231,
             61.615956
+          ],
+          [
+            12.007251,
+            61.616051
           ],
           [
             12.00728,
@@ -7525,6 +9889,10 @@
           [
             12.007421,
             61.616472
+          ],
+          [
+            12.007426,
+            61.616491
           ],
           [
             12.007514,
@@ -7651,6 +10019,10 @@
             61.624127
           ],
           [
+            12.006926,
+            61.624171
+          ],
+          [
             12.006915,
             61.624249
           ],
@@ -7669,6 +10041,10 @@
           [
             12.006971,
             61.624815
+          ],
+          [
+            12.006986,
+            61.624934
           ],
           [
             12.006988,
@@ -7707,6 +10083,10 @@
             61.62576
           ],
           [
+            12.007368,
+            61.625808
+          ],
+          [
             12.007351,
             61.625966
           ],
@@ -7717,6 +10097,10 @@
           [
             12.007402,
             61.626493
+          ],
+          [
+            12.007404,
+            61.626531
           ],
           [
             12.007408,
@@ -7731,12 +10115,20 @@
             61.626878
           ],
           [
+            12.00724,
+            61.627148
+          ],
+          [
             12.007185,
             61.627287
           ],
           [
             12.007115,
             61.627508
+          ],
+          [
+            12.007108,
+            61.627592
           ],
           [
             12.007107,
@@ -7747,12 +10139,28 @@
             61.62776
           ],
           [
+            12.007074,
+            61.628041
+          ],
+          [
             12.00707,
             61.628144
           ],
           [
+            12.007044,
+            61.628491
+          ],
+          [
             12.00702,
             61.628821
+          ],
+          [
+            12.007002,
+            61.628939
+          ],
+          [
+            12.006932,
+            61.629387
           ],
           [
             12.006892,
@@ -7761,6 +10169,10 @@
           [
             12.006887,
             61.62972
+          ],
+          [
+            12.006889,
+            61.629836
           ],
           [
             12.006891,
@@ -7809,6 +10221,10 @@
           [
             12.007062,
             61.630633
+          ],
+          [
+            12.007091,
+            61.630626
           ],
           [
             12.007109,
@@ -7958,12 +10374,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 33.672944,
-        "sourceToKm": 33.677546,
-        "fromKm": 33.672944,
-        "toKm": 33.677546,
-        "lengthKm": 0.004602,
-        "cyclingLengthKm": 0.004602,
+        "sourceFromKm": 36.223218,
+        "sourceToKm": 36.227819,
+        "fromKm": 36.223218,
+        "toKm": 36.227819,
+        "lengthKm": 0.004601,
+        "cyclingLengthKm": 0.004601,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -7988,10 +10404,10 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 33.677546,
-        "sourceToKm": 36.630059,
-        "fromKm": 33.677546,
-        "toKm": 36.630059,
+        "sourceFromKm": 36.227819,
+        "sourceToKm": 39.180332,
+        "fromKm": 36.227819,
+        "toKm": 39.180332,
         "lengthKm": 2.952513,
         "cyclingLengthKm": 2.952513,
         "includeInCyclingDistance": true,
@@ -8267,6 +10683,10 @@
             61.634313
           ],
           [
+            12.013624,
+            61.634361
+          ],
+          [
             12.013777,
             61.634408
           ],
@@ -8311,6 +10731,10 @@
             61.635035
           ],
           [
+            12.014653,
+            61.63507
+          ],
+          [
             12.014686,
             61.635088
           ],
@@ -8337,6 +10761,10 @@
           [
             12.015285,
             61.635478
+          ],
+          [
+            12.015315,
+            61.635523
           ],
           [
             12.015326,
@@ -8367,6 +10795,10 @@
             61.636139
           ],
           [
+            12.01593,
+            61.636249
+          ],
+          [
             12.015966,
             61.636285
           ],
@@ -8381,6 +10813,10 @@
           [
             12.016177,
             61.636581
+          ],
+          [
+            12.016242,
+            61.636673
           ],
           [
             12.016265,
@@ -8401,6 +10837,10 @@
           [
             12.016574,
             61.637088
+          ],
+          [
+            12.016599,
+            61.637132
           ],
           [
             12.016608,
@@ -8449,6 +10889,10 @@
           [
             12.016532,
             61.637861
+          ],
+          [
+            12.016588,
+            61.637895
           ],
           [
             12.016637,
@@ -8535,6 +10979,10 @@
             61.639984
           ],
           [
+            12.017636,
+            61.640031
+          ],
+          [
             12.017679,
             61.640136
           ],
@@ -8563,12 +11011,20 @@
             61.640742
           ],
           [
+            12.017544,
+            61.640785
+          ],
+          [
             12.017512,
             61.640819
           ],
           [
             12.017319,
             61.640962
+          ],
+          [
+            12.01687,
+            61.641267
           ],
           [
             12.01685,
@@ -8581,6 +11037,10 @@
           [
             12.016452,
             61.641544
+          ],
+          [
+            12.016305,
+            61.641627
           ],
           [
             12.016241,
@@ -8607,6 +11067,10 @@
             61.642066
           ],
           [
+            12.015837,
+            61.642117
+          ],
+          [
             12.015804,
             61.642196
           ],
@@ -8627,6 +11091,10 @@
             61.642803
           ],
           [
+            12.015437,
+            61.642897
+          ],
+          [
             12.015373,
             61.643021
           ],
@@ -8639,12 +11107,24 @@
             61.643318
           ],
           [
+            12.015196,
+            61.643331
+          ],
+          [
             12.015125,
             61.643459
           ],
           [
             12.015042,
             61.643594
+          ],
+          [
+            12.014954,
+            61.643765
+          ],
+          [
+            12.014728,
+            61.644202
           ],
           [
             12.014721,
@@ -8661,6 +11141,10 @@
           [
             12.01449,
             61.644659
+          ],
+          [
+            12.014477,
+            61.644708
           ],
           [
             12.014428,
@@ -8703,6 +11187,10 @@
             61.645645
           ],
           [
+            12.014827,
+            61.645698
+          ],
+          [
             12.014802,
             61.645766
           ],
@@ -8739,12 +11227,20 @@
             61.646631
           ],
           [
+            12.013817,
+            61.646721
+          ],
+          [
             12.013736,
             61.646895
           ],
           [
             12.013673,
             61.646994
+          ],
+          [
+            12.013509,
+            61.647142
           ],
           [
             12.013479,
@@ -8763,6 +11259,10 @@
             61.647622
           ],
           [
+            12.013035,
+            61.647669
+          ],
+          [
             12.01296,
             61.647883
           ],
@@ -8773,6 +11273,10 @@
           [
             12.012853,
             61.648407
+          ],
+          [
+            12.012843,
+            61.648433
           ],
           [
             12.012805,
@@ -8787,6 +11291,10 @@
             61.648846
           ],
           [
+            12.012617,
+            61.648869
+          ],
+          [
             12.012581,
             61.648955
           ],
@@ -8797,6 +11305,10 @@
           [
             12.012529,
             61.649145
+          ],
+          [
+            12.012427,
+            61.649307
           ],
           [
             12.012392,
@@ -8815,6 +11327,10 @@
             61.649713
           ],
           [
+            12.012176,
+            61.649741
+          ],
+          [
             12.012021,
             61.650006
           ],
@@ -8829,6 +11345,10 @@
           [
             12.011874,
             61.650386
+          ],
+          [
+            12.011873,
+            61.650441
           ],
           [
             12.011872,
@@ -8863,6 +11383,10 @@
             61.651108
           ],
           [
+            12.012029,
+            61.651159
+          ],
+          [
             12.012014,
             61.651189
           ],
@@ -8886,12 +11410,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 36.630059,
-        "sourceToKm": 38.474471,
-        "fromKm": 36.630059,
-        "toKm": 38.474471,
-        "lengthKm": 1.844412,
-        "cyclingLengthKm": 1.844412,
+        "sourceFromKm": 39.180332,
+        "sourceToKm": 41.024745,
+        "fromKm": 39.180332,
+        "toKm": 41.024745,
+        "lengthKm": 1.844413,
+        "cyclingLengthKm": 1.844413,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -8917,6 +11441,10 @@
             61.651867
           ],
           [
+            12.011535,
+            61.651919
+          ],
+          [
             12.011513,
             61.651998
           ],
@@ -8935,6 +11463,10 @@
           [
             12.011349,
             61.652593
+          ],
+          [
+            12.011316,
+            61.652808
           ],
           [
             12.011314,
@@ -9049,6 +11581,10 @@
             61.654686
           ],
           [
+            12.011693,
+            61.654724
+          ],
+          [
             12.011641,
             61.654757
           ],
@@ -9097,6 +11633,10 @@
             61.655861
           ],
           [
+            12.011203,
+            61.655911
+          ],
+          [
             12.011245,
             61.656018
           ],
@@ -9107,6 +11647,10 @@
           [
             12.011531,
             61.656328
+          ],
+          [
+            12.011663,
+            61.656431
           ],
           [
             12.011701,
@@ -9149,6 +11693,10 @@
             61.657051
           ],
           [
+            12.012059,
+            61.657061
+          ],
+          [
             12.01204,
             61.657081
           ],
@@ -9181,6 +11729,10 @@
             61.657646
           ],
           [
+            12.011144,
+            61.657673
+          ],
+          [
             12.011143,
             61.657916
           ],
@@ -9195,6 +11747,10 @@
           [
             12.011033,
             61.658115
+          ],
+          [
+            12.010956,
+            61.658161
           ],
           [
             12.010941,
@@ -9223,6 +11779,10 @@
           [
             12.010102,
             61.658557
+          ],
+          [
+            12.010099,
+            61.658583
           ],
           [
             12.010097,
@@ -9275,6 +11835,10 @@
           [
             12.010833,
             61.659263
+          ],
+          [
+            12.01082,
+            61.659315
           ],
           [
             12.010814,
@@ -9333,6 +11897,10 @@
             61.660917
           ],
           [
+            12.009973,
+            61.660956
+          ],
+          [
             12.009588,
             61.661134
           ],
@@ -9343,6 +11911,10 @@
           [
             12.009143,
             61.661323
+          ],
+          [
+            12.00892,
+            61.661397
           ],
           [
             12.008881,
@@ -9369,6 +11941,10 @@
             61.661846
           ],
           [
+            12.007395,
+            61.661898
+          ],
+          [
             12.007172,
             61.662108
           ],
@@ -9377,8 +11953,16 @@
             61.662258
           ],
           [
+            12.006991,
+            61.662306
+          ],
+          [
             12.006902,
             61.662395
+          ],
+          [
+            12.006677,
+            61.662729
           ],
           [
             12.006626,
@@ -9391,6 +11975,10 @@
           [
             12.006341,
             61.663314
+          ],
+          [
+            12.006314,
+            61.663363
           ],
           [
             12.00629,
@@ -9415,6 +12003,10 @@
           [
             12.0064,
             61.66381
+          ],
+          [
+            12.006443,
+            61.663861
           ],
           [
             12.006536,
@@ -9457,6 +12049,10 @@
             61.664647
           ],
           [
+            12.007208,
+            61.6647
+          ],
+          [
             12.006993,
             61.664934
           ],
@@ -9467,6 +12063,10 @@
           [
             12.006784,
             61.66519
+          ],
+          [
+            12.006777,
+            61.665206
           ],
           [
             12.00668,
@@ -9489,6 +12089,10 @@
             61.665946
           ],
           [
+            12.006472,
+            61.665975
+          ],
+          [
             12.006487,
             61.666013
           ],
@@ -9508,12 +12112,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 38.474471,
-        "sourceToKm": 38.672434,
-        "fromKm": 38.474471,
-        "toKm": 38.672434,
-        "lengthKm": 0.197963,
-        "cyclingLengthKm": 0.197963,
+        "sourceFromKm": 41.024745,
+        "sourceToKm": 41.222707,
+        "fromKm": 41.024745,
+        "toKm": 41.222707,
+        "lengthKm": 0.197962,
+        "cyclingLengthKm": 0.197962,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -9583,6 +12187,10 @@
             61.667265
           ],
           [
+            12.006707,
+            61.667323
+          ],
+          [
             12.006643,
             61.667416
           ],
@@ -9618,10 +12226,10 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 38.672434,
-        "sourceToKm": 39.282842,
-        "fromKm": 38.672434,
-        "toKm": 39.282842,
+        "sourceFromKm": 41.222707,
+        "sourceToKm": 41.833115,
+        "fromKm": 41.222707,
+        "toKm": 41.833115,
         "lengthKm": 0.610408,
         "cyclingLengthKm": 0.610408,
         "includeInCyclingDistance": true,
@@ -9645,6 +12253,10 @@
             61.667844
           ],
           [
+            12.006054,
+            61.667896
+          ],
+          [
             12.00604,
             61.667953
           ],
@@ -9663,6 +12275,10 @@
           [
             12.005733,
             61.668818
+          ],
+          [
+            12.005658,
+            61.668865
           ],
           [
             12.005524,
@@ -9705,12 +12321,20 @@
             61.669345
           ],
           [
+            12.003898,
+            61.669359
+          ],
+          [
             12.003843,
             61.669484
           ],
           [
             12.003747,
             61.669763
+          ],
+          [
+            12.0037,
+            61.669811
           ],
           [
             12.003691,
@@ -9737,6 +12361,10 @@
             61.670283
           ],
           [
+            12.00249,
+            61.670331
+          ],
+          [
             12.002446,
             61.67037
           ],
@@ -9749,6 +12377,10 @@
             61.670801
           ],
           [
+            12.002105,
+            61.670932
+          ],
+          [
             12.002022,
             61.671103
           ],
@@ -9759,6 +12391,10 @@
           [
             12.001751,
             61.671361
+          ],
+          [
+            12.001651,
+            61.671391
           ],
           [
             12.001461,
@@ -9777,6 +12413,10 @@
             61.671499
           ],
           [
+            11.99999,
+            61.671463
+          ],
+          [
             11.999784,
             61.67143
           ]
@@ -9788,12 +12428,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 39.282842,
-        "sourceToKm": 39.300002,
-        "fromKm": 39.282842,
-        "toKm": 39.300002,
-        "lengthKm": 0.01716,
-        "cyclingLengthKm": 0.01716,
+        "sourceFromKm": 41.833115,
+        "sourceToKm": 41.850276,
+        "fromKm": 41.833115,
+        "toKm": 41.850276,
+        "lengthKm": 0.017161,
+        "cyclingLengthKm": 0.017161,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -9818,12 +12458,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 39.300002,
-        "sourceToKm": 39.345765,
-        "fromKm": 39.300002,
-        "toKm": 39.345765,
-        "lengthKm": 0.045763,
-        "cyclingLengthKm": 0.045763,
+        "sourceFromKm": 41.850276,
+        "sourceToKm": 41.896038,
+        "fromKm": 41.850276,
+        "toKm": 41.896038,
+        "lengthKm": 0.045762,
+        "cyclingLengthKm": 0.045762,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -9860,12 +12500,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 39.345765,
-        "sourceToKm": 39.367085,
-        "fromKm": 39.345765,
-        "toKm": 39.367085,
-        "lengthKm": 0.02132,
-        "cyclingLengthKm": 0.02132,
+        "sourceFromKm": 41.896038,
+        "sourceToKm": 41.902591,
+        "fromKm": 41.896038,
+        "toKm": 41.902591,
+        "lengthKm": 0.006553,
+        "cyclingLengthKm": 0.006553,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -9879,8 +12519,8 @@
             61.671527
           ],
           [
-            11.998349,
-            61.671661
+            11.998549,
+            61.671568
           ]
         ]
       }
@@ -9890,12 +12530,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 39.367085,
-        "sourceToKm": 40.313015,
-        "fromKm": 39.367085,
-        "toKm": 40.313015,
-        "lengthKm": 0.94593,
-        "cyclingLengthKm": 0.94593,
+        "sourceFromKm": 41.902591,
+        "sourceToKm": 42.863289,
+        "fromKm": 41.902591,
+        "toKm": 42.863289,
+        "lengthKm": 0.960698,
+        "cyclingLengthKm": 0.960698,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -9905,12 +12545,20 @@
         "type": "LineString",
         "coordinates": [
           [
+            11.998549,
+            61.671568
+          ],
+          [
             11.998349,
             61.671661
           ],
           [
             11.997931,
             61.671944
+          ],
+          [
+            11.997818,
+            61.672075
           ],
           [
             11.997748,
@@ -9929,6 +12577,10 @@
             61.672382
           ],
           [
+            11.997276,
+            61.67243
+          ],
+          [
             11.996948,
             61.672563
           ],
@@ -9945,6 +12597,10 @@
             61.673011
           ],
           [
+            11.996299,
+            61.673067
+          ],
+          [
             11.996239,
             61.673215
           ],
@@ -9955,6 +12611,10 @@
           [
             11.996357,
             61.673655
+          ],
+          [
+            11.996393,
+            61.673715
           ],
           [
             11.996508,
@@ -9969,8 +12629,16 @@
             61.67426
           ],
           [
+            11.996968,
+            61.674445
+          ],
+          [
             11.997148,
             61.674631
+          ],
+          [
+            11.997324,
+            61.674861
           ],
           [
             11.997474,
@@ -9979,6 +12647,10 @@
           [
             11.99754,
             61.675228
+          ],
+          [
+            11.997568,
+            61.675294
           ],
           [
             11.997756,
@@ -9993,6 +12665,10 @@
             61.676318
           ],
           [
+            11.998011,
+            61.676374
+          ],
+          [
             11.998176,
             61.676593
           ],
@@ -10001,12 +12677,24 @@
             61.676862
           ],
           [
+            11.998703,
+            61.676983
+          ],
+          [
             11.998944,
             61.677141
           ],
           [
+            11.999173,
+            61.677371
+          ],
+          [
             11.999204,
             61.677402
+          ],
+          [
+            11.999521,
+            61.677788
           ],
           [
             11.999687,
@@ -10015,6 +12703,10 @@
           [
             11.999892,
             61.678266
+          ],
+          [
+            11.999992,
+            61.678302
           ],
           [
             12.000137,
@@ -10037,6 +12729,10 @@
             61.678344
           ],
           [
+            12.001553,
+            61.678323
+          ],
+          [
             12.001669,
             61.678312
           ],
@@ -10056,12 +12752,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 40.313015,
-        "sourceToKm": 40.335456,
-        "fromKm": 40.313015,
-        "toKm": 40.335456,
-        "lengthKm": 0.022441,
-        "cyclingLengthKm": 0.022441,
+        "sourceFromKm": 42.863289,
+        "sourceToKm": 42.870891,
+        "fromKm": 42.863289,
+        "toKm": 42.870891,
+        "lengthKm": 0.007602,
+        "cyclingLengthKm": 0.007602,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -10075,8 +12771,8 @@
             61.678252
           ],
           [
-            12.002762,
-            61.67822
+            12.002484,
+            61.678241
           ]
         ]
       }
@@ -10086,12 +12782,12 @@
       "properties": {
         "category": "gravel",
         "travelMode": "cycling",
-        "sourceFromKm": 40.335456,
-        "sourceToKm": 40.464124,
-        "fromKm": 40.335456,
-        "toKm": 40.464124,
-        "lengthKm": 0.128668,
-        "cyclingLengthKm": 0.128668,
+        "sourceFromKm": 42.870891,
+        "sourceToKm": 43.014397,
+        "fromKm": 42.870891,
+        "toKm": 43.014397,
+        "lengthKm": 0.143506,
+        "cyclingLengthKm": 0.143506,
         "includeInCyclingDistance": true,
         "includeInElevationProfile": true,
         "includeInAscentDescent": true,
@@ -10100,6 +12796,10 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [
+            12.002484,
+            61.678241
+          ],
           [
             12.002762,
             61.67822
@@ -10113,12 +12813,20 @@
             61.67816
           ],
           [
+            12.003414,
+            61.678155
+          ],
+          [
             12.0035,
             61.678149
           ],
           [
             12.00402,
             61.67813
+          ],
+          [
+            12.004358,
+            61.678124
           ],
           [
             12.004452,
