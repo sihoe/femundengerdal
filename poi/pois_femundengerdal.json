@@ -12,7 +12,19 @@
     "latlng": [
       61.8324949,
       11.8879021
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "severdighet"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=5631"
   },
   {
     "id": "erling-sand-fiskefluer-wp-5644",
@@ -27,7 +39,19 @@
     "latlng": [
       61.7576219,
       11.9599067
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "severdighet"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=5644"
   },
   {
     "id": "abakus-i-baggroa-engerdal-sentrum-wp-5661",
@@ -42,7 +66,19 @@
     "latlng": [
       61.7576219,
       11.9599067
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "severdighet"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=5661"
   },
   {
     "id": "smasjokongen-wp-5673",
@@ -57,7 +93,19 @@
     "latlng": [
       62.0840119,
       12.0711912
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "severdighet"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=5673"
   },
   {
     "id": "treskjaereren-hans-sorken-wp-5688",
@@ -72,7 +120,19 @@
     "latlng": [
       61.9716069,
       11.9447384
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "severdighet"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=5688"
   },
   {
     "id": "anna-i-odemarka-wp-5703",
@@ -87,7 +147,19 @@
     "latlng": [
       61.7576219,
       11.9599067
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "severdighet"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=5703"
   },
   {
     "id": "gjermund-eggen-utstillingen-wp-5721",
@@ -102,7 +174,19 @@
     "latlng": [
       61.7576219,
       11.9599067
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "severdighet"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=5721"
   },
   {
     "id": "femundshytten-gard-verdensarv-wp-5728",
@@ -117,7 +201,19 @@
     "latlng": [
       62.3118318,
       11.9150599
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "severdighet"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=5728"
   },
   {
     "id": "ms-faemund-ll-wp-5741",
@@ -132,7 +228,18 @@
     "latlng": [
       62.4828251,
       11.6169851
-    ]
+    ],
+    "services": [
+      {
+        "category": "aktiviteter",
+        "type": "boat_trip",
+        "seasons": [
+          "summer"
+        ],
+        "symbolType": "anlop-femund"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=5741"
   },
   {
     "id": "flyvraket-ved-hundskampen-wp-5755",
@@ -147,7 +254,19 @@
     "latlng": [
       61.7889141,
       11.9766332
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "severdighet"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=5755"
   },
   {
     "id": "raevholet-wp-5770",
@@ -162,7 +281,19 @@
     "latlng": [
       61.7461875,
       12.1285625
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "severdighet"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=5770"
   },
   {
     "id": "besokssenter-nasjonalpark-femundsmarka-og-gutulia-wp-5777",
@@ -177,7 +308,19 @@
     "latlng": [
       62.1655226,
       11.9439917
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "severdighet"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=5777"
   },
   {
     "id": "roafallene-wp-5784",
@@ -192,7 +335,19 @@
     "latlng": [
       61.6690214,
       12.0147891
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "severdighet"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=5784"
   },
   {
     "id": "blokkodden-villmarksmuseum-wp-5799",
@@ -207,7 +362,19 @@
     "latlng": [
       61.884395,
       12.023162
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "severdighet"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=5799"
   },
   {
     "id": "somaen-tradisjonshandverk-as-wp-8033",
@@ -222,7 +389,19 @@
     "latlng": [
       62.0964818,
       11.6705604
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "construction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=8033"
   },
   {
     "id": "fjellservice-engerdal-as-wp-8048",
@@ -237,7 +416,19 @@
     "latlng": [
       61.7588724,
       11.9559511
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "construction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=8048"
   },
   {
     "id": "trysil-vask-og-rens-wp-8071",
@@ -252,7 +443,19 @@
     "latlng": [
       61.3018334,
       12.2663338
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "other",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=8071"
   },
   {
     "id": "maskinentreprenor-per-joar-kvilten-wp-8093",
@@ -267,7 +470,19 @@
     "latlng": [
       61.8900856,
       12.0290561
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "construction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=8093"
   },
   {
     "id": "naerbutikken-elga-peder-rosten-eftf-wp-9500",
@@ -282,7 +497,19 @@
     "latlng": [
       62.16294,
       11.9441373
-    ]
+    ],
+    "services": [
+      {
+        "category": "handel",
+        "type": "shopping",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "butikk"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=9500"
   },
   {
     "id": "maskinentreprenor-knut-roar-hansen-wp-8103",
@@ -297,7 +524,19 @@
     "latlng": [
       61.8900856,
       12.0290561
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "construction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=8103"
   },
   {
     "id": "engerdal-elektro-wp-8120",
@@ -312,7 +551,19 @@
     "latlng": [
       61.7566232,
       11.9627222
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "construction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=8120"
   },
   {
     "id": "byggbua-wp-8133",
@@ -327,7 +578,19 @@
     "latlng": [
       61.9022779,
       12.0007096
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "construction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "butikk"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=8133"
   },
   {
     "id": "fagmobler-trysil-wp-8147",
@@ -342,7 +605,19 @@
     "latlng": [
       61.2965348,
       12.2700926
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "construction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "butikk"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=8147"
   },
   {
     "id": "statskog-wp-8187",
@@ -357,7 +632,19 @@
     "latlng": [
       61.8820894,
       12.0312091
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "other",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=8187"
   },
   {
     "id": "byggepartner-as-engerdal-wp-8216",
@@ -372,7 +659,19 @@
     "latlng": [
       61.8094401,
       11.9125877
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "construction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=8216"
   },
   {
     "id": "heggeriset-store-wp-8230",
@@ -387,7 +686,19 @@
     "latlng": [
       61.6746234,
       12.062427
-    ]
+    ],
+    "services": [
+      {
+        "category": "handel",
+        "type": "shopping",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "butikk"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=8230"
   },
   {
     "id": "engerdal-kommuneskoger-kf-wp-8255",
@@ -402,7 +713,19 @@
     "latlng": [
       61.7576219,
       11.9599067
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "seng"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=8255"
   },
   {
     "id": "solheim-hyttegrend-wp-8273",
@@ -417,7 +740,19 @@
     "latlng": [
       61.7588724,
       11.9559511
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "hytte"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=8273"
   },
   {
     "id": "femund-bygg-wp-8291",
@@ -432,7 +767,19 @@
     "latlng": [
       61.7564415,
       11.9616091
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "construction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=8291"
   },
   {
     "id": "femund-hytter-interior-wp-8308",
@@ -447,7 +794,19 @@
     "latlng": [
       61.7475739,
       11.9682133
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "construction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=8308"
   },
   {
     "id": "furutun-wp-9510",
@@ -462,7 +821,19 @@
     "latlng": [
       61.8023474,
       11.9175573
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "seng"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=9510"
   },
   {
     "id": "fjellheimen-leirskole-wp-9517",
@@ -477,7 +848,19 @@
     "latlng": [
       61.8304603,
       11.7205882
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "seng"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=9517"
   },
   {
     "id": "femund-glamping-wp-9539",
@@ -492,7 +875,19 @@
     "latlng": [
       61.9697946,
       11.9600057
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "telt"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=9539"
   },
   {
     "id": "isterfossen-camp-fritid-wp-9546",
@@ -507,7 +902,19 @@
     "latlng": [
       61.9079951,
       11.7833329
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "telt"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=9546"
   },
   {
     "id": "kjaerran-gard-wp-9557",
@@ -522,7 +929,19 @@
     "latlng": [
       62.0680961,
       12.209799
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "hytte"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=9557"
   },
   {
     "id": "hogstad-hytte-wp-10061",
@@ -537,7 +956,19 @@
     "latlng": [
       61.8765847,
       12.0242445
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "hytte"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10061"
   },
   {
     "id": "trangsrud-utleie-wp-10087",
@@ -552,7 +983,19 @@
     "latlng": [
       61.8796119,
       12.1379667
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "hytte"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10087"
   },
   {
     "id": "johnsgard-turistsenter-kafe-wp-9351",
@@ -567,7 +1010,19 @@
     "latlng": [
       62.1449912,
       11.6169271
-    ]
+    ],
+    "services": [
+      {
+        "category": "spisesteder",
+        "type": "food",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "kaffe"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=9351"
   },
   {
     "id": "solenstua-camp-og-hytter-wp-9363",
@@ -582,7 +1037,19 @@
     "latlng": [
       61.8350906,
       11.7313899
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "telt"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=9363"
   },
   {
     "id": "femundshytten-wp-9374",
@@ -597,7 +1064,19 @@
     "latlng": [
       62.3118318,
       11.9150599
-    ]
+    ],
+    "services": [
+      {
+        "category": "spisesteder",
+        "type": "food",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "bestikk"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=9374"
   },
   {
     "id": "femundtunet-servering-wp-9427",
@@ -612,7 +1091,19 @@
     "latlng": [
       61.9198643,
       11.9386698
-    ]
+    ],
+    "services": [
+      {
+        "category": "spisesteder",
+        "type": "food",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "bestikk"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=9427"
   },
   {
     "id": "galten-gard-wp-9442",
@@ -627,7 +1118,19 @@
     "latlng": [
       61.8899238,
       11.7590695
-    ]
+    ],
+    "services": [
+      {
+        "category": "spisesteder",
+        "type": "food",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "bestikk"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=9442"
   },
   {
     "id": "valdalen-gard-servering-wp-9450",
@@ -642,7 +1145,19 @@
     "latlng": [
       62.076143,
       12.1718957
-    ]
+    ],
+    "services": [
+      {
+        "category": "spisesteder",
+        "type": "food",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "bestikk"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=9450"
   },
   {
     "id": "vestre-sorken-feriegard-wp-10109",
@@ -657,7 +1172,19 @@
     "latlng": [
       61.9716069,
       11.9447384
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "seng"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10109"
   },
   {
     "id": "valdalen-gard-wp-10115",
@@ -672,7 +1199,19 @@
     "latlng": [
       62.076143,
       12.1718957
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "seng"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10115"
   },
   {
     "id": "tretopphytta-kraggbua-wp-10223",
@@ -687,7 +1226,19 @@
     "latlng": [
       61.7479651,
       11.7494777
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "hytte"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10223"
   },
   {
     "id": "ronningen-camp-og-hytter-wp-10389",
@@ -702,7 +1253,19 @@
     "latlng": [
       62.0504259,
       11.6947455
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "telt"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10389"
   },
   {
     "id": "jonasvollen-camping-wp-10529",
@@ -717,7 +1280,19 @@
     "latlng": [
       62.2615642,
       11.8917558
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "telt"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10529"
   },
   {
     "id": "olderskogen-naturcamp-wp-10530",
@@ -732,7 +1307,19 @@
     "latlng": [
       61.6942062,
       11.9870011
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "telt"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10530"
   },
   {
     "id": "glotberget-gard-og-hytteutleie-wp-10569",
@@ -747,7 +1334,19 @@
     "latlng": [
       61.9343365,
       11.8296318
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "hytte"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10569"
   },
   {
     "id": "galten-gard-og-smithseter-wp-10576",
@@ -762,7 +1361,19 @@
     "latlng": [
       61.8903116,
       11.7587784
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "seng"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10576"
   },
   {
     "id": "femundtunet-wp-10585",
@@ -777,7 +1388,19 @@
     "latlng": [
       61.9198643,
       11.9386698
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "seng"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10585"
   },
   {
     "id": "femundsundet-storhytte-wp-10593",
@@ -792,7 +1415,19 @@
     "latlng": [
       61.8341241,
       11.7275975
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "hytte"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10593"
   },
   {
     "id": "femund-canoe-camp-2-wp-10600",
@@ -807,7 +1442,18 @@
     "latlng": [
       61.9697946,
       11.9600057
-    ]
+    ],
+    "services": [
+      {
+        "category": "aktiviteter",
+        "type": "canoeing",
+        "seasons": [
+          "summer"
+        ],
+        "symbolType": "kano"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10600"
   },
   {
     "id": "engerdal-fjellstyre-wp-10607",
@@ -822,7 +1468,19 @@
     "latlng": [
       61.8820894,
       12.0312091
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "hytte"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10607"
   },
   {
     "id": "batsto-camping-wp-10616",
@@ -837,7 +1495,19 @@
     "latlng": [
       62.170968,
       11.938873
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "telt"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10616"
   },
   {
     "id": "johnsgard-turistsenter-wp-10623",
@@ -852,7 +1522,19 @@
     "latlng": [
       62.1449912,
       11.6169271
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "seng"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=10623"
   },
   {
     "id": "femund-brygge-og-pub-wp-9457",
@@ -867,7 +1549,20 @@
     "latlng": [
       61.9241034,
       11.9181343
-    ]
+    ],
+    "services": [
+      {
+        "category": "spisesteder",
+        "type": "food",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "bestikk",
+        "shortDescription": "Brygge og pub ved Femund. Kontakt stedet for åpningstider."
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=9457"
   },
   {
     "id": "krysset-restaurant-og-kafe-wp-9490",
@@ -882,7 +1577,19 @@
     "latlng": [
       61.8910522,
       12.0298796
-    ]
+    ],
+    "services": [
+      {
+        "category": "spisesteder",
+        "type": "food",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "bestikk"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=9490"
   },
   {
     "id": "dnt-engerdal-og-trysil-wp-11312",
@@ -897,7 +1604,18 @@
     "latlng": [
       61.2373874,
       12.2892361
-    ]
+    ],
+    "services": [
+      {
+        "category": "aktiviteter",
+        "type": "hiking",
+        "seasons": [
+          "summer"
+        ],
+        "symbolType": "vandre"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11312"
   },
   {
     "id": "sparebank1-ostlandet-wp-11315",
@@ -912,7 +1630,19 @@
     "latlng": [
       61.757233,
       11.9610692
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "other",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11315"
   },
   {
     "id": "opsis-print-og-profil-wp-11364",
@@ -927,7 +1657,19 @@
     "latlng": [
       61.3140776,
       12.2642895
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "other",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11364"
   },
   {
     "id": "spire-kommunikasjon-wp-11385",
@@ -942,7 +1684,19 @@
     "latlng": [
       61.3134454,
       12.2629651
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "other",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11385"
   },
   {
     "id": "okorad-engerdal-wp-11406",
@@ -957,7 +1711,19 @@
     "latlng": [
       61.882618,
       12.0306253
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "other",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11406"
   },
   {
     "id": "tannlegene-gjermunds-wp-11421",
@@ -972,7 +1738,19 @@
     "latlng": [
       61.6706248,
       12.012999
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "other",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11421"
   },
   {
     "id": "fjell-bia-wp-11440",
@@ -987,7 +1765,19 @@
     "latlng": [
       61.8900856,
       12.0290561
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "other",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11440"
   },
   {
     "id": "optimisten-wp-11470",
@@ -1002,7 +1792,19 @@
     "latlng": [
       61.8873042,
       12.0322456
-    ]
+    ],
+    "services": [
+      {
+        "category": "handel",
+        "type": "shopping",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "butikk"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11470"
   },
   {
     "id": "joker-drevsjo-glotvold-handel-wp-11509",
@@ -1017,7 +1819,19 @@
     "latlng": [
       61.8910522,
       12.0298796
-    ]
+    ],
+    "services": [
+      {
+        "category": "handel",
+        "type": "shopping",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "butikk"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11509"
   },
   {
     "id": "coop-prix-engerdal-wp-11522",
@@ -1032,7 +1846,19 @@
     "latlng": [
       61.7569591,
       11.9603171
-    ]
+    ],
+    "services": [
+      {
+        "category": "handel",
+        "type": "shopping",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "butikk"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11522"
   },
   {
     "id": "femundlopet-wp-11573",
@@ -1047,7 +1873,18 @@
     "latlng": [
       61.8900856,
       12.0290561
-    ]
+    ],
+    "services": [
+      {
+        "category": "aktiviteter",
+        "type": "dogsledding",
+        "seasons": [
+          "winter"
+        ],
+        "symbolType": "symbols_hundekjoering"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11573"
   },
   {
     "id": "sm-scooterutleie-wp-11626",
@@ -1062,7 +1899,18 @@
     "latlng": [
       61.8876437,
       12.037124
-    ]
+    ],
+    "services": [
+      {
+        "category": "aktiviteter",
+        "type": "snowmobile",
+        "seasons": [
+          "winter"
+        ],
+        "symbolType": "snoscooter"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11626"
   },
   {
     "id": "engerdal-snoscooterforening-wp-11672",
@@ -1077,7 +1925,18 @@
     "latlng": [
       61.8900856,
       12.0290561
-    ]
+    ],
+    "services": [
+      {
+        "category": "aktiviteter",
+        "type": "snowmobile",
+        "seasons": [
+          "winter"
+        ],
+        "symbolType": "snoscooter"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11672"
   },
   {
     "id": "fjell-huskies-wp-11691",
@@ -1092,7 +1951,19 @@
     "latlng": [
       61.7590681,
       11.9594542
-    ]
+    ],
+    "services": [
+      {
+        "category": "aktiviteter",
+        "type": "dogsledding",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "symbols_hundekjoering"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11691"
   },
   {
     "id": "trysilguidene-wp-11740",
@@ -1107,7 +1978,18 @@
     "latlng": [
       61.8350906,
       11.7313899
-    ]
+    ],
+    "services": [
+      {
+        "category": "aktiviteter",
+        "type": "rafting",
+        "seasons": [
+          "summer"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11740"
   },
   {
     "id": "kopparleden-teaterlag-wp-11757",
@@ -1122,7 +2004,19 @@
     "latlng": [
       61.8186715,
       11.9241978
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11757"
   },
   {
     "id": "heme-dine-wp-11773",
@@ -1137,7 +2031,19 @@
     "latlng": [
       61.8368567,
       11.7403215
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "other",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11773"
   },
   {
     "id": "engerdalsdagene-wp-11801",
@@ -1152,7 +2058,19 @@
     "latlng": [
       61.75717,
       11.960514
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11801"
   },
   {
     "id": "stall-rydland-wp-11825",
@@ -1167,7 +2085,19 @@
     "latlng": [
       61.8164029,
       11.9163054
-    ]
+    ],
+    "services": [
+      {
+        "category": "aktiviteter",
+        "type": "horse_riding",
+        "seasons": [
+          "summer"
+        ],
+        "symbolType": "ri",
+        "shortDescription": "Guidet ridning og rideleir. Opplev skog og fjellterreng fra hesteryggen. Avtal tur med tilbyderen."
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=11825"
   },
   {
     "id": "ostlandet-motorservice-wp-12626",
@@ -1182,7 +2112,19 @@
     "latlng": [
       61.8876506,
       12.0371329
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "other",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=12626"
   },
   {
     "id": "haugen-gard-ved-femund-wp-13018",
@@ -1197,7 +2139,19 @@
     "latlng": [
       62.2976579,
       11.961792
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "hytte"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=13018"
   },
   {
     "id": "rygh-entreprenor-wp-13037",
@@ -1212,7 +2166,19 @@
     "latlng": [
       61.7590681,
       11.9594542
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "construction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=13037"
   },
   {
     "id": "3-visjon-as-wp-13365",
@@ -1227,7 +2193,19 @@
     "latlng": [
       61.8900856,
       12.0290561
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "other",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=13365"
   },
   {
     "id": "solen-alpinsenter-wp-13390",
@@ -1242,7 +2220,18 @@
     "latlng": [
       61.8256444,
       11.7358095
-    ]
+    ],
+    "services": [
+      {
+        "category": "aktiviteter",
+        "type": "ski",
+        "seasons": [
+          "winter"
+        ],
+        "symbolType": "ski"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=13390"
   },
   {
     "id": "svukuriset-turisthytte-wp-13832",
@@ -1257,7 +2246,19 @@
     "latlng": [
       62.2215049,
       12.0149324
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "seng"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=13832"
   },
   {
     "id": "isterdomen-isterfossen-campfritid-wp-14201",
@@ -1272,7 +2273,19 @@
     "latlng": [
       61.9080232,
       11.7831859
-    ]
+    ],
+    "services": [
+      {
+        "category": "spisesteder",
+        "type": "food",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "bestikk"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=14201"
   },
   {
     "id": "kafe-enger-wp-14734",
@@ -1287,7 +2300,19 @@
     "latlng": [
       61.761476,
       11.9510453
-    ]
+    ],
+    "services": [
+      {
+        "category": "spisesteder",
+        "type": "food",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "kaffe"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=14734"
   },
   {
     "id": "dagsturhytta-rofalla-wp-15136",
@@ -1302,7 +2327,19 @@
     "latlng": [
       61.6690214,
       12.0147891
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "severdighet"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=15136"
   },
   {
     "id": "asgard-wilderness-farm-eywas-trails-wp-15393",
@@ -1317,7 +2354,29 @@
     "latlng": [
       61.7530991,
       11.7496034
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "seng",
+        "shortDescription": "Overnatting på Åsgård Wilderness Farm. Kontakt stedet for overnattingsmuligheter og bestilling."
+      },
+      {
+        "category": "aktiviteter",
+        "type": "dogsledding",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "symbols_hundekjoering"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=15393"
   },
   {
     "id": "trysil-bilberging-wp-15544",
@@ -1332,7 +2391,19 @@
     "latlng": [
       61.300822,
       12.2667426
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "other",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=15544"
   },
   {
     "id": "hylleras-sameieskog-wp-15600",
@@ -1347,7 +2418,19 @@
     "latlng": [
       61.633559,
       12.0343219
-    ]
+    ],
+    "services": [
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "hytte"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=15600"
   },
   {
     "id": "engerdal-taxi-wp-15619",
@@ -1362,7 +2445,19 @@
     "latlng": [
       61.7587874,
       11.9603063
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "other",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=15619"
   },
   {
     "id": "norse-quest-husky-tours-wp-15668",
@@ -1377,7 +2472,19 @@
     "latlng": [
       61.971854,
       11.9448699
-    ]
+    ],
+    "services": [
+      {
+        "category": "aktiviteter",
+        "type": "dogsledding",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "symbols_hundekjoering"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=15668"
   },
   {
     "id": "lillebo-kulturlave-wp-15730",
@@ -1392,7 +2499,19 @@
     "latlng": [
       61.8722998,
       12.1602977
-    ]
+    ],
+    "services": [
+      {
+        "category": "attraksjoner",
+        "type": "attraction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "severdighet"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=15730"
   },
   {
     "id": "engerdal-anlegg-og-transport-as-wp-15779",
@@ -1406,6 +2525,18 @@
     "latlng": [
       61.8784113,
       12.0298255
-    ]
+    ],
+    "services": [
+      {
+        "category": "andre",
+        "type": "construction",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ],
+    "url": "https://femundengerdal.no/?p=15779"
   }
 ]
