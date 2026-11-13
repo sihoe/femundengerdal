@@ -3,9 +3,27 @@
   "name": "Sykkelkart sommer",
   "items": [
     {
+      "id": "abakus-i-baggroa-engerdal-sentrum-wp-5661",
+      "symbols": [
+        "severdighet"
+      ]
+    },
+    {
       "id": "besokssenter-nasjonalpark-femundsmarka-og-gutulia-wp-5777",
       "symbols": [
         "severdighet"
+      ]
+    },
+    {
+      "id": "blokkodden-villmarksmuseum-wp-5799",
+      "symbols": [
+        "severdighet"
+      ]
+    },
+    {
+      "id": "byggbua-wp-8133",
+      "symbols": [
+        "handlekurv"
       ]
     },
     {
@@ -15,39 +33,266 @@
       ]
     },
     {
-      "id": "glotberget-gard-og-hytteutleie-wp-10569",
-      "symbols": [
-        "hytte"
-      ]
-    },
-    {
-      "id": "isterfossen-camp-fritid-wp-9546",
-      "symbols": [
-        "telt"
-      ]
-    },
-    {
-      "id": "naerbutikken-elga-peder-rosten-eftf-wp-9500",
+      "id": "coop-prix-engerdal-wp-11522",
       "symbols": [
         "handlekurv"
       ]
     },
     {
+      "id": "dagsturhytta-rofalla-wp-15136",
+      "symbols": [
+        "grill-gapahuk"
+      ]
+    },
+    {
+      "id": "custom-e918fc8c-7b41-42c2-91ad-ea39ab00aad1",
+      "symbols": [
+        "marker"
+      ]
+    },
+    {
+      "id": "krysset-restaurant-og-kafe-wp-9490",
+      "symbols": [
+        "bestikk"
+      ]
+    },
+    {
+      "id": "erling-sand-fiskefluer-wp-5644",
+      "symbols": [
+        "severdighet"
+      ]
+    },
+    {
+      "id": "femund-canoe-camp-2-wp-10600",
+      "symbols": [
+        "kano",
+        "bobil",
+        "glamping",
+        "hytte",
+        "kaffe",
+        "teleskop"
+      ]
+    },
+    {
+      "id": "femundsundet-storhytte-wp-10593",
+      "symbols": [
+        "hytte"
+      ]
+    },
+    {
+      "id": "femundtunet-wp-10585",
+      "symbols": [
+        "seng",
+        "baatutleie",
+        "telt",
+        "glamping",
+        "hytte",
+        "kano",
+        "bestikk"
+      ]
+    },
+    {
+      "id": "fjellheimen-leirskole-wp-9517",
+      "symbols": [
+        "seng"
+      ]
+    },
+    {
+      "id": "furutun-wp-9510",
+      "symbols": [
+        "seng"
+      ]
+    },
+    {
+      "id": "galten-gard-og-smithseter-wp-10576",
+      "symbols": [
+        "seng",
+        "fiske",
+        "glamping",
+        "hytte",
+        "bestikk",
+        "teleskop"
+      ]
+    },
+    {
+      "id": "gjermund-eggen-utstillingen-wp-5721",
+      "symbols": [
+        "severdighet"
+      ]
+    },
+    {
+      "id": "glotberget-gard-og-hytteutleie-wp-10569",
+      "symbols": [
+        "hytte",
+        "baatutleie",
+        "kano"
+      ]
+    },
+    {
+      "id": "haugen-gard-ved-femund-wp-13018",
+      "symbols": [
+        "hytte",
+        "butikk",
+        "lokalmat"
+      ]
+    },
+    {
+      "id": "hogstad-hytte-wp-10061",
+      "symbols": [
+        "hytte"
+      ]
+    },
+    {
+      "id": "hylleras-sameieskog-wp-15600",
+      "symbols": [
+        "hytte"
+      ]
+    },
+    {
+      "id": "isterdomen-isterfossen-campfritid-wp-14201",
+      "symbols": [
+        "bestikk",
+        "lokalmat"
+      ]
+    },
+    {
+      "id": "isterfossen-camp-fritid-wp-9546",
+      "symbols": [
+        "telt",
+        "bobil",
+        "hytte",
+        "bestikk"
+      ]
+    },
+    {
+      "id": "jonasvollen-camping-wp-10529",
+      "symbols": [
+        "telt",
+        "bobil",
+        "baatutleie",
+        "baatutslipp",
+        "fiske",
+        "parkering"
+      ]
+    },
+    {
+      "id": "kafe-enger-wp-14734",
+      "symbols": [
+        "kaffe",
+        "lokalmat",
+        "bestikk"
+      ]
+    },
+    {
+      "id": "kjaerran-gard-wp-9557",
+      "symbols": [
+        "hytte"
+      ]
+    },
+    {
+      "id": "ms-faemund-ll-wp-5741",
+      "symbols": [
+        "anlop-femund"
+      ]
+    },
+    {
+      "id": "naerbutikken-elga-peder-rosten-eftf-wp-9500",
+      "symbols": [
+        "handlekurv",
+        "lokalmat"
+      ]
+    },
+    {
+      "id": "olderskogen-naturcamp-wp-10530",
+      "symbols": [
+        "telt",
+        "hytte"
+      ]
+    },
+    {
+      "id": "optimisten-wp-11470",
+      "symbols": [
+        "butikk"
+      ]
+    },
+    {
+      "id": "raevholet-wp-5770",
+      "symbols": [
+        "severdighet"
+      ]
+    },
+    {
       "id": "ronningen-camp-og-hytter-wp-10389",
       "symbols": [
-        "telt"
+        "telt",
+        "glamping",
+        "hytte"
+      ]
+    },
+    {
+      "id": "smasjokongen-wp-5673",
+      "symbols": [
+        "severdighet"
+      ]
+    },
+    {
+      "id": "stall-rydland-wp-11825",
+      "symbols": [
+        "ri"
+      ]
+    },
+    {
+      "id": "stenlekehusene-ved-skjaerasen-wp-5631",
+      "symbols": [
+        "severdighet"
       ]
     },
     {
       "id": "svukuriset-turisthytte-wp-13832",
       "symbols": [
-        "seng"
+        "seng",
+        "bestikk"
+      ]
+    },
+    {
+      "id": "solenstua-camp-og-hytter-wp-9363",
+      "symbols": [
+        "hytte",
+        "bade",
+        "bobil",
+        "telt",
+        "fiske",
+        "bestikk"
+      ]
+    },
+    {
+      "id": "trangsrud-utleie-wp-10087",
+      "symbols": [
+        "hytte"
+      ]
+    },
+    {
+      "id": "treskjaereren-hans-sorken-wp-5688",
+      "symbols": [
+        "severdighet"
+      ]
+    },
+    {
+      "id": "tretopphytta-kraggbua-wp-10223",
+      "symbols": [
+        "hytte"
       ]
     },
     {
       "id": "engerdal-taxi-wp-15619",
       "symbols": [
         "taxi"
+      ]
+    },
+    {
+      "id": "trysilguidene-wp-11740",
+      "symbols": [
+        "marker"
       ]
     },
     {
@@ -62,9 +307,17 @@
       ]
     },
     {
-      "id": "custom-e918fc8c-7b41-42c2-91ad-ea39ab00aad1",
+      "id": "vestre-sorken-feriegard-wp-10109",
       "symbols": [
-        "marker"
+        "seng",
+        "hytte"
+      ]
+    },
+    {
+      "id": "asgard-wilderness-farm-eywas-trails-wp-15393",
+      "symbols": [
+        "hundekjoering",
+        "hytte"
       ]
     }
   ]
