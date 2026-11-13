@@ -78,7 +78,24 @@
         "symbolType": "severdighet"
       }
     ],
-    "url": "https://femundengerdal.no/?p=5661"
+    "url": "https://femundengerdal.no/?p=5661",
+    "secondarySymbols": [],
+    "locations": [
+      {
+        "name": "Hovedpunkt",
+        "latlng": [
+          61.7576219,
+          11.9599067
+        ]
+      },
+      {
+        "name": "Nytt punkt – endre koordinater",
+        "latlng": [
+          61.7576219,
+          11.9599067
+        ]
+      }
+    ]
   },
   {
     "id": "smasjokongen-wp-5673",
@@ -217,7 +234,7 @@
   },
   {
     "id": "ms-faemund-ll-wp-5741",
-    "symbolType": "severdighet",
+    "symbolType": "anlop-femund",
     "texts": {
       "no": {
         "title": "MS Fæmund II",
@@ -226,8 +243,8 @@
     },
     "imageUrl": "https://femundengerdal.no/wp-content/uploads/2022/08/MS-Faemund-ll-1.jpg",
     "latlng": [
-      62.4828251,
-      11.6169851
+      62.1672234,
+      11.9395588
     ],
     "services": [
       {
@@ -239,7 +256,72 @@
         "symbolType": "anlop-femund"
       }
     ],
-    "url": "https://femundengerdal.no/?p=5741"
+    "url": "https://femundengerdal.no/?p=5741",
+    "locations": [
+      {
+        "name": "MS Fæmund II",
+        "latlng": [
+          62.1672234,
+          11.9395588
+        ]
+      },
+      {
+        "name": "MS Fæmund II",
+        "latlng": [
+          62.2241579,
+          11.9496337
+        ]
+      },
+      {
+        "name": "MS Fæmund II",
+        "latlng": [
+          62.2313638,
+          11.875153
+        ]
+      },
+      {
+        "name": "MS Fæmund II",
+        "latlng": [
+          62.2965463,
+          11.9554018
+        ]
+      },
+      {
+        "name": "MS Fæmund II",
+        "latlng": [
+          62.3120939,
+          11.919303
+        ]
+      },
+      {
+        "name": "MS Fæmund II",
+        "latlng": [
+          62.3585526,
+          11.9818472
+        ]
+      },
+      {
+        "name": "MS Fæmund II",
+        "latlng": [
+          62.127907,
+          11.7126393
+        ]
+      },
+      {
+        "name": "MS Fæmund II",
+        "latlng": [
+          62.1672234,
+          11.9395588
+        ]
+      },
+      {
+        "name": "MS Fæmund II",
+        "latlng": [
+          62.4145731,
+          11.885358
+        ]
+      }
+    ]
   },
   {
     "id": "flyvraket-ved-hundskampen-wp-5755",
@@ -320,7 +402,21 @@
         "symbolType": "severdighet"
       }
     ],
-    "url": "https://femundengerdal.no/?p=5777"
+    "url": "https://femundengerdal.no/?p=5777",
+    "secondarySymbols": [],
+    "shortDescription": "I den vesle grenda Elgå, i Engerdal kommune, ligger Besøkssenter Nasjonalpark – Femundsmarka og Gutulia.",
+    "symbolLinks": {
+      "severdighet": "http://femundsmarkanasjonalpark.no/"
+    },
+    "locations": [
+      {
+        "name": "Besøkssenter nasjonalpark Femundsmarka og Gutulia",
+        "latlng": [
+          62.1655226,
+          11.9439917
+        ]
+      }
+    ]
   },
   {
     "id": "roafallene-wp-5784",
@@ -378,7 +474,7 @@
   },
   {
     "id": "somaen-tradisjonshandverk-as-wp-8033",
-    "symbolType": "marker",
+    "symbolType": "bygg",
     "texts": {
       "no": {
         "title": "Sømåen Tradisjonshandverk AS",
@@ -398,14 +494,14 @@
           "summer",
           "winter"
         ],
-        "symbolType": "marker"
+        "symbolType": "bygg"
       }
     ],
     "url": "https://femundengerdal.no/?p=8033"
   },
   {
     "id": "fjellservice-engerdal-as-wp-8048",
-    "symbolType": "marker",
+    "symbolType": "bygg",
     "texts": {
       "no": {
         "title": "Fjellservice Engerdal AS",
@@ -425,7 +521,7 @@
           "summer",
           "winter"
         ],
-        "symbolType": "marker"
+        "symbolType": "bygg"
       }
     ],
     "url": "https://femundengerdal.no/?p=8048"
@@ -459,7 +555,7 @@
   },
   {
     "id": "maskinentreprenor-per-joar-kvilten-wp-8093",
-    "symbolType": "marker",
+    "symbolType": "bygg",
     "texts": {
       "no": {
         "title": "Maskinentreprenør Per Joar Kvilten",
@@ -479,14 +575,14 @@
           "summer",
           "winter"
         ],
-        "symbolType": "marker"
+        "symbolType": "bygg"
       }
     ],
     "url": "https://femundengerdal.no/?p=8093"
   },
   {
     "id": "naerbutikken-elga-peder-rosten-eftf-wp-9500",
-    "symbolType": "butikk",
+    "symbolType": "handlekurv",
     "texts": {
       "no": {
         "title": "Nærbutikken Elgå / Peder Røsten Eftf.",
@@ -501,19 +597,33 @@
     "services": [
       {
         "category": "handel",
-        "type": "shopping",
+        "type": "shop",
         "seasons": [
           "summer",
           "winter"
         ],
-        "symbolType": "butikk"
+        "symbolType": "handlekurv"
       }
     ],
-    "url": "https://femundengerdal.no/?p=9500"
+    "url": "https://femundengerdal.no/?p=9500",
+    "shortDescription": "Dagligvarer, lokale matvarer, kaffekrok og drivstoff i Elgå. Her finner du også fiskekort og hytteutleie.",
+    "secondarySymbols": [],
+    "symbolLinks": {
+      "handlekurv": "http://narbutikken.no/Finn-butikk/Narbutikken-Elga"
+    },
+    "locations": [
+      {
+        "name": "Nærbutikken Elgå / Peder Røsten Eftf.",
+        "latlng": [
+          62.16294,
+          11.9441373
+        ]
+      }
+    ]
   },
   {
     "id": "maskinentreprenor-knut-roar-hansen-wp-8103",
-    "symbolType": "marker",
+    "symbolType": "bygg",
     "texts": {
       "no": {
         "title": "Maskinentreprenør Knut Roar Hansen",
@@ -533,14 +643,14 @@
           "summer",
           "winter"
         ],
-        "symbolType": "marker"
+        "symbolType": "bygg"
       }
     ],
     "url": "https://femundengerdal.no/?p=8103"
   },
   {
     "id": "engerdal-elektro-wp-8120",
-    "symbolType": "marker",
+    "symbolType": "bygg",
     "texts": {
       "no": {
         "title": "Engerdal Elektro",
@@ -560,14 +670,14 @@
           "summer",
           "winter"
         ],
-        "symbolType": "marker"
+        "symbolType": "bygg"
       }
     ],
     "url": "https://femundengerdal.no/?p=8120"
   },
   {
     "id": "byggbua-wp-8133",
-    "symbolType": "butikk",
+    "symbolType": "handlekurv",
     "texts": {
       "no": {
         "title": "Byggbua",
@@ -581,13 +691,13 @@
     ],
     "services": [
       {
-        "category": "andre",
-        "type": "construction",
+        "category": "handel",
+        "type": "shop",
         "seasons": [
           "summer",
           "winter"
         ],
-        "symbolType": "butikk"
+        "symbolType": "handlekurv"
       }
     ],
     "url": "https://femundengerdal.no/?p=8133"
@@ -648,7 +758,7 @@
   },
   {
     "id": "byggepartner-as-engerdal-wp-8216",
-    "symbolType": "marker",
+    "symbolType": "bygg",
     "texts": {
       "no": {
         "title": "Byggepartner AS Engerdal",
@@ -668,14 +778,14 @@
           "summer",
           "winter"
         ],
-        "symbolType": "marker"
+        "symbolType": "bygg"
       }
     ],
     "url": "https://femundengerdal.no/?p=8216"
   },
   {
     "id": "heggeriset-store-wp-8230",
-    "symbolType": "marker",
+    "symbolType": "handlekurv",
     "texts": {
       "no": {
         "title": "Heggeriset Store",
@@ -690,12 +800,12 @@
     "services": [
       {
         "category": "handel",
-        "type": "shopping",
+        "type": "shop",
         "seasons": [
           "summer",
           "winter"
         ],
-        "symbolType": "butikk"
+        "symbolType": "handlekurv"
       }
     ],
     "url": "https://femundengerdal.no/?p=8230"
@@ -756,7 +866,7 @@
   },
   {
     "id": "femund-bygg-wp-8291",
-    "symbolType": "marker",
+    "symbolType": "bygg",
     "texts": {
       "no": {
         "title": "Femund Bygg",
@@ -776,14 +886,14 @@
           "summer",
           "winter"
         ],
-        "symbolType": "marker"
+        "symbolType": "bygg"
       }
     ],
     "url": "https://femundengerdal.no/?p=8291"
   },
   {
     "id": "femund-hytter-interior-wp-8308",
-    "symbolType": "marker",
+    "symbolType": "bygg",
     "texts": {
       "no": {
         "title": "Femund Hytter & Interiør",
@@ -803,7 +913,7 @@
           "summer",
           "winter"
         ],
-        "symbolType": "marker"
+        "symbolType": "bygg"
       }
     ],
     "url": "https://femundengerdal.no/?p=8308"
@@ -864,10 +974,10 @@
   },
   {
     "id": "femund-glamping-wp-9539",
-    "symbolType": "telt",
+    "symbolType": "kano",
     "texts": {
       "no": {
-        "title": "Femund Glamping",
+        "title": "Femund Canoe Camp",
         "description": "Unik overnatting i hjertet av kanolandet Femund\n\nAttraktive leirplasser\n\nUnik opplevelse\n\nTurer og aktiviteter i nærområdet\n\nBooking\n\nPå vår utstrakte villmarksleir kan du nå bo komfortabelt og glamorøst midt i naturen. Våre 20m² store tipi-telt er innredet med særpreg fra regionen. Og med vår nær 50 års historie som utfartssted for kano og turer i Femund Engerdal hjelper vi deg gjerne med diverse aktiviteter.\n\nTeltene Leirtoppen og Elvesand ligger på våre mest attraktive leirplasser. De har skjermet beliggenhet med alle fasiliteter i nær avstand."
       }
     },
@@ -878,16 +988,88 @@
     ],
     "services": [
       {
+        "category": "aktiviteter",
+        "type": "kano",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "kano"
+      },
+      {
+        "category": "aktiviteter",
+        "type": "badstue",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "badstue"
+      },
+      {
+        "category": "overnatting",
+        "type": "camping",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "bobil"
+      },
+      {
         "category": "overnatting",
         "type": "accommodation",
         "seasons": [
           "summer",
           "winter"
         ],
-        "symbolType": "telt"
+        "symbolType": "glamping"
+      },
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "hytte"
+      },
+      {
+        "category": "spisesteder",
+        "type": "food",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "kaffe"
+      },
+      {
+        "category": "aktiviteter",
+        "type": "teleskop",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "teleskop"
       }
     ],
-    "url": "https://femundengerdal.no/?p=9539"
+    "url": "https://femundengerdal.no/?p=9539",
+    "shortDescription": "Lei kano og dra på eventyr i padleeldoradoet i området. Bo i nye høystandard hytter eller glamping i villmarkdscampen.",
+    "secondarySymbols": [
+      "badstue",
+      "bobil",
+      "glamping",
+      "hytte",
+      "kaffe",
+      "teleskop"
+    ],
+    "symbolLinks": {
+      "kano": "https://femundengerdal.no/sted/femund-canoe-camp-2/",
+      "badstue": "https://femundengerdal.no/sted/femund-canoe-camp-2/",
+      "bobil": "https://femundengerdal.no/sted/femund-canoe-camp-2/",
+      "glamping": "https://femundengerdal.no/sted/femund-canoe-camp-2/",
+      "hytte": "https://femundengerdal.no/sted/femund-canoe-camp-2/",
+      "kaffe": "https://femundengerdal.no/sted/femund-canoe-camp-2/",
+      "teleskop": "https://femundengerdal.no/sted/femund-canoe-camp-2/"
+    }
   },
   {
     "id": "isterfossen-camp-fritid-wp-9546",
@@ -914,7 +1096,21 @@
         "symbolType": "telt"
       }
     ],
-    "url": "https://femundengerdal.no/?p=9546"
+    "url": "https://femundengerdal.no/?p=9546",
+    "shortDescription": "En lun campingplass ved Isterfossen",
+    "secondarySymbols": [],
+    "symbolLinks": {
+      "telt": "https://femundengerdal.no/sted/isterfossen-camp-fritid/"
+    },
+    "locations": [
+      {
+        "name": "Isterfossen Camp & fritid",
+        "latlng": [
+          61.9079951,
+          11.7833329
+        ]
+      }
+    ]
   },
   {
     "id": "kjaerran-gard-wp-9557",
@@ -999,10 +1195,10 @@
   },
   {
     "id": "johnsgard-turistsenter-kafe-wp-9351",
-    "symbolType": "kaffe",
+    "symbolType": "hytte",
     "texts": {
       "no": {
-        "title": "Johnsgård Turistsenter kafé",
+        "title": "Johnsgård Turistsenter",
         "description": "Åpen kafé i høysesong (påsken og fellesferien)\n\nLokalmat\n\nTake away\n\nÅpen servering 20.6-16.8.2026\n\nVi har en liten kafé som holder åpent i høysesong (påsken og fellesferien). Da er det blant annet mulig å få kjøpt enkelte varmretter, vafler og kaffe. Har også noen enkeltarrangementer gjennom året. Følg oss på facebook for å få med deg når vi arrangerer noe.\n\nVi kan også servere grupper/selskaper på minimum 10 personer ved bestilling minst en uke i forveien (dette fordi vi kun har varelevering 1 gang per uke). Vi har fokus på lokale råvarer og gjør vårt beste for å møte kundens ønsker og behov. Vi kommer gjerne med forslag på meny til ditt selskap, men er også åpen for de fleste bestillinger. Her har alt fra tapas til viltbuffet til østerdalshakk vært på menyen."
       }
     },
@@ -1013,6 +1209,60 @@
     ],
     "services": [
       {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "hytte"
+      },
+      {
+        "category": "aktiviteter",
+        "type": "badstue",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "badstue"
+      },
+      {
+        "category": "overnatting",
+        "type": "camping",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "bobil"
+      },
+      {
+        "category": "aktiviteter",
+        "type": "baatutleie",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "baatutleie"
+      },
+      {
+        "category": "overnatting",
+        "type": "camping",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "telt"
+      },
+      {
+        "category": "aktiviteter",
+        "type": "fiske",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "fiske"
+      },
+      {
         "category": "spisesteder",
         "type": "food",
         "seasons": [
@@ -1020,9 +1270,56 @@
           "winter"
         ],
         "symbolType": "kaffe"
+      },
+      {
+        "category": "spisesteder",
+        "type": "food",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "bestikk"
+      },
+      {
+        "category": "aktiviteter",
+        "type": "stamp",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "stamp"
+      },
+      {
+        "category": "aktiviteter",
+        "type": "teleskop",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "teleskop"
       }
     ],
-    "url": "https://femundengerdal.no/?p=9351"
+    "url": "https://femundengerdal.no/?p=9351",
+    "secondarySymbols": [
+      "badstue",
+      "bobil",
+      "baatutleie",
+      "telt",
+      "fiske",
+      "kaffe",
+      "bestikk",
+      "stamp",
+      "teleskop"
+    ],
+    "locations": [
+      {
+        "name": "Johnsgård Turistsenter",
+        "latlng": [
+          62.1449912,
+          11.6169271
+        ]
+      }
+    ]
   },
   {
     "id": "solenstua-camp-og-hytter-wp-9363",
@@ -1134,10 +1431,10 @@
   },
   {
     "id": "valdalen-gard-servering-wp-9450",
-    "symbolType": "bestikk",
+    "symbolType": "hytte",
     "texts": {
       "no": {
-        "title": "Valdalen Gård Servering",
+        "title": "Valdalen Gård",
         "description": "Ved Femundsmarkas dørstokk\n\nServering\n\nSelskap\n\nBooking\n\nValdalen Gård er en gammel fjellgård som ligger 800 meter over havet, mellom Femundsmarka og Gutulia nasjonalparker, og mellom Elgå ved Femund og svenskegrensen.\n\nValdalen gård har vært drevet som turistbedrift siden 1946, den ble da drevet av Martins foreldre, Martin og Inga. I 1971 ble hovedhuset, det som i dag er pensjonatbygget, bygd ut. Kjøkkenet og spisesalen ble bygd ut, og det ble utvidet med ei romslig peisestue. Her er det i dag plass til ca. 60 spisegjester samtidig.\n\nGården driver hjorteoppdrett. Hjorteoppdrettet på gården faller rett inn i lokalmat satsingen som Engerdal kommune legger til rette for. Lokal mat og lokalproduserte råvarer er et bærende element for Valdal AS, dette skal gi gode matopplevelser og gi oss et fortrinn konkurransemessig.\n\nMat og meny\n\nVi kan servere alt fra enkel husmanskost til rene festmenyer. Alt med fokus på lokale produkter og mye bruk av vilt og fisk, solid hjemmelagd mat. Vi har skjenkebevilling med alle rettigheter. Ved bestilling av mat, ønsker vi at dere sier ifra om dere har spesielle ønsker og behov, som allergier og intoleranser.\n\nFor fotturister\n\nFor deg som er på fottur i området, og ønsker å bo og spise hos oss serverer vi tradisjonell turisthytte mat, der frokost, nistepakke og treretters middag er det vanligste, vi bruker DNT sine medlemspriser. Vi ønsker helst at dere kontakter oss for bestilling av overnatting og mat senest dagen i forveien.\n\nSelskap\n\nValdalen gård er perfekt for selskaper og feiring av spesielle anledninger. Konfirmasjoner, barnedåper, bryllup, bursdag, julebord, firmafest eller hva dere måtte ønske. Området danner en fantastisk ramme for selskapet.\n\nSosialt og nært\n\nDu bestemmer menyen\n\nOvernatting til ca 40 personer\n\nKoselig spisesal\n\nPeisestue\n\nFantastiske omgivelser\n\nRomslige uteområder"
       }
     },
@@ -1148,6 +1445,33 @@
     ],
     "services": [
       {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "hytte"
+      },
+      {
+        "category": "handel",
+        "type": "shop",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "butikk"
+      },
+      {
+        "category": "handel",
+        "type": "shop",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "lokalmat"
+      },
+      {
         "category": "spisesteder",
         "type": "food",
         "seasons": [
@@ -1155,9 +1479,52 @@
           "winter"
         ],
         "symbolType": "bestikk"
+      },
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "seng"
+      },
+      {
+        "category": "aktiviteter",
+        "type": "teleskop",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "teleskop"
       }
     ],
-    "url": "https://femundengerdal.no/?p=9450"
+    "url": "https://femundengerdal.no/?p=9450",
+    "secondarySymbols": [
+      "butikk",
+      "lokalmat",
+      "bestikk",
+      "seng",
+      "teleskop"
+    ],
+    "shortDescription": "Servering på fjellgård mellom Femundsmarka og Gutulia, med hjemmelaget mat, vilt og fisk. Bestilling på forhånd.",
+    "symbolLinks": {
+      "hytte": "http://valdalen.no/",
+      "butikk": "http://valdalen.no/",
+      "lokalmat": "http://valdalen.no/",
+      "bestikk": "http://valdalen.no/",
+      "seng": "http://valdalen.no/",
+      "teleskop": "http://valdalen.no/"
+    },
+    "locations": [
+      {
+        "name": "Valdalen Gård",
+        "latlng": [
+          62.076143,
+          12.1718957
+        ]
+      }
+    ]
   },
   {
     "id": "vestre-sorken-feriegard-wp-10109",
@@ -1265,7 +1632,21 @@
         "symbolType": "telt"
       }
     ],
-    "url": "https://femundengerdal.no/?p=10389"
+    "url": "https://femundengerdal.no/?p=10389",
+    "shortDescription": "Helårscamping tett på naturen",
+    "secondarySymbols": [],
+    "symbolLinks": {
+      "telt": "https://femundengerdal.no/sted/ronningen-camp-og-hytter/"
+    },
+    "locations": [
+      {
+        "name": "Rønningen Camp og hytter",
+        "latlng": [
+          62.0504259,
+          11.6947455
+        ]
+      }
+    ]
   },
   {
     "id": "jonasvollen-camping-wp-10529",
@@ -1346,7 +1727,21 @@
         "symbolType": "hytte"
       }
     ],
-    "url": "https://femundengerdal.no/?p=10569"
+    "url": "https://femundengerdal.no/?p=10569",
+    "shortDescription": "Hytter ved Isteren med utsikt mot Sølen. Utleie av båt, kano og snøscooter, og gode muligheter for fiske og turer.",
+    "secondarySymbols": [],
+    "symbolLinks": {
+      "hytte": "http://glotberget.com/"
+    },
+    "locations": [
+      {
+        "name": "Gløtberget Gård og hytteutleie",
+        "latlng": [
+          61.9343365,
+          11.8296318
+        ]
+      }
+    ]
   },
   {
     "id": "galten-gard-og-smithseter-wp-10576",
@@ -1371,9 +1766,61 @@
           "winter"
         ],
         "symbolType": "seng"
+      },
+      {
+        "category": "aktiviteter",
+        "type": "fiske",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "fiske"
+      },
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "glamping"
+      },
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "hytte"
+      },
+      {
+        "category": "spisesteder",
+        "type": "food",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "bestikk"
+      },
+      {
+        "category": "aktiviteter",
+        "type": "teleskop",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "teleskop"
       }
     ],
-    "url": "https://femundengerdal.no/?p=10576"
+    "url": "https://femundengerdal.no/?p=10576",
+    "secondarySymbols": [
+      "fiske",
+      "glamping",
+      "hytte",
+      "bestikk",
+      "teleskop"
+    ]
   },
   {
     "id": "femundtunet-wp-10585",
@@ -1451,9 +1898,62 @@
           "summer"
         ],
         "symbolType": "kano"
+      },
+      {
+        "category": "overnatting",
+        "type": "camping",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "bobil"
+      },
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "glamping"
+      },
+      {
+        "category": "overnatting",
+        "type": "accommodation",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "hytte"
+      },
+      {
+        "category": "spisesteder",
+        "type": "food",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "kaffe"
+      },
+      {
+        "category": "aktiviteter",
+        "type": "teleskop",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "teleskop"
       }
     ],
-    "url": "https://femundengerdal.no/?p=10600"
+    "url": "https://femundengerdal.no/?p=10600",
+    "shortDescription": "Lei kano og dra på eventyr i padleeldoradoet i området. Bo i nye høystandard hytter eller glamping i villmarkdscampen.",
+    "secondarySymbols": [
+      "bobil",
+      "glamping",
+      "hytte",
+      "kaffe",
+      "teleskop"
+    ]
   },
   {
     "id": "engerdal-fjellstyre-wp-10607",
@@ -1507,7 +2007,21 @@
         "symbolType": "telt"
       }
     ],
-    "url": "https://femundengerdal.no/?p=10616"
+    "url": "https://femundengerdal.no/?p=10616",
+    "shortDescription": "Hytter og camping ved Femunds bredd i Elgå. Et utgangspunkt for fiske, fjellturer og båttur inn i Femundsmarka.",
+    "secondarySymbols": [],
+    "symbolLinks": {
+      "telt": "https://batstocamping.no/"
+    },
+    "locations": [
+      {
+        "name": "Båtstø Camping",
+        "latlng": [
+          62.170968,
+          11.938873
+        ]
+      }
+    ]
   },
   {
     "id": "johnsgard-turistsenter-wp-10623",
@@ -1835,7 +2349,7 @@
   },
   {
     "id": "coop-prix-engerdal-wp-11522",
-    "symbolType": "butikk",
+    "symbolType": "handlekurv",
     "texts": {
       "no": {
         "title": "Coop Prix Engerdal",
@@ -1850,12 +2364,12 @@
     "services": [
       {
         "category": "handel",
-        "type": "shopping",
+        "type": "shop",
         "seasons": [
           "summer",
           "winter"
         ],
-        "symbolType": "butikk"
+        "symbolType": "handlekurv"
       }
     ],
     "url": "https://femundengerdal.no/?p=11522"
@@ -1940,7 +2454,7 @@
   },
   {
     "id": "fjell-huskies-wp-11691",
-    "symbolType": "marker",
+    "symbolType": "hundekjoering",
     "texts": {
       "no": {
         "title": "Fjell-Huskies",
@@ -2074,7 +2588,7 @@
   },
   {
     "id": "stall-rydland-wp-11825",
-    "symbolType": "marker",
+    "symbolType": "severdighet",
     "texts": {
       "no": {
         "title": "Stall Rydland",
@@ -2088,20 +2602,20 @@
     ],
     "services": [
       {
-        "category": "aktiviteter",
-        "type": "horse_riding",
+        "category": "attraksjoner",
+        "type": "attraction",
         "seasons": [
-          "summer"
+          "summer",
+          "winter"
         ],
-        "symbolType": "ri",
-        "shortDescription": "Guidet ridning og rideleir. Opplev skog og fjellterreng fra hesteryggen. Avtal tur med tilbyderen."
+        "symbolType": "severdighet"
       }
     ],
     "url": "https://femundengerdal.no/?p=11825"
   },
   {
     "id": "ostlandet-motorservice-wp-12626",
-    "symbolType": "marker",
+    "symbolType": "snoscooter",
     "texts": {
       "no": {
         "title": "Østlandet Motorservice",
@@ -2115,13 +2629,12 @@
     ],
     "services": [
       {
-        "category": "andre",
-        "type": "other",
+        "category": "aktiviteter",
+        "type": "snowmobile",
         "seasons": [
-          "summer",
           "winter"
         ],
-        "symbolType": "marker"
+        "symbolType": "snoscooter"
       }
     ],
     "url": "https://femundengerdal.no/?p=12626"
@@ -2155,7 +2668,7 @@
   },
   {
     "id": "rygh-entreprenor-wp-13037",
-    "symbolType": "marker",
+    "symbolType": "bygg",
     "texts": {
       "no": {
         "title": "Rygh Entreprenør",
@@ -2175,14 +2688,14 @@
           "summer",
           "winter"
         ],
-        "symbolType": "marker"
+        "symbolType": "bygg"
       }
     ],
     "url": "https://femundengerdal.no/?p=13037"
   },
   {
     "id": "3-visjon-as-wp-13365",
-    "symbolType": "marker",
+    "symbolType": "bygg",
     "texts": {
       "no": {
         "title": "3-visjon AS",
@@ -2197,12 +2710,12 @@
     "services": [
       {
         "category": "andre",
-        "type": "other",
+        "type": "construction",
         "seasons": [
           "summer",
           "winter"
         ],
-        "symbolType": "marker"
+        "symbolType": "bygg"
       }
     ],
     "url": "https://femundengerdal.no/?p=13365"
@@ -2258,7 +2771,21 @@
         "symbolType": "seng"
       }
     ],
-    "url": "https://femundengerdal.no/?p=13832"
+    "url": "https://femundengerdal.no/?p=13832",
+    "shortDescription": "Turisthytte i Femundsmarka med rom, sovesal og servering. Utgangspunkt for vandring og naturopplevelser.",
+    "secondarySymbols": [],
+    "symbolLinks": {
+      "seng": "https://www.dnt.no/hytter/betjente/svukuriset/"
+    },
+    "locations": [
+      {
+        "name": "Svukuriset Turisthytte",
+        "latlng": [
+          62.2215049,
+          12.0149324
+        ]
+      }
+    ]
   },
   {
     "id": "isterdomen-isterfossen-campfritid-wp-14201",
@@ -2346,7 +2873,7 @@
     "symbolType": "seng",
     "texts": {
       "no": {
-        "title": "Åsgård Wilderness farm - Eywa's Trails",
+        "title": "Åsgård Wilderness farm",
         "description": "Åsgård Wilderenssfarm tilbyr spennende aktiviteter året runt.\n\nHundekjøring\n\n1 times turer\n\nHalvdags turer\n\n2 dagers eventyr\n\n6-dagers opplevelsestur\n\nOvernatting i Tretopphytte\n\nSommer på hjul\n\nKennelbesøk\n\nTur med trekkhund\n\nLær tradisjonelt håndverk\n\nLes mer\n\nBli med oss og alle våre herlige hunder oss på husky-turer i den den vakre naturen i Engerdal (Destinasjon Femund Engerdal)"
       }
     },
@@ -2376,7 +2903,10 @@
         "symbolType": "symbols_hundekjoering"
       }
     ],
-    "url": "https://femundengerdal.no/?p=15393"
+    "url": "https://femundengerdal.no/?p=15393",
+    "secondarySymbols": [
+      "hundekjoering"
+    ]
   },
   {
     "id": "trysil-bilberging-wp-15544",
@@ -2434,7 +2964,7 @@
   },
   {
     "id": "engerdal-taxi-wp-15619",
-    "symbolType": "marker",
+    "symbolType": "taxi",
     "texts": {
       "no": {
         "title": "Trysil Taxi as avd Engerdal",
@@ -2449,19 +2979,33 @@
     "services": [
       {
         "category": "andre",
-        "type": "other",
+        "type": "taxi",
         "seasons": [
           "summer",
           "winter"
         ],
-        "symbolType": "marker"
+        "symbolType": "taxi"
       }
     ],
-    "url": "https://femundengerdal.no/?p=15619"
+    "url": "https://femundengerdal.no/?p=15619",
+    "shortDescription": "Brødrene Jon Rohnny og Per Gjermund Talaasen kjører dere helt til døren.",
+    "secondarySymbols": [],
+    "symbolLinks": {
+      "taxi": "https://www.taxi03650.no/?utm_source=google&utm_medium=MinBedrift&utm_campaign=Trysil"
+    },
+    "locations": [
+      {
+        "name": "Trysil Taxi as avd Engerdal",
+        "latlng": [
+          61.7587874,
+          11.9603063
+        ]
+      }
+    ]
   },
   {
     "id": "norse-quest-husky-tours-wp-15668",
-    "symbolType": "marker",
+    "symbolType": "hundekjoering",
     "texts": {
       "no": {
         "title": "Norse Quest husky tours",
@@ -2515,7 +3059,7 @@
   },
   {
     "id": "engerdal-anlegg-og-transport-as-wp-15779",
-    "symbolType": "marker",
+    "symbolType": "bygg",
     "texts": {
       "no": {
         "title": "Engerdal anlegg og transport AS",
@@ -2534,9 +3078,47 @@
           "summer",
           "winter"
         ],
-        "symbolType": "marker"
+        "symbolType": "bygg"
       }
     ],
     "url": "https://femundengerdal.no/?p=15779"
+  },
+  {
+    "id": "custom-e918fc8c-7b41-42c2-91ad-ea39ab00aad1",
+    "latlng": [
+      61.757124,
+      11.961021
+    ],
+    "symbolType": "marker",
+    "imageUrl": "",
+    "texts": {
+      "no": {
+        "title": "Destinasjon Femund Engerdal",
+        "description": ""
+      }
+    },
+    "symbolLinks": {},
+    "locations": [
+      {
+        "name": "Destinasjon Femund Engerdal",
+        "latlng": [
+          61.757124,
+          11.961021
+        ]
+      }
+    ],
+    "shortDescription": "",
+    "secondarySymbols": [],
+    "services": [
+      {
+        "category": "andre",
+        "type": "marker",
+        "seasons": [
+          "summer",
+          "winter"
+        ],
+        "symbolType": "marker"
+      }
+    ]
   }
 ]
