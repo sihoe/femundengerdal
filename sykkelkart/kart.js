@@ -5,8 +5,11 @@ const D=window.FE_MAP_DATA,OFFLINE=!!window.FE_MAP_OFFLINE;
 const $=id=>root.querySelector('#'+id),esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const num=(v,d=1)=>Number(v).toLocaleString('nb-NO',{minimumFractionDigits:d,maximumFractionDigits:d});
 const colors={asphalt:'#183f6e',gravel:'#7d4d1f',trail:'#579241',boat:'#b7dde0'},names={asphalt:'Asfalt',gravel:'Grus',trail:'Sti',boat:'Båt'};
+root.style.setProperty('--fe-body-font',getComputedStyle(root.parentElement).fontFamily);
+const heading=[...document.querySelectorAll('h1,h2,.elementor-heading-title')].find(e=>!root.contains(e));
+if(heading)root.style.setProperty('--fe-heading-font',getComputedStyle(heading).fontFamily);
 let selected=null,profileHover=null,currentMode='topo';
-const map=L.map($('fe-leaflet-map'),{preferCanvas:true,zoomControl:false,scrollWheelZoom:false,minZoom:6,maxZoom:17});L.control.zoom({position:'topright'}).addTo(map);L.control.scale({position:'bottomright',imperial:false}).addTo(map);
+const map=L.map($('fe-leaflet-map'),{preferCanvas:true,zoomControl:false,scrollWheelZoom:true,touchZoom:true,doubleClickZoom:true,dragging:true,minZoom:6,maxZoom:17});L.control.zoom({position:'topright'}).addTo(map);L.control.scale({position:'bottomright',imperial:false}).addTo(map);
 map.createPane('fe-routes');map.getPane('fe-routes').style.zIndex=410;
 map.createPane('fe-pois');map.getPane('fe-pois').style.zIndex=430;
 const routeLayers=L.layerGroup().addTo(map),poiLayers=L.layerGroup().addTo(map),startLayers=L.layerGroup().addTo(map),hoverLayers=L.layerGroup().addTo(map);
@@ -19,13 +22,15 @@ if(OFFLINE){base=L.imageOverlay(D.basemap,D.basemapBounds,{opacity:1,attribution
 function iconFor(symbol){return D.icons[symbol]||null;}
 const categoryNames={overnatting:'Overnatting',handel:'Handel',spisesteder:'Spisesteder',attraksjoner:'Attraksjoner',aktiviteter:'Aktiviteter',andre:'Andre'};
 const enabledCategories=new Set(Object.keys(categoryNames));
+function poiImageHTML(p,seen){if(!p.image||!/^https?:\/\//i.test(p.image)||seen.has(p.sourcePoiId||p.id))return '';seen.add(p.sourcePoiId||p.id);return `<img class="fe-popup-photo" src="${esc(p.image)}" alt="${esc(p.title)}" loading="lazy" decoding="async" onerror="this.hidden=true">`;}
 function drawPOIs(){poiLayers.clearLayers();
 const groups=new Map();for(const p of D.pois){if(!enabledCategories.has(p.category))continue;if(!p.latlng||!p.latlng.every(Number.isFinite))continue;const key=p.latlng.map(x=>x.toFixed(5)).join(',');if(!groups.has(key))groups.set(key,[]);groups.get(key).push(p);}
 for(const group of groups.values()){
  const iconHTML=group.map(p=>iconFor(p.symbol)?`<img alt="${esc(p.title)}" src="${iconFor(p.symbol)}">`:`<span class="fe-generic-pin" aria-label="${esc(p.title)}">•</span>`).join('');
  const cols=Math.min(3,group.length),width=cols*27+4,height=Math.ceil(group.length/3)*27+4;
  const marker=L.marker(group[0].latlng,{pane:'fe-pois',icon:L.divIcon({className:'fe-poi-marker',html:`<div class="fe-poi-group" style="max-width:${width}px">${iconHTML}</div>`,iconSize:[width,height],iconAnchor:[width/2,height/2]}),title:group.map(p=>p.title).join(' · '),keyboard:true});
- marker.bindPopup(group.map(p=>`<div class="fe-popup-item"><div class="fe-popup-title">${iconFor(p.symbol)?`<img alt="" src="${iconFor(p.symbol)}">`:''}${esc(p.title)}</div><div class="fe-popup-desc">${esc(p.description)}</div>${p.url?`<p style="margin:8px 0 0"><a href="${esc(p.url)}" target="_blank" rel="noopener">Les mer hos Femund Engerdal ↗</a></p>`:''}</div>`).join(''),{maxWidth:300,autoPan:false});
+ const shownImages=new Set();
+ marker.bindPopup(group.map(p=>`<div class="fe-popup-item">${poiImageHTML(p,shownImages)}<div class="fe-popup-title">${iconFor(p.symbol)?`<img alt="" src="${iconFor(p.symbol)}">`:''}${esc(p.title)}</div><div class="fe-popup-desc">${esc(p.description)}</div>${p.url?`<p style="margin:8px 0 0"><a href="${esc(p.url)}" target="_blank" rel="noopener">Les mer hos Femund Engerdal ↗</a></p>`:''}</div>`).join(''),{maxWidth:300,autoPan:true,autoPanPadding:[20,20]});
  marker.on('mouseover',()=>marker.openPopup());marker.addTo(poiLayers);
 }
 $('fe-poi-count').textContent=D.pois.filter(p=>enabledCategories.has(p.category)).length;
@@ -40,7 +45,7 @@ function fitCurrent(){if(selected)map.fitBounds(routeBounds(selected),{padding:[
 function drawRoutes(){routeLayers.clearLayers();startLayers.clearLayers();hoverLayers.clearLayers();for(const r of D.routes){const active=selected?.id===r.id;for(const s of r.lines){if(s.surface==='boat'&&(!active||r.id!=='femund-rundt'))continue;const path=L.polyline(s.coordinates.map(c=>[c[1],c[0]]),{pane:'fe-routes',color:active?colors[s.surface]:(selected?'#887e7550':colors[s.surface]),weight:active?5:3,opacity:active?1:(selected ? 0.6 : 0.83),dashArray:s.surface==='boat'?'7 6':undefined,lineCap:'round'});path.bindTooltip(`${r.number?esc(r.number)+' · ':''}${esc(r.title)}${active?' · '+names[s.surface]:''}`,{sticky:true});path.on('click',()=>selectRoute(r.id));path.addTo(routeLayers);}
  if(active)for(const gap of (r.gapConnections||[])){L.polyline(gap.coordinates.map(c=>[c[1],c[0]]),{pane:'fe-routes',color:'#9c3b36',weight:3,dashArray:'3 7'}).bindTooltip('Spor mangler · '+num(gap.airDistanceKm)+' km i luftlinje',{sticky:true}).addTo(routeLayers);}
  if(active)for(const warning of (r.geometryWarnings||[])){L.polyline(warning.coordinates.map(c=>[c[1],c[0]]),{pane:'fe-routes',color:'#9c3b36',weight:4,dashArray:'5 6'}).bindTooltip('Trasé må kontrolleres · '+num(warning.lengthKm)+' km',{sticky:true}).addTo(routeLayers);}
- if(active)L.marker(r.startLatLng,{icon:L.divIcon({className:'',html:'<div class="fe-start-marker">S</div>',iconSize:[26,26],iconAnchor:[13,13]})}).bindTooltip('Start: '+esc(r.start)).addTo(startLayers);}
+ if(active||!selected)L.marker(r.startLatLng,{icon:L.divIcon({className:'',html:'<div class="fe-start-marker">●</div>',iconSize:[26,26],iconAnchor:[13,13]})}).bindTooltip(esc(r.title)+' · Start: '+esc(r.start)).on('click',()=>selectRoute(r.id)).addTo(startLayers);}
 }
 function surfaceHTML(r){const total=r.stats.distanceKm;return `<div class="fe-surface"><div class="fe-surface-bar" aria-label="Fordeling av underlag">${['asphalt','gravel','trail'].filter(k=>r.surface[k]>.001).map(k=>`<div style="width:${100*r.surface[k]/total}%;background:${colors[k]}" aria-label="${names[k]} ${num(r.surface[k])} km"></div>`).join('')}</div><div class="fe-surface-labels">${['asphalt','gravel','trail'].filter(k=>r.surface[k]>.001).map(k=>`<span><i class="fe-dot" style="background:${colors[k]}"></i>${names[k]} ${num(r.surface[k])} km</span>`).join('')}</div></div>`;}
 function detail(){const el=$('fe-route-detail');if(!selected){el.innerHTML=`<span class="fe-eyebrow">Finn din tur</span><h2 style="margin-top:8px">Finn din tur i villmarka.</h2><p class="fe-intro">Fra rolige skogsturer ved Kvemsjøen og Jyltingsmarka til bratte stigninger og stipartier i fjellet. De kortere rundturene gir god tid til pauser, mens Idre-runden, Sendsjørunden og Femund rundt passer for lengre sykkeldager eller turer over flere dager. Femund rundt kombinerer sykling med båt.</p><p class="fe-practical">Velg en tur for å se underlag, høydeprofil og opplevelser. Graderingene er foreløpige; les også om lengde og terreng.</p><div>${D.routes.map(r=>`<button class="fe-overview-item" type="button" data-route="${esc(r.id)}"><span><em>${esc(r.number||'↝')}</em><b>${esc(r.title)}</b>${gradeHTML(r)}</span><small>${num(r.stats.distanceKm)} km</small></button>`).join('')}</div>`;el.querySelectorAll('[data-route]').forEach(b=>b.addEventListener('click',()=>selectRoute(b.dataset.route)));return;}
@@ -53,7 +58,7 @@ function drawProfile(){
  const r=selected,pad={l:43,r:12,t:24,b:30},values=r.profiles.flatMap(s=>s.map(p=>p[1])),lo=Math.floor((Math.min(...values)-20)/50)*50,hi=Math.ceil((Math.max(...values)+20)/50)*50;
  const x=d=>pad.l+d/r.stats.distanceKm*(w-pad.l-pad.r),y=z=>h-pad.b-(z-lo)/(hi-lo)*(h-pad.t-pad.b);
  function paint(point){
- ctx.clearRect(0,0,w,h);ctx.font='11px Arial';ctx.lineWidth=1;
+ ctx.clearRect(0,0,w,h);ctx.font='11px '+getComputedStyle(root).fontFamily;ctx.lineWidth=1;
  for(let i=0;i<3;i++){const z=lo+(hi-lo)*i/2;ctx.strokeStyle='#42242618';ctx.beginPath();ctx.moveTo(pad.l,y(z));ctx.lineTo(w-pad.r,y(z));ctx.stroke();ctx.fillStyle='#775b51';ctx.textAlign='right';ctx.fillText(Math.round(z),pad.l-8,y(z)+4);}
  for(const series of r.profiles){if(series.length<2)continue;
  for(const section of r.lines){if(section.surface==='boat')continue;const from=Math.max(series[0][0],section.fromKm),to=Math.min(series.at(-1)[0],section.toKm);if(to<=from)continue;
@@ -67,12 +72,20 @@ function drawProfile(){
  function hover(e){const rect=canvas.getBoundingClientRect(),d=Math.max(0,Math.min(r.stats.distanceKm,((e.clientX-rect.left)*w/rect.width-pad.l)/(w-pad.l-pad.r)*r.stats.distanceKm));let best=null,delta=Infinity;for(const s of r.profiles)for(const p of s)if(Math.abs(p[0]-d)<delta){best=p;delta=Math.abs(p[0]-d);}if(!best)return;paint(best);$('fe-profile-info').textContent=num(best[0])+' km · '+num(best[1],0)+' moh.';hoverLayers.clearLayers();L.circleMarker([best[2],best[3]],{radius:6,color:'#fff',weight:2,fillColor:'#ca6b2a',fillOpacity:1}).addTo(hoverLayers);}
  canvas.onpointermove=hover;canvas.onclick=hover;
 }
-function selectRoute(id,fit=true){selected=D.routes.find(r=>r.id===id)||null;$('fe-route-select').value=selected?.id||'';$('fe-boat-legend').hidden=selected?.id!=='femund-rundt';drawRoutes();if(fit)fitCurrent();detail();drawProfile();$('fe-fit').textContent=selected?'Hele turen':'Alle rutene';if(fit)fitCurrent();}
-$('fe-route-select').innerHTML='<option value="">Alle sykkelrutene</option>'+D.routes.map(r=>`<option value="${esc(r.id)}">${r.number?esc(r.number)+' · ':''}${esc(r.title)}</option>`).join('');
+function selectRoute(id,fit=true){selected=D.routes.find(r=>r.id===id)||null;root.classList.toggle('fe-overview',!selected);map.invalidateSize();$('fe-route-select').value=selected?.id||'';$('fe-boat-legend').hidden=selected?.id!=='femund-rundt';drawRoutes();if(fit)fitCurrent();detail();drawProfile();$('fe-fit').textContent=selected?'Hele turen':'Alle rutene';if(fit)requestAnimationFrame(()=>{map.invalidateSize();fitCurrent();drawProfile();});}
+$('fe-route-select').innerHTML='<option value="">Alle sykkelrutene</option>'+D.routes.map(r=>`<option value="${esc(r.id)}">🔴 ${r.number?esc(r.number)+' · ':''}${esc(r.title)}</option>`).join('');
 $('fe-route-select').addEventListener('change',e=>selectRoute(e.target.value));$('fe-all-routes').addEventListener('click',()=>selectRoute(''));$('fe-fit').addEventListener('click',fitCurrent);
 $('fe-about').addEventListener('click',()=>{$('fe-source-info').hidden=!$('fe-source-info').hidden;});
 $('fe-topo').addEventListener('click',()=>{if(OFFLINE)return;map.removeLayer(normalTiles);base.addTo(map);currentMode='topo';$('fe-topo').setAttribute('aria-pressed','true');$('fe-osm').setAttribute('aria-pressed','false');});
 $('fe-osm').addEventListener('click',()=>{if(OFFLINE)return;map.removeLayer(base);normalTiles.addTo(map);currentMode='osm';$('fe-topo').setAttribute('aria-pressed','false');$('fe-osm').setAttribute('aria-pressed','true');});
+
+let pseudoFullscreen=false,previousOverflow='';
+function syncFullscreen(){const on=document.fullscreenElement===root||pseudoFullscreen;root.classList.toggle('fe-fullscreen',on);$('fe-fullscreen').textContent=on?'Avslutt fullskjerm':'Fullskjerm';$('fe-fullscreen').setAttribute('aria-pressed',String(on));requestAnimationFrame(()=>{map.invalidateSize();fitCurrent();drawProfile();});}
+$('fe-fullscreen').addEventListener('click',async()=>{if(document.fullscreenElement===root){await document.exitFullscreen();return;}if(pseudoFullscreen){pseudoFullscreen=false;document.body.style.overflow=previousOverflow;syncFullscreen();return;}try{if(!root.requestFullscreen)throw new Error('fallback');await root.requestFullscreen();}catch(e){previousOverflow=document.body.style.overflow;document.body.style.overflow='hidden';pseudoFullscreen=true;syncFullscreen();}});
+document.addEventListener('fullscreenchange',syncFullscreen);
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&pseudoFullscreen){pseudoFullscreen=false;document.body.style.overflow=previousOverflow;syncFullscreen();}});
+$('fe-services-all').addEventListener('click',()=>{const inputs=[...$('fe-service-filters').querySelectorAll('input')],show=!inputs.some(x=>x.checked);inputs.forEach(x=>{x.checked=show;show?enabledCategories.add(x.dataset.category):enabledCategories.delete(x.dataset.category);});drawPOIs();});
+
 new ResizeObserver(()=>{map.invalidateSize();drawProfile();}).observe($('fe-leaflet-map'));
 selectRoute('');
 window.FE_MAP_TEST={map,selectRoute,poiCount:D.pois.length,routeCount:D.routes.length,getSelected:()=>selected?.id,poiLayers};
