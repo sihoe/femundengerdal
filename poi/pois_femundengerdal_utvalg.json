@@ -1,0 +1,291 @@
+[
+  {
+    "id": "besokssenter-nasjonalpark-femundsmarka-og-gutulia-wp-5777",
+    "symbolType": "severdighet",
+    "texts": {
+      "no": {
+        "title": "Besøkssenter nasjonalpark Femundsmarka og Gutulia",
+        "description": "I den vesle grenda Elgå, i Engerdal kommune, ligger Besøkssenter Nasjonalpark – Femundsmarka og Gutulia."
+      }
+    },
+    "imageUrl": "https://femundengerdal.no/wp-content/uploads/2022/08/Besokssenteret_TomGustavsen.jpg",
+    "latlng": [
+      62.1655226,
+      11.9439917
+    ],
+    "locations": [
+      {
+        "name": "Besøkssenter nasjonalpark Femundsmarka og Gutulia",
+        "latlng": [
+          62.1655226,
+          11.9439917
+        ]
+      }
+    ],
+    "secondarySymbols": [],
+    "symbolLinks": {
+      "severdighet": "http://femundsmarkanasjonalpark.no/"
+    }
+  },
+  {
+    "id": "batsto-camping-wp-10616",
+    "symbolType": "telt",
+    "texts": {
+      "no": {
+        "title": "Båtstø Camping",
+        "description": "Hytter og camping ved Femunds bredd i Elgå. Et utgangspunkt for fiske, fjellturer og båttur inn i Femundsmarka."
+      }
+    },
+    "imageUrl": "https://femundengerdal.no/wp-content/uploads/2022/09/Batsto-camping_FemundEngerdal-f.jpg",
+    "latlng": [
+      62.170968,
+      11.938873
+    ],
+    "locations": [
+      {
+        "name": "Båtstø Camping",
+        "latlng": [
+          62.170968,
+          11.938873
+        ]
+      }
+    ],
+    "secondarySymbols": [],
+    "symbolLinks": {
+      "telt": "https://batstocamping.no/"
+    }
+  },
+  {
+    "id": "glotberget-gard-og-hytteutleie-wp-10569",
+    "symbolType": "hytte",
+    "texts": {
+      "no": {
+        "title": "Gløtberget Gård og hytteutleie",
+        "description": "Hytter ved Isteren med utsikt mot Sølen. Utleie av båt, kano og snøscooter, og gode muligheter for fiske og turer."
+      }
+    },
+    "imageUrl": "https://femundengerdal.no/wp-content/uploads/2022/09/glotberget-gard-hytteutleie_FemundEngerdal-1.jpg",
+    "latlng": [
+      61.9343365,
+      11.8296318
+    ],
+    "locations": [
+      {
+        "name": "Gløtberget Gård og hytteutleie",
+        "latlng": [
+          61.9343365,
+          11.8296318
+        ]
+      }
+    ],
+    "secondarySymbols": [],
+    "symbolLinks": {
+      "hytte": "http://glotberget.com/"
+    }
+  },
+  {
+    "id": "isterfossen-camp-fritid-wp-9546",
+    "symbolType": "telt",
+    "texts": {
+      "no": {
+        "title": "Isterfossen Camp & fritid",
+        "description": "En lun campingplass ved Isterfossen"
+      }
+    },
+    "imageUrl": "https://femundengerdal.no/wp-content/uploads/2022/09/Isterfossen-camp-fritid_FemundEngerdal-4.jpg",
+    "latlng": [
+      61.9079951,
+      11.7833329
+    ],
+    "locations": [
+      {
+        "name": "Isterfossen Camp & fritid",
+        "latlng": [
+          61.9079951,
+          11.7833329
+        ]
+      }
+    ],
+    "secondarySymbols": [],
+    "symbolLinks": {
+      "telt": "https://femundengerdal.no/sted/isterfossen-camp-fritid/"
+    }
+  },
+  {
+    "id": "naerbutikken-elga-peder-rosten-eftf-wp-9500",
+    "symbolType": "handlekurv",
+    "texts": {
+      "no": {
+        "title": "Nærbutikken Elgå / Peder Røsten Eftf.",
+        "description": "Dagligvarer, lokale matvarer, kaffekrok og drivstoff i Elgå. Her finner du også fiskekort og hytteutleie."
+      }
+    },
+    "imageUrl": "https://femundengerdal.no/wp-content/uploads/2022/09/Naerbutikken-elga_FemundEngerdal-f.jpg",
+    "latlng": [
+      62.16294,
+      11.9441373
+    ],
+    "locations": [
+      {
+        "name": "Nærbutikken Elgå / Peder Røsten Eftf.",
+        "latlng": [
+          62.16294,
+          11.9441373
+        ]
+      }
+    ],
+    "secondarySymbols": [],
+    "symbolLinks": {
+      "handlekurv": "http://narbutikken.no/Finn-butikk/Narbutikken-Elga"
+    }
+  },
+  {
+    "id": "ronningen-camp-og-hytter-wp-10389",
+    "symbolType": "telt",
+    "texts": {
+      "no": {
+        "title": "Rønningen Camp og hytter",
+        "description": "Helårscamping tett på naturen"
+      }
+    },
+    "imageUrl": "https://femundengerdal.no/wp-content/uploads/2022/09/Ronningen-camp-hytter_FemundEngerdal-4.jpeg",
+    "latlng": [
+      62.0504259,
+      11.6947455
+    ],
+    "locations": [
+      {
+        "name": "Rønningen Camp og hytter",
+        "latlng": [
+          62.0504259,
+          11.6947455
+        ]
+      }
+    ],
+    "secondarySymbols": [],
+    "symbolLinks": {
+      "telt": "https://femundengerdal.no/sted/ronningen-camp-og-hytter/"
+    }
+  },
+  {
+    "id": "svukuriset-turisthytte-wp-13832",
+    "symbolType": "seng",
+    "texts": {
+      "no": {
+        "title": "Svukuriset Turisthytte",
+        "description": "Turisthytte i Femundsmarka med rom, sovesal og servering. Utgangspunkt for vandring og naturopplevelser."
+      }
+    },
+    "imageUrl": "https://femundengerdal.no/wp-content/uploads/2024/01/Svkuriset-hovedhus-sommer.png",
+    "latlng": [
+      62.2215049,
+      12.0149324
+    ],
+    "locations": [
+      {
+        "name": "Svukuriset Turisthytte",
+        "latlng": [
+          62.2215049,
+          12.0149324
+        ]
+      }
+    ],
+    "secondarySymbols": [],
+    "symbolLinks": {
+      "seng": "https://www.dnt.no/hytter/betjente/svukuriset/"
+    }
+  },
+  {
+    "id": "engerdal-taxi-wp-15619",
+    "symbolType": "taxi",
+    "texts": {
+      "no": {
+        "title": "Trysil Taxi as avd Engerdal",
+        "description": "Brødrene Jon Rohnny og Per Gjermund Talaasen kjører dere helt til døren."
+      }
+    },
+    "imageUrl": "https://femundengerdal.no/wp-content/uploads/2026/03/taxiengerdal.jpg",
+    "latlng": [
+      61.7587874,
+      11.9603063
+    ],
+    "locations": [
+      {
+        "name": "Trysil Taxi as avd Engerdal",
+        "latlng": [
+          61.7587874,
+          11.9603063
+        ]
+      }
+    ],
+    "secondarySymbols": [],
+    "symbolLinks": {
+      "taxi": "https://www.taxi03650.no/?utm_source=google&utm_medium=MinBedrift&utm_campaign=Trysil"
+    }
+  },
+  {
+    "id": "valdalen-gard-servering-wp-9450",
+    "symbolType": "hytte",
+    "texts": {
+      "no": {
+        "title": "Valdalen Gård",
+        "description": "Servering på fjellgård mellom Femundsmarka og Gutulia, med hjemmelaget mat, vilt og fisk. Bestilling på forhånd."
+      }
+    },
+    "imageUrl": "https://femundengerdal.no/wp-content/uploads/2022/09/Valdalen-Gard-1.jpeg",
+    "latlng": [
+      62.076143,
+      12.1718957
+    ],
+    "locations": [
+      {
+        "name": "Valdalen Gård",
+        "latlng": [
+          62.076143,
+          12.1718957
+        ]
+      }
+    ],
+    "secondarySymbols": [
+      "butikk",
+      "lokalmat",
+      "bestikk",
+      "seng",
+      "teleskop"
+    ],
+    "symbolLinks": {
+      "hytte": "http://valdalen.no/",
+      "butikk": "http://valdalen.no/",
+      "lokalmat": "http://valdalen.no/",
+      "bestikk": "http://valdalen.no/",
+      "seng": "http://valdalen.no/",
+      "teleskop": "http://valdalen.no/"
+    }
+  },
+  {
+    "id": "custom-e918fc8c-7b41-42c2-91ad-ea39ab00aad1",
+    "latlng": [
+      61.757124,
+      11.961021
+    ],
+    "symbolType": "marker",
+    "imageUrl": "",
+    "texts": {
+      "no": {
+        "title": "Destinasjon Femund Engerdal",
+        "description": ""
+      }
+    },
+    "locations": [
+      {
+        "name": "Destinasjon Femund Engerdal",
+        "latlng": [
+          61.757124,
+          11.961021
+        ]
+      }
+    ],
+    "secondarySymbols": [],
+    "symbolLinks": {}
+  }
+]
