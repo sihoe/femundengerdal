@@ -320,5 +320,27 @@
         "hytte"
       ]
     }
+  ],
+  "mode": "all-except-excluded",
+  "excludedIds": [
+    "galten-gard-wp-9442",
+    "femund-glamping-wp-9539",
+    "femundlopet-wp-11573",
+    "femundtunet-servering-wp-9427",
+    "heme-dine-wp-11773",
+    "johnsgard-turistsenter-wp-10623",
+    "sparebank1-ostlandet-wp-11315",
+    "valdalen-gard-wp-10115",
+    "dnt-engerdal-og-trysil-wp-11312",
+    "engerdalsdagene-wp-11801",
+    "fjell-bia-wp-11440",
+    "spire-kommunikasjon-wp-11385",
+    "kopparleden-teaterlag-wp-11757",
+    "opsis-print-og-profil-wp-11364",
+    "solheim-hyttegrend-wp-8273",
+    "okorad-engerdal-wp-11406",
+    "fagmobler-trysil-wp-8147",
+    "trysil-bilberging-wp-15544",
+    "trysil-vask-og-rens-wp-8071"
   ]
 }
